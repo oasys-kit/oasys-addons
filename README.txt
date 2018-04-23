@@ -1,6 +1,6 @@
-ORANGE ADD-ON LISTS
+OASYS ADD-ON LISTS
 
-Orange3 allows installation of add-ons from the add-on dialog, which
+OASYS allows installation of add-ons from the add-on dialog, which
 is populated by add-ons from OFFICIAL_ADDONS.txt.
 
 The script generate.py generates a file named "list", which contains
