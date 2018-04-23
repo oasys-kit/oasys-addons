@@ -1,0 +1,1665 @@
+[
+    {
+        "info": {
+            "author": "Luca Rebuffi, Manuel Sanchez del Rio and Bioinformatics Laboratory, FRI UL",
+            "author_email": "luca.rebuffi@elettra.eu",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 5 - Production/Stable",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Science/Research",
+                "Programming Language :: Python :: 3"
+            ],
+            "description": "ShadowOui (Shadow3 Oasys User Interface) is an Oasys add-on package to be installed via the add-on manager tool.\n\nIt contains the Shadow 3 ray-tracing simulation software integrated into the Oasys environment.",
+            "docs_url": null,
+            "download_url": "http://github.com/lucarebuffi/ShadowOui",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "http://github.com/lucarebuffi/ShadowOui",
+            "keywords": "ray-tracing,simulator,oasys1",
+            "license": "GPLv3",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "OASYS1-ShadowOui",
+            "package_url": "https://pypi.org/project/OASYS1-ShadowOui/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/OASYS1-ShadowOui/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.4.46/",
+            "requires_dist": null,
+            "requires_python": "",
+            "summary": "Shadow, Ray-tracing simulation software",
+            "version": "1.4.46"
+        },
+        "last_serial": 3762499,
+        "releases": {
+            "1.4.10": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c021841322cb515112425ec6e4d98d67",
+                        "sha256": "5d0feff31c29979d1d55a640e5aa1857e5d7e30cd794f8513514fe676e909838"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.10.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c021841322cb515112425ec6e4d98d67",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3619754,
+                    "upload_time": "2017-06-07T13:27:12",
+                    "url": "https://files.pythonhosted.org/packages/0c/53/d073bdc54e242de48b9cdc8cafe3915da43d426318f7d7a859bd3434d277/OASYS1-ShadowOui-1.4.10.tar.gz"
+                }
+            ],
+            "1.4.11": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "b0f2138626c36865797e37204ef92ef0",
+                        "sha256": "b6186b0d2e9d7566c5a48c74d2166a56a75dac0c635a7263f2cc7fad170aceca"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.11.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "b0f2138626c36865797e37204ef92ef0",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3619718,
+                    "upload_time": "2017-06-07T13:29:15",
+                    "url": "https://files.pythonhosted.org/packages/bd/ee/8efe649e84e7dab663d590e5e678115df9aec3d03967d41b352f846f3d05/OASYS1-ShadowOui-1.4.11.tar.gz"
+                }
+            ],
+            "1.4.12": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "17e21be6f8af557b5b8c2672c90e96e9",
+                        "sha256": "187ca2504c51d7dbd6785d7198c2d29dcc673f098a47b8578780fb7dd6ba31da"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.12.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "17e21be6f8af557b5b8c2672c90e96e9",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3619702,
+                    "upload_time": "2017-06-08T11:18:11",
+                    "url": "https://files.pythonhosted.org/packages/43/f4/87b336350fc9a5ab223a774dcf405cc47f476faf8f03229501e269e74fa0/OASYS1-ShadowOui-1.4.12.tar.gz"
+                }
+            ],
+            "1.4.13": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "1477a9b2ab9c71b4f79fa4afa286b4b8",
+                        "sha256": "eb4dcb5c060051788f1f91ef3e93cbef14126c10c81b85c2b2b2efc67bc847fd"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.13.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "1477a9b2ab9c71b4f79fa4afa286b4b8",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3620103,
+                    "upload_time": "2017-06-08T11:26:39",
+                    "url": "https://files.pythonhosted.org/packages/0d/fa/a19122db211b49fb06d3af6d1ab782906f2a8325d71b98a28ad6806e8c84/OASYS1-ShadowOui-1.4.13.tar.gz"
+                }
+            ],
+            "1.4.14": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "b92662ef64a7013ff4e86a3fe6512af1",
+                        "sha256": "b520efa5032203622e9e5b313c375d5553d6a4c89254eec2d6a894e881ce3915"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.14.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "b92662ef64a7013ff4e86a3fe6512af1",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3620060,
+                    "upload_time": "2017-06-09T10:16:52",
+                    "url": "https://files.pythonhosted.org/packages/d5/16/c0103d884e5464e68c38a39f34f542297a2e7a7d3896fa2537da3b4254d4/OASYS1-ShadowOui-1.4.14.tar.gz"
+                }
+            ],
+            "1.4.17": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c42e49f54786a4e456c88a22c9947288",
+                        "sha256": "e1200df4b85561be28c882f02d911d358054c53f026ffd5a5d7a84b8c1f0424a"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.17.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c42e49f54786a4e456c88a22c9947288",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3655862,
+                    "upload_time": "2017-06-14T13:29:48",
+                    "url": "https://files.pythonhosted.org/packages/30/03/52d1515e75e16bb21758c5c1a014d1d2c455ad2d0680654acb6eeae7bb57/OASYS1-ShadowOui-1.4.17.tar.gz"
+                }
+            ],
+            "1.4.18": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "4054c3ec0037cea5b5cbc9d5d14ad3c0",
+                        "sha256": "b9ab0d0a6c7e21fb55822d50eddb944f987bb4ab37945de910fb3bcb066099bf"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.18.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "4054c3ec0037cea5b5cbc9d5d14ad3c0",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3655905,
+                    "upload_time": "2017-06-16T20:18:19",
+                    "url": "https://files.pythonhosted.org/packages/eb/53/d6db67a982ae1b17db7aff47e658ab555d835a5afca99d8d06902230d34f/OASYS1-ShadowOui-1.4.18.tar.gz"
+                }
+            ],
+            "1.4.19": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "3afab0e21a3dd63353e2fde21f5eddb4",
+                        "sha256": "874b8f147ab576b0daea00f7626e862bc76df4513c1597f11764204b14dd2e25"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.19.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "3afab0e21a3dd63353e2fde21f5eddb4",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2917916,
+                    "upload_time": "2017-06-27T13:46:21",
+                    "url": "https://files.pythonhosted.org/packages/a3/84/0b6478827bd65ccaf3aefd51b0de2c6ba26b765dd3b49b1b9fe67df616da/OASYS1-ShadowOui-1.4.19.tar.gz"
+                }
+            ],
+            "1.4.21": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "2003aef4a32af0f779e0634db11ebf42",
+                        "sha256": "5748a896f2695119fcd2b4325b5f65e32c1505ae5afcb4200761e55eff06164f"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.21.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "2003aef4a32af0f779e0634db11ebf42",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2917888,
+                    "upload_time": "2017-06-30T10:55:25",
+                    "url": "https://files.pythonhosted.org/packages/96/96/fcad78745775a492c7ec9268a7ffaca92b8f2b6c3768336fd92f0e450857/OASYS1-ShadowOui-1.4.21.tar.gz"
+                }
+            ],
+            "1.4.22": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c6f989dc478fc88c9df4a4fa8f01be35",
+                        "sha256": "c8ef6db5dfc1d837dda19ff0080e43dfdfff9086ff1982cb47e3ca6c50936436"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.22.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c6f989dc478fc88c9df4a4fa8f01be35",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2920430,
+                    "upload_time": "2017-07-03T08:15:05",
+                    "url": "https://files.pythonhosted.org/packages/1c/7c/79bbecbc25922c2ef1a0e7c0e82ee69fc736e5df683c4538d3b82a1d17ec/OASYS1-ShadowOui-1.4.22.tar.gz"
+                }
+            ],
+            "1.4.23": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "3ad8778f118f4a11ba536f2af1717d7e",
+                        "sha256": "e387ddb47da83125c4208709c1939910de73c3bd2cc7c28d3af5e52c611c4c9b"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.23.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "3ad8778f118f4a11ba536f2af1717d7e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2918050,
+                    "upload_time": "2017-07-04T12:12:43",
+                    "url": "https://files.pythonhosted.org/packages/4a/72/61ae8dcc6b4caf20d696ac71c17fcbe4b6a75699150ab4584d6294039e86/OASYS1-ShadowOui-1.4.23.tar.gz"
+                }
+            ],
+            "1.4.24": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "4247820b66ef4ae2336a1726b43a6bfe",
+                        "sha256": "7ea7243ede02c5b1c5cef5551937860ac4af367b5510b34c40119df4183f5428"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.24.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "4247820b66ef4ae2336a1726b43a6bfe",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978176,
+                    "upload_time": "2017-07-12T16:59:19",
+                    "url": "https://files.pythonhosted.org/packages/c4/77/44291adc21b3a57c4e3b1be97715e4bee40399ced8959248235b7db58dcf/OASYS1-ShadowOui-1.4.24.tar.gz"
+                }
+            ],
+            "1.4.25": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "14fa8a1ea5c5a4d03445f51ac65619fd",
+                        "sha256": "3a85e3c6644ef3ef37e9a51c4cd880534c0e76259c3a39a4cfcfa4d9c8575e29"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.25.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "14fa8a1ea5c5a4d03445f51ac65619fd",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978203,
+                    "upload_time": "2017-07-12T17:16:25",
+                    "url": "https://files.pythonhosted.org/packages/8b/15/fb0ea9f877a4ad954c68adb8420e14d7db0bb1c993656e46cce5e3a2c11b/OASYS1-ShadowOui-1.4.25.tar.gz"
+                }
+            ],
+            "1.4.26": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "80d5e756a9c7b0ad041d5ee8508944a4",
+                        "sha256": "fe32cd36d6eee2e001f839f26bc6c18ed6a7fdcfa0d0a3bc53ea93e604a39de6"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.26.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "80d5e756a9c7b0ad041d5ee8508944a4",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978226,
+                    "upload_time": "2017-07-12T17:30:29",
+                    "url": "https://files.pythonhosted.org/packages/82/4e/35ed29799f72ff621b16cf7a9baa5d7cb804bf899aa9c3f2afe56d2577ac/OASYS1-ShadowOui-1.4.26.tar.gz"
+                }
+            ],
+            "1.4.27": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "75780b27d03326c0fc3ddad44499c603",
+                        "sha256": "19f9814bf53f68f08705ab99f61f87e3c946e0ee60b87161fea2946441433f82"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.27.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "75780b27d03326c0fc3ddad44499c603",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978217,
+                    "upload_time": "2017-07-13T09:42:23",
+                    "url": "https://files.pythonhosted.org/packages/00/99/b5a202edcf5261bdfbde4a0f3d35a1f8d24ed76a4c15472c3bfda182034a/OASYS1-ShadowOui-1.4.27.tar.gz"
+                }
+            ],
+            "1.4.28": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "5f6e5438eac8b9620c86bd2c6bc3316f",
+                        "sha256": "aac862cecbe2420822bd07557927486598480553c7b918e73e14a8b1840294e6"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.28.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "5f6e5438eac8b9620c86bd2c6bc3316f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2981740,
+                    "upload_time": "2017-08-11T00:30:55",
+                    "url": "https://files.pythonhosted.org/packages/db/e3/1be868fff6d4fe5ccdae5360ced70d516321edb28c6e277da83c0e89af07/OASYS1-ShadowOui-1.4.28.tar.gz"
+                }
+            ],
+            "1.4.29": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "98b79719be50b0eb2f25b2abb077bf4f",
+                        "sha256": "882bcd865eaf631ede193b55d6bb0b0e72fbd654bf7ac3b19fa7ff12f2820671"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.29.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "98b79719be50b0eb2f25b2abb077bf4f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978899,
+                    "upload_time": "2017-08-30T13:14:55",
+                    "url": "https://files.pythonhosted.org/packages/05/23/c43e80f9f3008881064c4876c6e36e32938b6e95b510a1f07c1b7290fc56/OASYS1-ShadowOui-1.4.29.tar.gz"
+                }
+            ],
+            "1.4.3": [],
+            "1.4.30": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "562a56db964c5f754e9f77af1e2f3d04",
+                        "sha256": "6d976fa87ed47a2ece7ad9d327e52649499fbb87e2b0432240f652f14a9c9c52"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.30.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "562a56db964c5f754e9f77af1e2f3d04",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2978873,
+                    "upload_time": "2017-08-30T13:31:32",
+                    "url": "https://files.pythonhosted.org/packages/43/b2/13296ce89f15d182919aeb2e7737b47f0c35e3fd25d25f0355d00977bd04/OASYS1-ShadowOui-1.4.30.tar.gz"
+                }
+            ],
+            "1.4.31": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "4e01c14fb3a9c278b543fd463e366fde",
+                        "sha256": "9b8f98f3199222596b81d5532582e44d6d6e4802113b59a98e77cb56c8594fc5"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.31.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "4e01c14fb3a9c278b543fd463e366fde",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3013466,
+                    "upload_time": "2017-09-25T09:37:47",
+                    "url": "https://files.pythonhosted.org/packages/eb/d2/0db7a0557effe520904951bc394fe302ce58402502b8dc3f2a21e29dab04/OASYS1-ShadowOui-1.4.31.tar.gz"
+                }
+            ],
+            "1.4.32": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c71d0cefae29b79ff42c7c217a05fc73",
+                        "sha256": "8e165938d63e49a67be518bdcc189e33536ce08022549d693e62b5d52b44e40f"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.32.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c71d0cefae29b79ff42c7c217a05fc73",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3013451,
+                    "upload_time": "2017-09-25T10:00:23",
+                    "url": "https://files.pythonhosted.org/packages/29/b7/122dbd43a996a01d9835666c358f659e3c568bedb45477b76e256656cb51/OASYS1-ShadowOui-1.4.32.tar.gz"
+                }
+            ],
+            "1.4.33": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "92d132622c191dcd9858d8d7e6338a6c",
+                        "sha256": "ed271861013352a8d6c1dc7143b76bf37cab8b070fe305287b3570f2915a7eb3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.33.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "92d132622c191dcd9858d8d7e6338a6c",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3013498,
+                    "upload_time": "2017-09-27T07:49:50",
+                    "url": "https://files.pythonhosted.org/packages/42/41/4fc303fb1f848e0fbbc8144fc7e148afa06e45b485791488701a7944d75d/OASYS1-ShadowOui-1.4.33.tar.gz"
+                }
+            ],
+            "1.4.34": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "e4a030a101c8cb75ac6079fac9a02c17",
+                        "sha256": "46f1b272a501c59e0feb7188191e6b02bdc7efd0a969de3d6004df9948c0edd3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.34.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "e4a030a101c8cb75ac6079fac9a02c17",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3013406,
+                    "upload_time": "2017-11-07T10:59:01",
+                    "url": "https://files.pythonhosted.org/packages/a9/40/e4dec07db46eb54140bf1f7153a3acc0d6506092f82ddf5ab861b680441b/OASYS1-ShadowOui-1.4.34.tar.gz"
+                }
+            ],
+            "1.4.36": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "ae5de3a8a3de78c0a36bcd3e5d774288",
+                        "sha256": "c53087c17d1c21d5b2bf982eaaf23ce4bd2deb358dd9724fb5ea0f7f28b8bd77"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.36.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "ae5de3a8a3de78c0a36bcd3e5d774288",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3010663,
+                    "upload_time": "2017-11-13T13:34:00",
+                    "url": "https://files.pythonhosted.org/packages/e0/0d/07aacd7bc98d4282e3b04872be6827c0ed6f38ce27f2ca33b6375601fbb8/OASYS1-ShadowOui-1.4.36.tar.gz"
+                }
+            ],
+            "1.4.38": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "630d943d7e7ed661f20a9be861876839",
+                        "sha256": "bbba712961f984dafcadaa3350cb8626b0b89fd6f6e2eb866a19299a9b1516db"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.38.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "630d943d7e7ed661f20a9be861876839",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3010908,
+                    "upload_time": "2017-11-17T14:46:47",
+                    "url": "https://files.pythonhosted.org/packages/5b/b6/3d81093d7d9bb10237c5e4a88ff6ec5787fa873eea053f2094b78eb38710/OASYS1-ShadowOui-1.4.38.tar.gz"
+                }
+            ],
+            "1.4.39": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "a53903522da0e2225e67337eefb9651a",
+                        "sha256": "a26225df45abbab894beff31a573e0e6f3c2a6ee73ec2eddff61e3a2f81f6ffd"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.39.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "a53903522da0e2225e67337eefb9651a",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3054738,
+                    "upload_time": "2017-11-17T16:05:46",
+                    "url": "https://files.pythonhosted.org/packages/b9/f8/d957876ec2daff4a444e7f8988fa06c35c29c1ed129e662b89eb7de64577/OASYS1-ShadowOui-1.4.39.tar.gz"
+                }
+            ],
+            "1.4.4": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "9234d882209a833cea70a9615a039351",
+                        "sha256": "1dcb6065b4a3eb5e8ed70ccec1e4c600ea3f084098e671735f3de8bdb4dd5668"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.4.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "9234d882209a833cea70a9615a039351",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2705530,
+                    "upload_time": "2017-05-17T12:57:30",
+                    "url": "https://files.pythonhosted.org/packages/ec/d6/79b77205f7029fa3c682448a474dbbba408ccf0741a20a4fd4f06c1df24e/OASYS1-ShadowOui-1.4.4.tar.gz"
+                }
+            ],
+            "1.4.41": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "b6f1e635257bbaa6a0d85a946d80efbd",
+                        "sha256": "2fdd69d6e9de55588dbd09e2199dd99b2cfb0de9ea590c2fd616a8e6ca8aad94"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.41.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "b6f1e635257bbaa6a0d85a946d80efbd",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3059964,
+                    "upload_time": "2018-04-09T14:07:06",
+                    "url": "https://files.pythonhosted.org/packages/ef/f5/6ffa9e77926331345c14acbc1f7521ab72f97ffaca2855893066209ded61/OASYS1-ShadowOui-1.4.41.tar.gz"
+                }
+            ],
+            "1.4.42": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "5c72e02247d632cfe22a0b2b9207d8b3",
+                        "sha256": "7b7c3c9a87d30dbaaa019fb49f1caf289e38cd648b97a0bf9193fd2db90446f5"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.42.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "5c72e02247d632cfe22a0b2b9207d8b3",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3059956,
+                    "upload_time": "2018-04-09T14:22:22",
+                    "url": "https://files.pythonhosted.org/packages/83/73/7918042e707e6d730eafa5af50081ba09d4248bf8b9175bd2560bdd69780/OASYS1-ShadowOui-1.4.42.tar.gz"
+                }
+            ],
+            "1.4.43": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "ec66725d30afb8ebc4151f5e6910dfa1",
+                        "sha256": "9c7188ccf12728ec0647085be90ded8b1c96988538a1fd6824e28120a2624ce3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.43.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "ec66725d30afb8ebc4151f5e6910dfa1",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3117820,
+                    "upload_time": "2018-04-10T09:15:49",
+                    "url": "https://files.pythonhosted.org/packages/fe/f7/9476dc5a7b9ad73323f17cf847bd3bbba80939ef1cbe94256b562a72dc1f/OASYS1-ShadowOui-1.4.43.tar.gz"
+                }
+            ],
+            "1.4.44": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "1e52749e3d3a544ec5da8dbc4b285f4e",
+                        "sha256": "d4fce2f72bcea3433ee432532319bb31ba726096e4b2036e209a42a11df51b9e"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.44.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "1e52749e3d3a544ec5da8dbc4b285f4e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3117794,
+                    "upload_time": "2018-04-12T21:56:29",
+                    "url": "https://files.pythonhosted.org/packages/dc/5e/acc2e6b35bc8a08b0000dbfaaca86f6355e0470bc8af4f42fb784989b8ce/OASYS1-ShadowOui-1.4.44.tar.gz"
+                }
+            ],
+            "1.4.45": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c1c4a5ca47ed585f35fb076d6695b9f5",
+                        "sha256": "cf614654bbb642865b3d26907ab6d30bcb0a0f8d99a1070983a56ba2c7fcba92"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.45.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c1c4a5ca47ed585f35fb076d6695b9f5",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2988737,
+                    "upload_time": "2018-04-13T08:48:31",
+                    "url": "https://files.pythonhosted.org/packages/9a/e0/146024a0887ab213a86fe78d7d355a9655c59b589686a66db5be60d253b4/OASYS1-ShadowOui-1.4.45.tar.gz"
+                }
+            ],
+            "1.4.46": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "77b3682ebe4dd1d0210da2492755d951",
+                        "sha256": "99595481a42a74cb5f1aa879c8fe6d1e1161d8d49ba4c22d1238c25f59520dbe"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.46.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "77b3682ebe4dd1d0210da2492755d951",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2988757,
+                    "upload_time": "2018-04-13T16:41:47",
+                    "url": "https://files.pythonhosted.org/packages/0d/d9/7e5dccd85d81e2ebd3dfbefffe7cf3071657a746ce8e355e29c48a2c619f/OASYS1-ShadowOui-1.4.46.tar.gz"
+                }
+            ],
+            "1.4.5": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "818db34f5f770f9392a696554016a789",
+                        "sha256": "f730cf243c704ca06ee9d34533dcb7afef2a834716d5ab6d411aeb1c298c42f5"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.5.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "818db34f5f770f9392a696554016a789",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2705558,
+                    "upload_time": "2017-05-17T15:05:04",
+                    "url": "https://files.pythonhosted.org/packages/76/32/28dd90ef356cc4757ff50e42c7150f7b7c3feb0ca88f1ce6f51d06694f7a/OASYS1-ShadowOui-1.4.5.tar.gz"
+                }
+            ],
+            "1.4.6": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "0f7fe5e511223904b460ed460f2015cb",
+                        "sha256": "0404679f51d8fbe2c10cfa7bc7ed1d606236ec19d9a76595c61ef107ba7a7421"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.6.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "0f7fe5e511223904b460ed460f2015cb",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2705536,
+                    "upload_time": "2017-05-24T14:19:51",
+                    "url": "https://files.pythonhosted.org/packages/5a/6c/dace6ed9c6a704cf006a0cd4bef64be2a2e1886332fc4fba067b0914e046/OASYS1-ShadowOui-1.4.6.tar.gz"
+                }
+            ],
+            "1.4.7": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "682ee5744b64f12a2f71b9648ce10a98",
+                        "sha256": "21edc7cb2fbf5707e8981c6083dd3a3df3cb38845535ac741f7ec4b9b53c1be3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.7.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "682ee5744b64f12a2f71b9648ce10a98",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2705523,
+                    "upload_time": "2017-05-25T17:31:27",
+                    "url": "https://files.pythonhosted.org/packages/2d/3e/6ec389d1affd84566ad35d3fe986239eb90b7b9d1cf9f5682fdcf8da34d1/OASYS1-ShadowOui-1.4.7.tar.gz"
+                }
+            ],
+            "1.4.8": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "bd4c33ed8fa7de010b5b8554c6e51d74",
+                        "sha256": "3b669ec79af3f2c1a1a6cf753eef7f3200306e02b13626481bcc4ba668ab4ce1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.8.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "bd4c33ed8fa7de010b5b8554c6e51d74",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3224727,
+                    "upload_time": "2017-05-31T16:39:30",
+                    "url": "https://files.pythonhosted.org/packages/37/16/ad4fa58cbcaf69ebc1a2b55829d9d28216961bea160e91124435eab1f377/OASYS1-ShadowOui-1.4.8.tar.gz"
+                }
+            ],
+            "1.4.9": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "00f376b1f7b48e150aaf557f34f8bc3a",
+                        "sha256": "25eee688932a0c8c065e93438a9a762c6d77273b4b2cba733f3a3cb4d05be7fc"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.9.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "00f376b1f7b48e150aaf557f34f8bc3a",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 3619156,
+                    "upload_time": "2017-06-03T11:38:48",
+                    "url": "https://files.pythonhosted.org/packages/9c/87/0a4232cdd2c01c0e924a3e9161dff91156fc4e181681c39683b8d681731b/OASYS1-ShadowOui-1.4.9.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "77b3682ebe4dd1d0210da2492755d951",
+                    "sha256": "99595481a42a74cb5f1aa879c8fe6d1e1161d8d49ba4c22d1238c25f59520dbe"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-ShadowOui-1.4.46.tar.gz",
+                "has_sig": false,
+                "md5_digest": "77b3682ebe4dd1d0210da2492755d951",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "size": 2988757,
+                "upload_time": "2018-04-13T16:41:47",
+                "url": "https://files.pythonhosted.org/packages/0d/d9/7e5dccd85d81e2ebd3dfbefffe7cf3071657a746ce8e355e29c48a2c619f/OASYS1-ShadowOui-1.4.46.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Manuel Sanchez del Rio, Luca Rebuffi, and Bioinformatics Laboratory, FRI UL",
+            "author_email": "srio@esrf.eu, luca.rebuffi@elettra.eu",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 5 - Production/Stable",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Science/Research",
+                "Programming Language :: Python :: 3"
+            ],
+            "description": "This is the project for XOPPY (XOP under python3) under OASYS",
+            "docs_url": null,
+            "download_url": "https://github.com/srio/Orange-XOPPY",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/srio/Orange-XOPPY",
+            "keywords": "X-ray optics,simulator,oasys1",
+            "license": "GPLv3",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "OASYS1-XOPPY",
+            "package_url": "https://pypi.org/project/OASYS1-XOPPY/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/OASYS1-XOPPY/",
+            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.33/",
+            "requires_dist": null,
+            "requires_python": "",
+            "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
+            "version": "1.0.33"
+        },
+        "last_serial": 3360942,
+        "releases": {
+            "1.0.16": [],
+            "1.0.17": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "9a083cbbd64de39c9fa474b7fa1655eb",
+                        "sha256": "fb21319f4c06037751f061bf06f873e7cb76460959b4f1a4e466b84e30be63f3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.17.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "9a083cbbd64de39c9fa474b7fa1655eb",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356037,
+                    "upload_time": "2017-05-17T12:58:02",
+                    "url": "https://files.pythonhosted.org/packages/72/7b/05987f274ea96694c4c04e83bd63447b3b8e1e027a307ed99869aac42a30/OASYS1-XOPPY-1.0.17.tar.gz"
+                }
+            ],
+            "1.0.18": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c7dfb4b3a4ac52923dcdf83cd4f20fb3",
+                        "sha256": "b03712cf42fdb11729e799c00a2f9745b0fb48b534bc52695e912ac1a82842a4"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.18.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c7dfb4b3a4ac52923dcdf83cd4f20fb3",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356052,
+                    "upload_time": "2017-05-17T15:43:09",
+                    "url": "https://files.pythonhosted.org/packages/6a/65/ae5cc442e1220ad041eba770a0909a0b4d6da3095bf4deca2ea0b3bffd6a/OASYS1-XOPPY-1.0.18.tar.gz"
+                }
+            ],
+            "1.0.19": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "45d1c714126e4aba5c2798f9690f0e1d",
+                        "sha256": "6fc69e92443d6e0309f8af38f1842a42e4a5102843eccf63ddf4a9f3716e2332"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.19.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "45d1c714126e4aba5c2798f9690f0e1d",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356022,
+                    "upload_time": "2017-05-24T14:21:41",
+                    "url": "https://files.pythonhosted.org/packages/a1/2d/13184ef2b034396aaa93b27b756745ef231161ecdca3714192f2670b088d/OASYS1-XOPPY-1.0.19.tar.gz"
+                }
+            ],
+            "1.0.20": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "9e1b9b1eca84e4a0e1b19eff5e5fc873",
+                        "sha256": "9cdada8119771459d035502a0c12d758e72d656397cbea4649864da6b5e3e562"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.20.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "9e1b9b1eca84e4a0e1b19eff5e5fc873",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356048,
+                    "upload_time": "2017-05-31T16:41:29",
+                    "url": "https://files.pythonhosted.org/packages/6c/c3/c090d7590921529275b70c5bb9f8436c73bce45eee003eaebd321b2d0a81/OASYS1-XOPPY-1.0.20.tar.gz"
+                }
+            ],
+            "1.0.21": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "a4a7a57346c76e2dbd2bd99eaa5d0be6",
+                        "sha256": "e2186304a6f05d29ddbd47b8acfc0303e45ac1e5e25a6cbd922b8cbc168f72de"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.21.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "a4a7a57346c76e2dbd2bd99eaa5d0be6",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356106,
+                    "upload_time": "2017-06-15T17:35:19",
+                    "url": "https://files.pythonhosted.org/packages/79/a9/105276937ba439462eec323b6119a1b7425fc9e4519681bb1af02df3c83c/OASYS1-XOPPY-1.0.21.tar.gz"
+                }
+            ],
+            "1.0.22": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fd29c24e40e5f754459dfd92c8bb7390",
+                        "sha256": "ef3883045804a41dde8e41354f79b756f7d955eaf5a8dec035af24068c1c84c1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.22.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fd29c24e40e5f754459dfd92c8bb7390",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356087,
+                    "upload_time": "2017-06-16T14:31:23",
+                    "url": "https://files.pythonhosted.org/packages/53/8d/942fe534c60cc37ed2b9722c58250d9a5e9ac3fbc1bffedb07542bfa1c44/OASYS1-XOPPY-1.0.22.tar.gz"
+                }
+            ],
+            "1.0.23": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "44ed13bdf108345d6f9c1102cd5c253a",
+                        "sha256": "c84a3eecbf23665ca731dc6cb49f096c215f90dd908beaf2c86a8a6fdb084496"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.23.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "44ed13bdf108345d6f9c1102cd5c253a",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356110,
+                    "upload_time": "2017-06-16T20:19:33",
+                    "url": "https://files.pythonhosted.org/packages/d8/d3/09a8d2eff305037b3c82d4ee8eb48e63b953756e40f175324cfb63f88260/OASYS1-XOPPY-1.0.23.tar.gz"
+                }
+            ],
+            "1.0.24": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "60b333c11016a907e5f0ac72c86096af",
+                        "sha256": "6dc711d8d3a5f461dc32d13cbf1dc3c0ae1894b68919157686f4d2e68d646b73"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.24.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "60b333c11016a907e5f0ac72c86096af",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356072,
+                    "upload_time": "2017-07-03T08:52:03",
+                    "url": "https://files.pythonhosted.org/packages/16/ae/d7c2f691e7fddd3a5612e9116385b8551d6742ce210d7dce1579e6c58f2c/OASYS1-XOPPY-1.0.24.tar.gz"
+                }
+            ],
+            "1.0.25": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "75b0738121140f1b2db2d0a865f928da",
+                        "sha256": "a8ac36702421930f0d59d7bf4914799eebefd1d0d6032239824b2f2710ef6bea"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.25.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "75b0738121140f1b2db2d0a865f928da",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10356263,
+                    "upload_time": "2017-07-04T12:22:10",
+                    "url": "https://files.pythonhosted.org/packages/f8/bf/f798fc19b2d413a853eabf97a62deae74482583acc9a8ae05f96708cdc1b/OASYS1-XOPPY-1.0.25.tar.gz"
+                }
+            ],
+            "1.0.26": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fb9edd7519680d951d0d754efb59d586",
+                        "sha256": "0ed74d868d2c4e22b0cfa8a1fdf9f8b8d740e4a8b2de78e04eca3bcf3ab0dfa1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.26.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fb9edd7519680d951d0d754efb59d586",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10357297,
+                    "upload_time": "2017-07-31T15:20:11",
+                    "url": "https://files.pythonhosted.org/packages/87/11/25a0e2bcd8e40024c92a7e9ade164218bbe6056d95bb42170ffaf4faa978/OASYS1-XOPPY-1.0.26.tar.gz"
+                }
+            ],
+            "1.0.27": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "bf3dbef295bc6161554ebb688288a268",
+                        "sha256": "a4b86f05980de94a59c911534174d298792d4519caf38b88ff429a89324a30a1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.27.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "bf3dbef295bc6161554ebb688288a268",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10357321,
+                    "upload_time": "2017-08-01T14:18:51",
+                    "url": "https://files.pythonhosted.org/packages/1f/ff/39e56937932800c7cd46ef47309fb6052d33c063e543f55160a07b3ea72e/OASYS1-XOPPY-1.0.27.tar.gz"
+                }
+            ],
+            "1.0.28": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "61326859a95032d62f80c3dd1a24b2b6",
+                        "sha256": "9926f235672520ddb1b4c46a22d8042c5a0cb22b000e155359790db71f86b6c9"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.28.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "61326859a95032d62f80c3dd1a24b2b6",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10393713,
+                    "upload_time": "2017-09-25T11:53:46",
+                    "url": "https://files.pythonhosted.org/packages/28/d0/4f2e4513ef487d6a32e079c9a860e6de71ba5e306b2e8904e1181e6bb1fd/OASYS1-XOPPY-1.0.28.tar.gz"
+                }
+            ],
+            "1.0.29": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "0041dd7a329584b405ba0eadd4e96dfd",
+                        "sha256": "1e30744869c6948555dc1622258e7831b504513c7d125a82280cd74e695c8fed"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.29.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "0041dd7a329584b405ba0eadd4e96dfd",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10393815,
+                    "upload_time": "2017-11-17T14:01:36",
+                    "url": "https://files.pythonhosted.org/packages/ca/15/566a2fb492212ee05ffb6b40a15e1c863c2218dfdbb9ace9ae9a52486add/OASYS1-XOPPY-1.0.29.tar.gz"
+                }
+            ],
+            "1.0.30": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "d002e5267fac5a72db430a2857c18b7e",
+                        "sha256": "086e8867c0f2bb3ecb47ae5da6b09402219c72e087d6ffc890e37051c90d907c"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.30.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "d002e5267fac5a72db430a2857c18b7e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10393982,
+                    "upload_time": "2017-11-17T14:46:23",
+                    "url": "https://files.pythonhosted.org/packages/b8/c8/bb65577ce29d1173a107fc558eddc9741726f8c40424400fe85f7a06cab8/OASYS1-XOPPY-1.0.30.tar.gz"
+                }
+            ],
+            "1.0.31": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "5add4575005d1cbafd5983a7d967d39e",
+                        "sha256": "7d33aea601064b3f39cbfb30d2113e6b3028755284593e446cf3bc5d7da87d82"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.31.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "5add4575005d1cbafd5983a7d967d39e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10393994,
+                    "upload_time": "2017-11-17T15:16:02",
+                    "url": "https://files.pythonhosted.org/packages/40/c5/f3f9b815990d4ee7356ae502b7bbfb8747663642cf8e5addb1adceaee855/OASYS1-XOPPY-1.0.31.tar.gz"
+                }
+            ],
+            "1.0.32": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "a2b4b8b367fa9e03a28be44d22fef2c5",
+                        "sha256": "46c4c0b84e4dacfbdf0372003b656b886244cdcfd3430a58c1fdb17fb76bcba1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.32.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "a2b4b8b367fa9e03a28be44d22fef2c5",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10394010,
+                    "upload_time": "2017-11-17T16:05:10",
+                    "url": "https://files.pythonhosted.org/packages/5d/bd/03cf7e61385b046921ce6e86e6c766ecd090f8adbb5056e80ae77fe57d59/OASYS1-XOPPY-1.0.32.tar.gz"
+                }
+            ],
+            "1.0.33": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "2cb2da1e8bbb490329519808a047a461",
+                        "sha256": "a6b31d6bdc0076a8347dd3740fcc8ca129a20638b8e28f534808c57366991c56"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.33.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "2cb2da1e8bbb490329519808a047a461",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 10393642,
+                    "upload_time": "2017-11-24T13:49:48",
+                    "url": "https://files.pythonhosted.org/packages/11/e8/469486ba8f708566fca7ab7be2119d23be57896ed0bfc9d3e954ff2f2fe0/OASYS1-XOPPY-1.0.33.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "2cb2da1e8bbb490329519808a047a461",
+                    "sha256": "a6b31d6bdc0076a8347dd3740fcc8ca129a20638b8e28f534808c57366991c56"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-XOPPY-1.0.33.tar.gz",
+                "has_sig": false,
+                "md5_digest": "2cb2da1e8bbb490329519808a047a461",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "size": 10393642,
+                "upload_time": "2017-11-24T13:49:48",
+                "url": "https://files.pythonhosted.org/packages/11/e8/469486ba8f708566fca7ab7be2119d23be57896ed0bfc9d3e954ff2f2fe0/OASYS1-XOPPY-1.0.33.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Michele Manfredda, Lorenzo Raimondi, Luca Rebuffi",
+            "author_email": "luca.rebuffi@elettra.eu",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 4 - Beta",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Science/Research",
+                "Programming Language :: Python :: 3"
+            ],
+            "description": "WISE in OASYS - Prototype Version",
+            "docs_url": null,
+            "download_url": "https://github.com/lucarebuffi/WISE",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/lucarebuffi/WISE",
+            "keywords": "waveoptics,simulator,oasys1",
+            "license": "GPLv3",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "OASYS1-WISE",
+            "package_url": "https://pypi.org/project/OASYS1-WISE/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/OASYS1-WISE/",
+            "release_url": "https://pypi.org/project/OASYS1-WISE/1.1.3/",
+            "requires_dist": null,
+            "requires_python": "",
+            "summary": "WISE in Python",
+            "version": "1.1.3"
+        },
+        "last_serial": 3045108,
+        "releases": {
+            "1.0.25": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "8156a10fd4f6fa4df3eee33afa96def0",
+                        "sha256": "f73a2685d58b7769ade3026235a7e9112beee651772e324807c7c698541ceb1d"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.0.25.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "8156a10fd4f6fa4df3eee33afa96def0",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220660,
+                    "upload_time": "2017-06-08T09:34:46",
+                    "url": "https://files.pythonhosted.org/packages/d8/58/825947984ff0555dd0185d286eb0f9b0ba67a9f45ffee0735ff644e08690/OASYS1-WISE-1.0.25.tar.gz"
+                }
+            ],
+            "1.0.26": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "0f4bfe1293ed0e682d2d38a99d47db5c",
+                        "sha256": "3d943478bc031898babb0a287e829fd17006f94ff92c09a94f381269b22e545d"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.0.26.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "0f4bfe1293ed0e682d2d38a99d47db5c",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220641,
+                    "upload_time": "2017-06-14T12:23:37",
+                    "url": "https://files.pythonhosted.org/packages/d7/00/f46ded4b42c9d89820860433e3d3ce400d7ddc500ddedd42d773115e3f23/OASYS1-WISE-1.0.26.tar.gz"
+                }
+            ],
+            "1.0.27": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "00091e64bb5e5f2efab3967dbf150ee7",
+                        "sha256": "14a6029f6c685e564c9a7527de7d5845aa2e8dc966dca32dceed2f070c633419"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.0.27.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "00091e64bb5e5f2efab3967dbf150ee7",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220633,
+                    "upload_time": "2017-06-14T12:26:59",
+                    "url": "https://files.pythonhosted.org/packages/45/2f/e2f1278b632434c88b7267f7c9a6a75725b4600e3064cc89d478a5881505/OASYS1-WISE-1.0.27.tar.gz"
+                }
+            ],
+            "1.0.28": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "ba5f527d88800edeb2f417b80e4dda9c",
+                        "sha256": "e279a650d31bd68a8d9f5686a3696cd87fd78593a483bef25f0dfb627b4a18cd"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.0.28.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "ba5f527d88800edeb2f417b80e4dda9c",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220635,
+                    "upload_time": "2017-06-14T13:04:03",
+                    "url": "https://files.pythonhosted.org/packages/19/e8/b9fda55989db3beab6ce38ad3418934a481e60f1f92f7b91dc2ddfe32bf4/OASYS1-WISE-1.0.28.tar.gz"
+                }
+            ],
+            "1.0.29": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fcd1a1b3b442398dedcf6d2e8af90d46",
+                        "sha256": "475c65c86f58cae3e3307ba0d5a698de040ce4fcdab521b15e48f9a68130b7e9"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.0.29.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fcd1a1b3b442398dedcf6d2e8af90d46",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220726,
+                    "upload_time": "2017-06-15T17:34:53",
+                    "url": "https://files.pythonhosted.org/packages/e4/ee/16b5284dbd27a5aacce657a6bec5463b613fb6a4337c68ad75a3abfd941d/OASYS1-WISE-1.0.29.tar.gz"
+                }
+            ],
+            "1.1.1": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "19f54ae2ed2427eb27db30f9473173b8",
+                        "sha256": "b8b9b0e7316185fbdfe5df9ac7da854ed2cfc00c0c8178c757796f7874a588df"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.1.1.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "19f54ae2ed2427eb27db30f9473173b8",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220702,
+                    "upload_time": "2017-07-03T08:37:41",
+                    "url": "https://files.pythonhosted.org/packages/2d/ad/fa0edf7edfd95cfe3ae544a65dc3d0f18e8ae9f846e321be3702ef580bb0/OASYS1-WISE-1.1.1.tar.gz"
+                }
+            ],
+            "1.1.2": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "70340478bc8aded6e46bcad9c8492ef0",
+                        "sha256": "9387e272e867de9696203954426af6b851b66f21641e5a2a8b6241e198188873"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.1.2.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "70340478bc8aded6e46bcad9c8492ef0",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 220854,
+                    "upload_time": "2017-07-04T12:21:23",
+                    "url": "https://files.pythonhosted.org/packages/5a/10/f51cf819e2f3801b3855360ce3c517075ce950cfe7271fda74fb3dbc4503/OASYS1-WISE-1.1.2.tar.gz"
+                }
+            ],
+            "1.1.3": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fac0f4d5b229e960d2a7e2a191984c10",
+                        "sha256": "12fc4469f24ebf553f9f4771249771eac7a162ed43440c589cc6608ca2b6e21e"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISE-1.1.3.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fac0f4d5b229e960d2a7e2a191984c10",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 294050,
+                    "upload_time": "2017-07-24T15:37:12",
+                    "url": "https://files.pythonhosted.org/packages/e9/21/2f24a6b0ac202cf539fc3d3d48d4de642095a3c6b12e55e2310d1b04c6ed/OASYS1-WISE-1.1.3.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "fac0f4d5b229e960d2a7e2a191984c10",
+                    "sha256": "12fc4469f24ebf553f9f4771249771eac7a162ed43440c589cc6608ca2b6e21e"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-WISE-1.1.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "fac0f4d5b229e960d2a7e2a191984c10",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "size": 294050,
+                "upload_time": "2017-07-24T15:37:12",
+                "url": "https://files.pythonhosted.org/packages/e9/21/2f24a6b0ac202cf539fc3d3d48d4de642095a3c6b12e55e2310d1b04c6ed/OASYS1-WISE-1.1.3.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Luca Rebuffi",
+            "author_email": "luca.rebuffi@elettra.eu",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 5 - Production/Stable",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Science/Research",
+                "Programming Language :: Python :: 3"
+            ],
+            "description": "This is the project for XRayServer (Sergey Stepanov's X-Ray Server) under OASYS",
+            "docs_url": null,
+            "download_url": "https://github.com/lucarebuffi/XRayServer",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/lucarebuffi/XRayServer",
+            "keywords": "X-ray optics,simulator,oasys1",
+            "license": "GPLv3",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "OASYS1-XRayServer",
+            "package_url": "https://pypi.org/project/OASYS1-XRayServer/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/OASYS1-XRayServer/",
+            "release_url": "https://pypi.org/project/OASYS1-XRayServer/1.0.19/",
+            "requires_dist": null,
+            "requires_python": "",
+            "summary": "X-Ray Server: Sergey Stepanov's X-Ray Server on OASYS",
+            "version": "1.0.19"
+        },
+        "last_serial": 3356039,
+        "releases": {
+            "1.0.10": [],
+            "1.0.11": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "19b64a1b21ba28b2c67536396a00d7d3",
+                        "sha256": "13b410c02ab5d35f958fd07550636ec389d34bd095b6dd86557d7a2d8c86d880"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.11.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "19b64a1b21ba28b2c67536396a00d7d3",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 105026,
+                    "upload_time": "2017-05-17T12:58:26",
+                    "url": "https://files.pythonhosted.org/packages/32/56/16c45953bea0a9c3828f01c1c84201acb51152f487fea103144b80ddec5d/OASYS1-XRayServer-1.0.11.tar.gz"
+                }
+            ],
+            "1.0.12": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "1d5dbbe562909eb832578946f6465983",
+                        "sha256": "fd90ac03d493aa675a186b98a38d17af9653f332dde0f6d942399cddf7342df6"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.12.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "1d5dbbe562909eb832578946f6465983",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 105045,
+                    "upload_time": "2017-05-17T15:43:59",
+                    "url": "https://files.pythonhosted.org/packages/4d/06/c400a56b3e2335e2debb66b993476aad7ad0bc2bbf910f2379bd8e168300/OASYS1-XRayServer-1.0.12.tar.gz"
+                }
+            ],
+            "1.0.13": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "32111a2b048f85368f9e84e7da3074e4",
+                        "sha256": "0275df193e23e18674173967301cc6095cd0376a6dbdda1bbb2e26958b7259e0"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.13.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "32111a2b048f85368f9e84e7da3074e4",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 105126,
+                    "upload_time": "2017-05-25T17:34:32",
+                    "url": "https://files.pythonhosted.org/packages/ee/a2/e0232d9819691d312921734ce612c6a916db78ec38e982d1efbe56d3305b/OASYS1-XRayServer-1.0.13.tar.gz"
+                }
+            ],
+            "1.0.15": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "ad41d0d6be48fe1b747c82474a5bb763",
+                        "sha256": "d3e9c15aa7729b9ab260da559c2d6128bf31a76a53cb61b396fd86bd17e12d7d"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.15.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "ad41d0d6be48fe1b747c82474a5bb763",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 105681,
+                    "upload_time": "2017-06-28T14:03:51",
+                    "url": "https://files.pythonhosted.org/packages/be/49/6a1236a626ac8f13ca655c3e361aaa5922d730d09523aa38479d8ceac29a/OASYS1-XRayServer-1.0.15.tar.gz"
+                }
+            ],
+            "1.0.16": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fa685e4e0c1bdfaad8af4c844707af3d",
+                        "sha256": "02550c157d4930a935223ef36204df612fdbaabc3f043f22e5cc1db455b86765"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.16.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fa685e4e0c1bdfaad8af4c844707af3d",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 106353,
+                    "upload_time": "2017-07-03T08:36:28",
+                    "url": "https://files.pythonhosted.org/packages/ad/73/bb1448b48efb428c28df6105b575cd7f4810ca5a027dfaf1fa04d7765588/OASYS1-XRayServer-1.0.16.tar.gz"
+                }
+            ],
+            "1.0.17": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "067e93642e4a8a983b2f8ccb5311e2b5",
+                        "sha256": "d8025839200e5705062a24bf04ffd75a55b15e04c5afb39ec875e17803504620"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.17.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "067e93642e4a8a983b2f8ccb5311e2b5",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 106355,
+                    "upload_time": "2017-07-03T08:42:03",
+                    "url": "https://files.pythonhosted.org/packages/e1/b7/557e1ddd24ff731d2d7e0975b17deaf2f33cf7a92b8f78720e0b7224c231/OASYS1-XRayServer-1.0.17.tar.gz"
+                }
+            ],
+            "1.0.18": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "d0f660b7fee097b1348506dede906f66",
+                        "sha256": "6263293816cb3f5dd98f26765927bf407d97573fee394d0e133894967939fd7e"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.18.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "d0f660b7fee097b1348506dede906f66",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 106487,
+                    "upload_time": "2017-07-04T12:22:42",
+                    "url": "https://files.pythonhosted.org/packages/2f/f5/11241c26ac8b92c5f66f726ccbf7bd656ff5a731f79d56adbb42e2be85f2/OASYS1-XRayServer-1.0.18.tar.gz"
+                }
+            ],
+            "1.0.19": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "d60907bb0a4894dc2b7da7f178c31ef7",
+                        "sha256": "264a7ee49085fedfb4e90ffe41f17c7ae230decec04729644584400a23dcb8b1"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.19.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "d60907bb0a4894dc2b7da7f178c31ef7",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 108780,
+                    "upload_time": "2017-11-22T18:30:28",
+                    "url": "https://files.pythonhosted.org/packages/be/c8/9461785c402ac3026d63ce20799508313e352c9610b6692671007550adfa/OASYS1-XRayServer-1.0.19.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d60907bb0a4894dc2b7da7f178c31ef7",
+                    "sha256": "264a7ee49085fedfb4e90ffe41f17c7ae230decec04729644584400a23dcb8b1"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-XRayServer-1.0.19.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d60907bb0a4894dc2b7da7f178c31ef7",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "size": 108780,
+                "upload_time": "2017-11-22T18:30:28",
+                "url": "https://files.pythonhosted.org/packages/be/c8/9461785c402ac3026d63ce20799508313e352c9610b6692671007550adfa/OASYS1-XRayServer-1.0.19.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Luca Rebuffi and Antoine Wojdyla",
+            "author_email": "luca.rebuffi@elettra.eu",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 4 - Beta",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Science/Research",
+                "Programming Language :: Cython",
+                "Programming Language :: Python",
+                "Programming Language :: Python :: 3"
+            ],
+            "description": "WIDGETS DEVELOPED FOR ALS TO EXTEND SHADOWOUI FUNCTIONALITIES",
+            "docs_url": null,
+            "download_url": "http://github.com/lucarebuffi/OASYS1-ALS-ShadowOui",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "http://github.com/lucarebuffi/OASYS1-ALS-ShadowOui",
+            "keywords": "ray-tracing,simulator,oasys1",
+            "license": "MIT",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "OASYS1-ALS-ShadowOui",
+            "package_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/",
+            "release_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/0.0.6/",
+            "requires_dist": null,
+            "requires_python": "",
+            "summary": "WIDGETS DEVELOPED FOR ALS TO EXTEND SHADOWOUI FUNCTIONALITIES",
+            "version": "0.0.6"
+        },
+        "last_serial": 3785069,
+        "releases": {
+            "0.0.1": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "4775884dc22f1a6eaca187a4d4f5a397",
+                        "sha256": "142a9c8de14fc4f07cba15edfdae11897834c1bf21807d701d0e7091738579cc"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.1.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "4775884dc22f1a6eaca187a4d4f5a397",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 14186,
+                    "upload_time": "2018-03-01T20:04:45",
+                    "url": "https://files.pythonhosted.org/packages/69/ac/3fa56e8837dfadb19de23f314055329f32cfefc9f95dd1c1aed3cea6f744/OASYS1-ALS-ShadowOui-0.0.1.tar.gz"
+                }
+            ],
+            "0.0.2": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "6358a889b7108f533790648de005a5df",
+                        "sha256": "990f475642e3fe04d6c1af843a2bd9f6de21dbb327200ba3aadc4e96ddfb36fa"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.2.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "6358a889b7108f533790648de005a5df",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 58725,
+                    "upload_time": "2018-03-01T21:52:38",
+                    "url": "https://files.pythonhosted.org/packages/e9/bb/98f24f0720daea3d65b3759ac6a33c5ebeac3647904768dbc3926239103e/OASYS1-ALS-ShadowOui-0.0.2.tar.gz"
+                }
+            ],
+            "0.0.3": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "1ba44e1295aae240dbba2c00aecd1e07",
+                        "sha256": "eeb4008790e728789792ba758390db9acf4bee7f944e98ad307eda6786a9d0b3"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.3.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "1ba44e1295aae240dbba2c00aecd1e07",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 58222,
+                    "upload_time": "2018-03-02T22:58:28",
+                    "url": "https://files.pythonhosted.org/packages/af/c9/e8e2b34ec29d51aa31252c22c0452cc0d2d291b703ff977141df330fcab4/OASYS1-ALS-ShadowOui-0.0.3.tar.gz"
+                }
+            ],
+            "0.0.4": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c33094defce6ceb200a1eb88bfeb55b8",
+                        "sha256": "8efb33c2bb5b38abc814bd37cb339973893962ed2aee8a2f68b15d75bb593036"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.4.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c33094defce6ceb200a1eb88bfeb55b8",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 201593,
+                    "upload_time": "2018-03-04T05:50:47",
+                    "url": "https://files.pythonhosted.org/packages/4f/3c/72ec16f2538d651066878c8e8e9c2bbe9c3dc36213144e7f75eff54d82bd/OASYS1-ALS-ShadowOui-0.0.4.tar.gz"
+                }
+            ],
+            "0.0.5": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "39dd5441a553bf78fb3c58ec34cf6a7d",
+                        "sha256": "ddd75cd0f9e4dd1dbb50ec5393b913ebcce457f164410fedd4ae489fb85dc50c"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.5.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "39dd5441a553bf78fb3c58ec34cf6a7d",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 201628,
+                    "upload_time": "2018-03-06T01:22:14",
+                    "url": "https://files.pythonhosted.org/packages/b6/5d/67a6954f9cd7170914215dc6b6c3cec116b6d10208283db4b7f46a68ee51/OASYS1-ALS-ShadowOui-0.0.5.tar.gz"
+                }
+            ],
+            "0.0.6": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "2bb33a8d5bd665e2a07c1f500707ce6c",
+                        "sha256": "e89923cfc36723f5ec89753d57cdd588ed280ad5e9885dfa3e18b40cfc15701e"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ALS-ShadowOui-0.0.6.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "2bb33a8d5bd665e2a07c1f500707ce6c",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 281646,
+                    "upload_time": "2018-04-20T16:28:38",
+                    "url": "https://files.pythonhosted.org/packages/48/b4/7257398581d87b06bb308f918adec6a616b2afbc1304c30e3306def08dcb/OASYS1-ALS-ShadowOui-0.0.6.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "2bb33a8d5bd665e2a07c1f500707ce6c",
+                    "sha256": "e89923cfc36723f5ec89753d57cdd588ed280ad5e9885dfa3e18b40cfc15701e"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-ALS-ShadowOui-0.0.6.tar.gz",
+                "has_sig": false,
+                "md5_digest": "2bb33a8d5bd665e2a07c1f500707ce6c",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "size": 281646,
+                "upload_time": "2018-04-20T16:28:38",
+                "url": "https://files.pythonhosted.org/packages/48/b4/7257398581d87b06bb308f918adec6a616b2afbc1304c30e3306def08dcb/OASYS1-ALS-ShadowOui-0.0.6.tar.gz"
+            }
+        ]
+    }
+]
