@@ -1122,7 +1122,7 @@
                 "Intended Audience :: Science/Research",
                 "Programming Language :: Python :: 3"
             ],
-            "description": "WISE 2 in OASYS",
+            "description": "WISEr in OASYS",
             "description_content_type": "",
             "docs_url": null,
             "download_url": "https://github.com/oasys-elettra-kit/WISE2",
@@ -1136,34 +1136,52 @@
             "license": "GPLv3",
             "maintainer": "",
             "maintainer_email": "",
-            "name": "OASYS1-WISE2",
-            "package_url": "https://pypi.org/project/OASYS1-WISE2/",
+            "name": "OASYS1-WISEr",
+            "package_url": "https://pypi.org/project/OASYS1-WISEr/",
             "platform": "",
-            "project_url": "https://pypi.org/project/OASYS1-WISE2/",
-            "release_url": "https://pypi.org/project/OASYS1-WISE2/1.0.0/",
+            "project_url": "https://pypi.org/project/OASYS1-WISEr/",
+            "release_url": "https://pypi.org/project/OASYS1-WISEr/1.0.1/",
             "requires_dist": null,
             "requires_python": "",
-            "summary": "WISE 2 in Python",
-            "version": "1.0.0"
+            "summary": "WISEr in Python",
+            "version": "1.0.1"
         },
-        "last_serial": 3898794,
+        "last_serial": 3898986,
         "releases": {
             "1.0.0": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "3646c1e13ad71b9e136b2b4c56d69000",
-                        "sha256": "e6fd73c7325718d3090a6d809c28cfbc3bb4b9277f93e8bf4c7364591ce2945d"
+                        "md5": "4bdc7a14992a284c7f1a1109ad0eb201",
+                        "sha256": "50bd63ff4e24e44eb6b3db33050bdeaaf63a0b7120271c05ffdf71c4bccb6008"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-WISE2-1.0.0.tar.gz",
+                    "filename": "OASYS1-WISEr-1.0.0.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "3646c1e13ad71b9e136b2b4c56d69000",
+                    "md5_digest": "4bdc7a14992a284c7f1a1109ad0eb201",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 565602,
-                    "upload_time": "2018-05-25T13:03:02",
-                    "url": "https://files.pythonhosted.org/packages/cb/30/f381eedb981d56f555395fc423115e03e6de035fd8923e42dac6e017fc9e/OASYS1-WISE2-1.0.0.tar.gz"
+                    "size": 565663,
+                    "upload_time": "2018-05-25T13:58:12",
+                    "url": "https://files.pythonhosted.org/packages/28/ac/2cad299bbc667ca4e5c63fc5b4667c52580a54dd72e629c7935a5ba4d41c/OASYS1-WISEr-1.0.0.tar.gz"
+                }
+            ],
+            "1.0.1": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "129e49361210795a4a35048be3a28240",
+                        "sha256": "f1404228b8f2800b5b71512a7ac3737ab0759f86b40fc34649d3ce62d56e89f0"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISEr-1.0.1.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "129e49361210795a4a35048be3a28240",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 565646,
+                    "upload_time": "2018-05-25T13:59:37",
+                    "url": "https://files.pythonhosted.org/packages/e0/9b/c74c0544ae8041d70beafb21d601b2c59e4ec352901a594aeed8d6099c42/OASYS1-WISEr-1.0.1.tar.gz"
                 }
             ]
         },
@@ -1171,18 +1189,18 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "3646c1e13ad71b9e136b2b4c56d69000",
-                    "sha256": "e6fd73c7325718d3090a6d809c28cfbc3bb4b9277f93e8bf4c7364591ce2945d"
+                    "md5": "129e49361210795a4a35048be3a28240",
+                    "sha256": "f1404228b8f2800b5b71512a7ac3737ab0759f86b40fc34649d3ce62d56e89f0"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WISE2-1.0.0.tar.gz",
+                "filename": "OASYS1-WISEr-1.0.1.tar.gz",
                 "has_sig": false,
-                "md5_digest": "3646c1e13ad71b9e136b2b4c56d69000",
+                "md5_digest": "129e49361210795a4a35048be3a28240",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 565602,
-                "upload_time": "2018-05-25T13:03:02",
-                "url": "https://files.pythonhosted.org/packages/cb/30/f381eedb981d56f555395fc423115e03e6de035fd8923e42dac6e017fc9e/OASYS1-WISE2-1.0.0.tar.gz"
+                "size": 565646,
+                "upload_time": "2018-05-25T13:59:37",
+                "url": "https://files.pythonhosted.org/packages/e0/9b/c74c0544ae8041d70beafb21d601b2c59e4ec352901a594aeed8d6099c42/OASYS1-WISEr-1.0.1.tar.gz"
             }
         ]
     },
