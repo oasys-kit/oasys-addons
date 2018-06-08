@@ -1348,13 +1348,13 @@
             "package_url": "https://pypi.org/project/OASYS1-WISEr/",
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-WISEr/",
-            "release_url": "https://pypi.org/project/OASYS1-WISEr/1.0.4/",
+            "release_url": "https://pypi.org/project/OASYS1-WISEr/1.0.5/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "WISEr in Python",
-            "version": "1.0.4"
+            "version": "1.0.5"
         },
-        "last_serial": 3939109,
+        "last_serial": 3939132,
         "releases": {
             "1.0.0": [
                 {
@@ -1445,24 +1445,42 @@
                     "upload_time": "2018-06-07T10:07:06",
                     "url": "https://files.pythonhosted.org/packages/3a/cf/29a15648b42126b1d4c839baebdd637b708c1b994622fab29fcbfdd9aeea/OASYS1-WISEr-1.0.4.tar.gz"
                 }
+            ],
+            "1.0.5": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "cb6cef4364849db98fd1a91badb80f87",
+                        "sha256": "c6670cd03ad1b90e5efe0030bb0b25c64e50a2b55fe267eb9a89c45e992fdd62"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISEr-1.0.5.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "cb6cef4364849db98fd1a91badb80f87",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 532156,
+                    "upload_time": "2018-06-07T10:20:37",
+                    "url": "https://files.pythonhosted.org/packages/4a/20/feee4b2b7be793c0fcb5e83d42f7ba22d6f29fecd5b111437ce9542ab074/OASYS1-WISEr-1.0.5.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "aeee2110dca3a07bb323952a918173a3",
-                    "sha256": "b43b2f5826f6697f3abf9e6cc90d9ca6ae303bb4b0bcd1f0021951cbf7662731"
+                    "md5": "cb6cef4364849db98fd1a91badb80f87",
+                    "sha256": "c6670cd03ad1b90e5efe0030bb0b25c64e50a2b55fe267eb9a89c45e992fdd62"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WISEr-1.0.4.tar.gz",
+                "filename": "OASYS1-WISEr-1.0.5.tar.gz",
                 "has_sig": false,
-                "md5_digest": "aeee2110dca3a07bb323952a918173a3",
+                "md5_digest": "cb6cef4364849db98fd1a91badb80f87",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 530093,
-                "upload_time": "2018-06-07T10:07:06",
-                "url": "https://files.pythonhosted.org/packages/3a/cf/29a15648b42126b1d4c839baebdd637b708c1b994622fab29fcbfdd9aeea/OASYS1-WISEr-1.0.4.tar.gz"
+                "size": 532156,
+                "upload_time": "2018-06-07T10:20:37",
+                "url": "https://files.pythonhosted.org/packages/4a/20/feee4b2b7be793c0fcb5e83d42f7ba22d6f29fecd5b111437ce9542ab074/OASYS1-WISEr-1.0.5.tar.gz"
             }
         ]
     },
@@ -1480,7 +1498,7 @@
                 "Programming Language :: Python :: 3"
             ],
             "description": "This is the project for XRayServer (Sergey Stepanov's X-Ray Server) under OASYS",
-            "description_content_type": null,
+            "description_content_type": "",
             "docs_url": null,
             "download_url": "https://github.com/lucarebuffi/XRayServer",
             "downloads": {
@@ -1497,13 +1515,13 @@
             "package_url": "https://pypi.org/project/OASYS1-XRayServer/",
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-XRayServer/",
-            "release_url": "https://pypi.org/project/OASYS1-XRayServer/1.0.19/",
+            "release_url": "https://pypi.org/project/OASYS1-XRayServer/1.0.21/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "X-Ray Server: Sergey Stepanov's X-Ray Server on OASYS",
-            "version": "1.0.19"
+            "version": "1.0.21"
         },
-        "last_serial": 3356039,
+        "last_serial": 3942773,
         "releases": {
             "1.0.10": [],
             "1.0.11": [
@@ -1649,30 +1667,66 @@
                     "upload_time": "2017-11-22T18:30:28",
                     "url": "https://files.pythonhosted.org/packages/be/c8/9461785c402ac3026d63ce20799508313e352c9610b6692671007550adfa/OASYS1-XRayServer-1.0.19.tar.gz"
                 }
+            ],
+            "1.0.20": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "8f891ddcf7f7700f2393e0e95166778e",
+                        "sha256": "7e1233d669efbfb480e5c2e48162d0dc4bae9ab7886668d131453ecfe08ccc10"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.20.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "8f891ddcf7f7700f2393e0e95166778e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 109231,
+                    "upload_time": "2018-06-08T11:41:20",
+                    "url": "https://files.pythonhosted.org/packages/41/c5/b1937abcb70dc97b1b7910987449af4a3cc6b8208b716f93d0b4438940fc/OASYS1-XRayServer-1.0.20.tar.gz"
+                }
+            ],
+            "1.0.21": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "20b246f4cf6d7102e9f56fc90230d1de",
+                        "sha256": "da0300e2e3c8ced01a5954eceb9e6f4137ea54bfb96f4b7b68090e393ac88201"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.21.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "20b246f4cf6d7102e9f56fc90230d1de",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 109314,
+                    "upload_time": "2018-06-08T12:48:11",
+                    "url": "https://files.pythonhosted.org/packages/00/40/cb8f74bead4ebffec63ced373adff2118eb5e209358c6ea4eb40c03e761b/OASYS1-XRayServer-1.0.21.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "d60907bb0a4894dc2b7da7f178c31ef7",
-                    "sha256": "264a7ee49085fedfb4e90ffe41f17c7ae230decec04729644584400a23dcb8b1"
+                    "md5": "20b246f4cf6d7102e9f56fc90230d1de",
+                    "sha256": "da0300e2e3c8ced01a5954eceb9e6f4137ea54bfb96f4b7b68090e393ac88201"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XRayServer-1.0.19.tar.gz",
+                "filename": "OASYS1-XRayServer-1.0.21.tar.gz",
                 "has_sig": false,
-                "md5_digest": "d60907bb0a4894dc2b7da7f178c31ef7",
+                "md5_digest": "20b246f4cf6d7102e9f56fc90230d1de",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 108780,
-                "upload_time": "2017-11-22T18:30:28",
-                "url": "https://files.pythonhosted.org/packages/be/c8/9461785c402ac3026d63ce20799508313e352c9610b6692671007550adfa/OASYS1-XRayServer-1.0.19.tar.gz"
+                "size": 109314,
+                "upload_time": "2018-06-08T12:48:11",
+                "url": "https://files.pythonhosted.org/packages/00/40/cb8f74bead4ebffec63ced373adff2118eb5e209358c6ea4eb40c03e761b/OASYS1-XRayServer-1.0.21.tar.gz"
             }
         ]
     },
     {
         "info": {
-            "author": "Luca Rebuffi and Antoine Wojdyla",
+            "author": "Luca Rebuffi",
             "author_email": "luca.rebuffi@elettra.eu",
             "bugtrack_url": null,
             "classifiers": [
@@ -1681,178 +1735,338 @@
                 "Environment :: Plugins",
                 "Environment :: X11 Applications :: Qt",
                 "Intended Audience :: Science/Research",
-                "Programming Language :: Cython",
-                "Programming Language :: Python",
                 "Programming Language :: Python :: 3"
             ],
-            "description": "WIDGETS DEVELOPED FOR ALS TO EXTEND SHADOWOUI FUNCTIONALITIES",
+            "description": "This is the WORKING project for SRW IN OASYS\n\nTHIS VERSION IS UNDER DEVELOPMENT AND IS HIGLY INSTABLE:\n\n             INSTALLATION IS NOT RECOMENDED!!!!",
             "description_content_type": "",
             "docs_url": null,
-            "download_url": "http://github.com/lucarebuffi/OASYS1-ALS-ShadowOui",
+            "download_url": "https://github.com/lucarebuffi/OASYS-SRW",
             "downloads": {
                 "last_day": -1,
                 "last_month": -1,
                 "last_week": -1
             },
-            "home_page": "http://github.com/lucarebuffi/OASYS1-ALS-ShadowOui",
-            "keywords": "ray-tracing,simulator,oasys1",
-            "license": "MIT",
+            "home_page": "https://github.com/lucarebuffi/OASYS-SRW",
+            "keywords": "waveoptics,simulator,oasys1",
+            "license": "GPLv3",
             "maintainer": "",
             "maintainer_email": "",
-            "name": "OASYS1-ALS-ShadowOui",
-            "package_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/",
+            "name": "OASYS1-SRW",
+            "package_url": "https://pypi.org/project/OASYS1-SRW/",
             "platform": "",
-            "project_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/",
-            "release_url": "https://pypi.org/project/OASYS1-ALS-ShadowOui/0.0.8/",
+            "project_url": "https://pypi.org/project/OASYS1-SRW/",
+            "release_url": "https://pypi.org/project/OASYS1-SRW/1.0.17/",
             "requires_dist": null,
             "requires_python": "",
-            "summary": "WIDGETS DEVELOPED FOR ALS TO EXTEND SHADOWOUI FUNCTIONALITIES",
-            "version": "0.0.8"
+            "summary": "SRW in OASYS",
+            "version": "1.0.17"
         },
-        "last_serial": 3854461,
+        "last_serial": 3943323,
         "releases": {
-            "0.0.1": [
+            "1.0.0": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "4775884dc22f1a6eaca187a4d4f5a397",
-                        "sha256": "142a9c8de14fc4f07cba15edfdae11897834c1bf21807d701d0e7091738579cc"
+                        "md5": "f3244b02bafc212161433bf80aca075c",
+                        "sha256": "a413ca3b534d3a1f2dd1b3380d69bd91c32ca48bcb1322687ef9b73f2a8bb1ff"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.1.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.0.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "4775884dc22f1a6eaca187a4d4f5a397",
+                    "md5_digest": "f3244b02bafc212161433bf80aca075c",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 14186,
-                    "upload_time": "2018-03-01T20:04:45",
-                    "url": "https://files.pythonhosted.org/packages/69/ac/3fa56e8837dfadb19de23f314055329f32cfefc9f95dd1c1aed3cea6f744/OASYS1-ALS-ShadowOui-0.0.1.tar.gz"
+                    "size": 1396126,
+                    "upload_time": "2018-05-31T15:26:54",
+                    "url": "https://files.pythonhosted.org/packages/2a/92/dab0a70e90762d417ca05f3554ac07dacc37bf0eff874bfe752dc9a4c951/OASYS1-SRW-1.0.0.tar.gz"
                 }
             ],
-            "0.0.2": [
+            "1.0.1": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "6358a889b7108f533790648de005a5df",
-                        "sha256": "990f475642e3fe04d6c1af843a2bd9f6de21dbb327200ba3aadc4e96ddfb36fa"
+                        "md5": "58284da20c1de7d2f8c4853dacb7adde",
+                        "sha256": "148963d6949497f2a2e9d4630e7fa543c023a05e462d66968e6705c7c1f199a0"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.2.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.1.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "6358a889b7108f533790648de005a5df",
+                    "md5_digest": "58284da20c1de7d2f8c4853dacb7adde",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 58725,
-                    "upload_time": "2018-03-01T21:52:38",
-                    "url": "https://files.pythonhosted.org/packages/e9/bb/98f24f0720daea3d65b3759ac6a33c5ebeac3647904768dbc3926239103e/OASYS1-ALS-ShadowOui-0.0.2.tar.gz"
+                    "size": 1396117,
+                    "upload_time": "2018-05-31T15:31:31",
+                    "url": "https://files.pythonhosted.org/packages/d0/40/1fb518ab48d6fefb9e0652c0b3b5aa3afabdb48d61ce6a0f49b4459b013a/OASYS1-SRW-1.0.1.tar.gz"
                 }
             ],
-            "0.0.3": [
+            "1.0.10": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "1ba44e1295aae240dbba2c00aecd1e07",
-                        "sha256": "eeb4008790e728789792ba758390db9acf4bee7f944e98ad307eda6786a9d0b3"
+                        "md5": "7ebd085659f6edab1499f71850282e95",
+                        "sha256": "6103299ef2c84e8b552e67f431c396ae9f2a28892e4b995a0cf707ef96e68789"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.3.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.10.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "1ba44e1295aae240dbba2c00aecd1e07",
+                    "md5_digest": "7ebd085659f6edab1499f71850282e95",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 58222,
-                    "upload_time": "2018-03-02T22:58:28",
-                    "url": "https://files.pythonhosted.org/packages/af/c9/e8e2b34ec29d51aa31252c22c0452cc0d2d291b703ff977141df330fcab4/OASYS1-ALS-ShadowOui-0.0.3.tar.gz"
+                    "size": 1711516,
+                    "upload_time": "2018-06-07T10:02:15",
+                    "url": "https://files.pythonhosted.org/packages/e2/dd/400e90abf76c410cd481c7a664f177af287a91daa25cfcf26783a6469988/OASYS1-SRW-1.0.10.tar.gz"
                 }
             ],
-            "0.0.4": [
+            "1.0.11": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "c33094defce6ceb200a1eb88bfeb55b8",
-                        "sha256": "8efb33c2bb5b38abc814bd37cb339973893962ed2aee8a2f68b15d75bb593036"
+                        "md5": "4724cb8c2b303197e06aca0af64acdc1",
+                        "sha256": "bd02b228e44b6c854c906505e5a6741c6e54d56e3d46dd90c1160174c8deb286"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.4.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.11.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "c33094defce6ceb200a1eb88bfeb55b8",
+                    "md5_digest": "4724cb8c2b303197e06aca0af64acdc1",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 201593,
-                    "upload_time": "2018-03-04T05:50:47",
-                    "url": "https://files.pythonhosted.org/packages/4f/3c/72ec16f2538d651066878c8e8e9c2bbe9c3dc36213144e7f75eff54d82bd/OASYS1-ALS-ShadowOui-0.0.4.tar.gz"
+                    "size": 1674878,
+                    "upload_time": "2018-06-07T10:03:45",
+                    "url": "https://files.pythonhosted.org/packages/30/59/614bc24f42d773ca08362cce7cd554818db6f98e43474a79e0b201cf3040/OASYS1-SRW-1.0.11.tar.gz"
                 }
             ],
-            "0.0.5": [
+            "1.0.12": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "39dd5441a553bf78fb3c58ec34cf6a7d",
-                        "sha256": "ddd75cd0f9e4dd1dbb50ec5393b913ebcce457f164410fedd4ae489fb85dc50c"
+                        "md5": "092e286385f2f2a4cc1c3e3b48a9ede6",
+                        "sha256": "16c723178848d7bf6f8c2505544a99dc6e40ca766c5e6ab5b07a1d402a469b47"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.5.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.12.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "39dd5441a553bf78fb3c58ec34cf6a7d",
+                    "md5_digest": "092e286385f2f2a4cc1c3e3b48a9ede6",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 201628,
-                    "upload_time": "2018-03-06T01:22:14",
-                    "url": "https://files.pythonhosted.org/packages/b6/5d/67a6954f9cd7170914215dc6b6c3cec116b6d10208283db4b7f46a68ee51/OASYS1-ALS-ShadowOui-0.0.5.tar.gz"
+                    "size": 1674870,
+                    "upload_time": "2018-06-07T15:12:12",
+                    "url": "https://files.pythonhosted.org/packages/33/cd/ce82c9333e37ab944e89eaec334e2eab7c6ff6cc78155ab38a53e236201c/OASYS1-SRW-1.0.12.tar.gz"
                 }
             ],
-            "0.0.6": [
+            "1.0.14": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "2bb33a8d5bd665e2a07c1f500707ce6c",
-                        "sha256": "e89923cfc36723f5ec89753d57cdd588ed280ad5e9885dfa3e18b40cfc15701e"
+                        "md5": "f7a9051297032f4501e6ecdb8479cf20",
+                        "sha256": "7fc2767b2dfef0f1b8b7b1c7032c18b5999e0e26f8f7093f35f6969cac5b31b5"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.6.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.14.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "2bb33a8d5bd665e2a07c1f500707ce6c",
+                    "md5_digest": "f7a9051297032f4501e6ecdb8479cf20",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 281646,
-                    "upload_time": "2018-04-20T16:28:38",
-                    "url": "https://files.pythonhosted.org/packages/48/b4/7257398581d87b06bb308f918adec6a616b2afbc1304c30e3306def08dcb/OASYS1-ALS-ShadowOui-0.0.6.tar.gz"
+                    "size": 1479304,
+                    "upload_time": "2018-06-07T22:59:30",
+                    "url": "https://files.pythonhosted.org/packages/2d/f6/be63b04d1bf3ab3bd9c0f2ab928550c049efb9472ddb1bff2736ff6d71f2/OASYS1-SRW-1.0.14.tar.gz"
                 }
             ],
-            "0.0.7": [
+            "1.0.15": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "4f5ba966f09aa9d7bf40f6350e1f459b",
-                        "sha256": "f0190a20affaffa332219ff5682f322172aa963a8fc47276a5577d79c0446222"
+                        "md5": "4cb28073dff3a51010426d7946cf52fe",
+                        "sha256": "c8b8a3239bee21fa296a051c5bc8bd588aae9bc06ec7f62c79c26ca2b93cd6f0"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.7.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.15.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "4f5ba966f09aa9d7bf40f6350e1f459b",
+                    "md5_digest": "4cb28073dff3a51010426d7946cf52fe",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 281641,
-                    "upload_time": "2018-04-23T14:12:22",
-                    "url": "https://files.pythonhosted.org/packages/26/1d/d5449269113e9675a24f8284df786c8a25a158341f3918fbc927c58774ad/OASYS1-ALS-ShadowOui-0.0.7.tar.gz"
+                    "size": 1511029,
+                    "upload_time": "2018-06-08T12:51:16",
+                    "url": "https://files.pythonhosted.org/packages/f4/6b/8ce84fbbca904296cee436bc94c26cd7d44044f636652d5a3db9c03bcc62/OASYS1-SRW-1.0.15.tar.gz"
                 }
             ],
-            "0.0.8": [
+            "1.0.16": [
                 {
                     "comment_text": "",
                     "digests": {
-                        "md5": "4cb366094dd26617d13cc3539ba6d468",
-                        "sha256": "465bd244b2ecdbb25ed8033f03b876a9695dcf0372a0fd8ed4dd9521fd118866"
+                        "md5": "738744554b30e99ced7b957abfb19582",
+                        "sha256": "648723b2e363c6d824470a7cf84ca8a711b7c93785937d296281026d6c72f19f"
                     },
                     "downloads": -1,
-                    "filename": "OASYS1-ALS-ShadowOui-0.0.8.tar.gz",
+                    "filename": "OASYS1-SRW-1.0.16.tar.gz",
                     "has_sig": false,
-                    "md5_digest": "4cb366094dd26617d13cc3539ba6d468",
+                    "md5_digest": "738744554b30e99ced7b957abfb19582",
                     "packagetype": "sdist",
                     "python_version": "source",
-                    "size": 281619,
-                    "upload_time": "2018-05-11T15:26:12",
-                    "url": "https://files.pythonhosted.org/packages/a0/c5/3e5508292a593c2d008685dcd7747d9694c0837b4a1c3e614e5bfd8d9d8c/OASYS1-ALS-ShadowOui-0.0.8.tar.gz"
+                    "size": 1511068,
+                    "upload_time": "2018-06-08T12:59:28",
+                    "url": "https://files.pythonhosted.org/packages/98/72/e74f254d77ad7f4624bd5b562ca34f7719f6010e1b465f0d37c0c4a805cc/OASYS1-SRW-1.0.16.tar.gz"
+                }
+            ],
+            "1.0.17": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "cda32d359f1510b58907068aa790eb42",
+                        "sha256": "3fe36de051ff93a441f65e72d6011a3139cbe3e8377fc62b18b195cdde5ba376"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.17.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "cda32d359f1510b58907068aa790eb42",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1602107,
+                    "upload_time": "2018-06-08T16:03:45",
+                    "url": "https://files.pythonhosted.org/packages/16/23/176aeed5a5f782e12b66de629d141dc04207f25a24358e7bfeb6d0717079/OASYS1-SRW-1.0.17.tar.gz"
+                }
+            ],
+            "1.0.2": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "16bd30ece6488304575bb09465c33a49",
+                        "sha256": "2ad09d244b45e079915d0fe6c99ca513d8eb4ab232e0d66dc5535d627663b769"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.2.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "16bd30ece6488304575bb09465c33a49",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1396100,
+                    "upload_time": "2018-05-31T15:48:04",
+                    "url": "https://files.pythonhosted.org/packages/05/e5/00d5df709ac25cf15d1a89b660a1fef926575a7ea6a51cd8e3c688a23312/OASYS1-SRW-1.0.2.tar.gz"
+                }
+            ],
+            "1.0.3": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "905365adc8e98ae0f60b1f880c5db293",
+                        "sha256": "a67eb089fa325617735be6db7b06f2d7d68243e1dcede7d7f1b1d68731e5cfe5"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.3.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "905365adc8e98ae0f60b1f880c5db293",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710677,
+                    "upload_time": "2018-06-04T16:21:17",
+                    "url": "https://files.pythonhosted.org/packages/34/f0/584e821cf779cdbf858805827958301ada96701634b3600292f5e3b6941a/OASYS1-SRW-1.0.3.tar.gz"
+                }
+            ],
+            "1.0.4": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "d7e581dc5bff2f9194bc143b0ee77919",
+                        "sha256": "f68362f3a4acb479648973be8fd842b3833e631064dbb7e2e3fd8d5b458f82fc"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.4.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "d7e581dc5bff2f9194bc143b0ee77919",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710789,
+                    "upload_time": "2018-06-05T10:57:51",
+                    "url": "https://files.pythonhosted.org/packages/83/63/a24c489e7d8672126aefa8fa1f3a49bd80e71634661faea4ba176d054a28/OASYS1-SRW-1.0.4.tar.gz"
+                }
+            ],
+            "1.0.5": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "8e7b6bfed1d64f83c9929fa80b11db2e",
+                        "sha256": "9a10ceb6f1035c116fbd2201560e03b13d4bfb874743b842ecaa64f695cf3b7c"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.5.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "8e7b6bfed1d64f83c9929fa80b11db2e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710834,
+                    "upload_time": "2018-06-05T11:05:33",
+                    "url": "https://files.pythonhosted.org/packages/e4/07/cee826ac6e82d3ada836de951f2ed4d75c9ee32abf650dbe292150f0d482/OASYS1-SRW-1.0.5.tar.gz"
+                }
+            ],
+            "1.0.6": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "80785a2bbc738324844f7dba619117e9",
+                        "sha256": "8aacfd7e654911d142fe1bb066c066ab76b5cabcf26f28dd1b43a12ca39425a4"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.6.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "80785a2bbc738324844f7dba619117e9",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710787,
+                    "upload_time": "2018-06-05T11:09:03",
+                    "url": "https://files.pythonhosted.org/packages/02/ec/a76880130e35b26fb472b0dc9bdf8c7449c1933ad79b63957caf010e76bf/OASYS1-SRW-1.0.6.tar.gz"
+                }
+            ],
+            "1.0.7": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "5d22a4ec2ee16302d04e27472aa4309f",
+                        "sha256": "009870e44bd9113f67bd96fa5642120b26da3564fea696a9a50a2e64dfe5e499"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.7.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "5d22a4ec2ee16302d04e27472aa4309f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710798,
+                    "upload_time": "2018-06-05T11:19:15",
+                    "url": "https://files.pythonhosted.org/packages/a4/b7/0bd2464eb0be943d57f381966be2c36c01fc4c6f3929a8974447ac176ba7/OASYS1-SRW-1.0.7.tar.gz"
+                }
+            ],
+            "1.0.8": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "58f21b14850aa36f3a4e7d8f88ed8a26",
+                        "sha256": "8b89ba5ccab6ba1f558f2934e7b64d75c79916a2452d2332ae55702b9cf66640"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.8.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "58f21b14850aa36f3a4e7d8f88ed8a26",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710795,
+                    "upload_time": "2018-06-05T14:06:59",
+                    "url": "https://files.pythonhosted.org/packages/d3/c4/b0d94169a39ef26d4fcd941073f42f985a0b6e8d6a5a2c1d7ccb7eae5c55/OASYS1-SRW-1.0.8.tar.gz"
+                }
+            ],
+            "1.0.9": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "144c14d3bfeb8aabecbf2f68d0dc4f2e",
+                        "sha256": "dcba0a49f6689ceb3c2cc80b20fcbdff68a338e7299afac48bad86c365db30ab"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.9.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "144c14d3bfeb8aabecbf2f68d0dc4f2e",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1710783,
+                    "upload_time": "2018-06-05T16:42:37",
+                    "url": "https://files.pythonhosted.org/packages/a7/58/b1c7c3d7e67cdcfe4f815223bd110d0401d0e513527feaae1e36a652ff06/OASYS1-SRW-1.0.9.tar.gz"
                 }
             ]
         },
@@ -1860,18 +2074,18 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "4cb366094dd26617d13cc3539ba6d468",
-                    "sha256": "465bd244b2ecdbb25ed8033f03b876a9695dcf0372a0fd8ed4dd9521fd118866"
+                    "md5": "cda32d359f1510b58907068aa790eb42",
+                    "sha256": "3fe36de051ff93a441f65e72d6011a3139cbe3e8377fc62b18b195cdde5ba376"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ALS-ShadowOui-0.0.8.tar.gz",
+                "filename": "OASYS1-SRW-1.0.17.tar.gz",
                 "has_sig": false,
-                "md5_digest": "4cb366094dd26617d13cc3539ba6d468",
+                "md5_digest": "cda32d359f1510b58907068aa790eb42",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 281619,
-                "upload_time": "2018-05-11T15:26:12",
-                "url": "https://files.pythonhosted.org/packages/a0/c5/3e5508292a593c2d008685dcd7747d9694c0837b4a1c3e614e5bfd8d9d8c/OASYS1-ALS-ShadowOui-0.0.8.tar.gz"
+                "size": 1602107,
+                "upload_time": "2018-06-08T16:03:45",
+                "url": "https://files.pythonhosted.org/packages/16/23/176aeed5a5f782e12b66de629d141dc04207f25a24358e7bfeb6d0717079/OASYS1-SRW-1.0.17.tar.gz"
             }
         ]
     }
