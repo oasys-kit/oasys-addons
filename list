@@ -1319,13 +1319,13 @@
             "package_url": "https://pypi.org/project/OASYS1-WISEr/",
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-WISEr/",
-            "release_url": "https://pypi.org/project/OASYS1-WISEr/1.0.5/",
+            "release_url": "https://pypi.org/project/OASYS1-WISEr/1.0.6/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "WISEr in Python",
-            "version": "1.0.5"
+            "version": "1.0.6"
         },
-        "last_serial": 3939132,
+        "last_serial": 3961047,
         "releases": {
             "1.0.0": [
                 {
@@ -1434,24 +1434,42 @@
                     "upload_time": "2018-06-07T10:20:37",
                     "url": "https://files.pythonhosted.org/packages/4a/20/feee4b2b7be793c0fcb5e83d42f7ba22d6f29fecd5b111437ce9542ab074/OASYS1-WISEr-1.0.5.tar.gz"
                 }
+            ],
+            "1.0.6": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "bd683f86ac4ec2d40f8369a6b8e0e4de",
+                        "sha256": "4e5e39eed9a7491dd58787f5acf7478942eb0fa4482d8ebead6e51dd748a48d5"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WISEr-1.0.6.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "bd683f86ac4ec2d40f8369a6b8e0e4de",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 532117,
+                    "upload_time": "2018-06-14T11:51:16",
+                    "url": "https://files.pythonhosted.org/packages/3b/05/9496f69948e822e8e1dc40fc9af87493331f2e514343c7008cb2f0b62f96/OASYS1-WISEr-1.0.6.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "cb6cef4364849db98fd1a91badb80f87",
-                    "sha256": "c6670cd03ad1b90e5efe0030bb0b25c64e50a2b55fe267eb9a89c45e992fdd62"
+                    "md5": "bd683f86ac4ec2d40f8369a6b8e0e4de",
+                    "sha256": "4e5e39eed9a7491dd58787f5acf7478942eb0fa4482d8ebead6e51dd748a48d5"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WISEr-1.0.5.tar.gz",
+                "filename": "OASYS1-WISEr-1.0.6.tar.gz",
                 "has_sig": false,
-                "md5_digest": "cb6cef4364849db98fd1a91badb80f87",
+                "md5_digest": "bd683f86ac4ec2d40f8369a6b8e0e4de",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 532156,
-                "upload_time": "2018-06-07T10:20:37",
-                "url": "https://files.pythonhosted.org/packages/4a/20/feee4b2b7be793c0fcb5e83d42f7ba22d6f29fecd5b111437ce9542ab074/OASYS1-WISEr-1.0.5.tar.gz"
+                "size": 532117,
+                "upload_time": "2018-06-14T11:51:16",
+                "url": "https://files.pythonhosted.org/packages/3b/05/9496f69948e822e8e1dc40fc9af87493331f2e514343c7008cb2f0b62f96/OASYS1-WISEr-1.0.6.tar.gz"
             }
         ]
     },
