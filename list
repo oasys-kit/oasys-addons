@@ -30,13 +30,13 @@
             "package_url": "https://pypi.org/project/OASYS1-ShadowOui/",
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-ShadowOui/",
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.4.55/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.4.56/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Shadow, Ray-tracing simulation software",
-            "version": "1.4.55"
+            "version": "1.4.56"
         },
-        "last_serial": 3964903,
+        "last_serial": 3965074,
         "releases": {
             "1.4.10": [
                 {
@@ -795,6 +795,24 @@
                     "url": "https://files.pythonhosted.org/packages/f3/df/2db5b0ad884ed8132b662968f7c27d54499d19bcb861c9a6529eefa193a9/OASYS1-ShadowOui-1.4.55.tar.gz"
                 }
             ],
+            "1.4.56": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "156ede255ca7e7c72c2c0d81cdcaffb1",
+                        "sha256": "4c0a6a29bca3f3c854c263bc54696976cf1e48cdd3eb886b41983c7914cf9a2d"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.56.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "156ede255ca7e7c72c2c0d81cdcaffb1",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 2988620,
+                    "upload_time": "2018-06-15T14:32:29",
+                    "url": "https://files.pythonhosted.org/packages/a2/e1/a8bffb5984297afc444d37c1519d516adc5cbe426fdfe709870972334908/OASYS1-ShadowOui-1.4.56.tar.gz"
+                }
+            ],
             "1.4.6": [
                 {
                     "comment_text": "",
@@ -872,18 +890,18 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "acb185bc5f94cab58cd3f5401ea4a618",
-                    "sha256": "197c30b9ca23b0a8f95ce6a51fa49f131f2bd2ee43c805de8b873ccfd68789f8"
+                    "md5": "156ede255ca7e7c72c2c0d81cdcaffb1",
+                    "sha256": "4c0a6a29bca3f3c854c263bc54696976cf1e48cdd3eb886b41983c7914cf9a2d"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.4.55.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.4.56.tar.gz",
                 "has_sig": false,
-                "md5_digest": "acb185bc5f94cab58cd3f5401ea4a618",
+                "md5_digest": "156ede255ca7e7c72c2c0d81cdcaffb1",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 2988598,
-                "upload_time": "2018-06-15T13:34:23",
-                "url": "https://files.pythonhosted.org/packages/f3/df/2db5b0ad884ed8132b662968f7c27d54499d19bcb861c9a6529eefa193a9/OASYS1-ShadowOui-1.4.55.tar.gz"
+                "size": 2988620,
+                "upload_time": "2018-06-15T14:32:29",
+                "url": "https://files.pythonhosted.org/packages/a2/e1/a8bffb5984297afc444d37c1519d516adc5cbe426fdfe709870972334908/OASYS1-ShadowOui-1.4.56.tar.gz"
             }
         ]
     },
@@ -918,13 +936,13 @@
             "package_url": "https://pypi.org/project/OASYS1-SRW/",
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-SRW/",
-            "release_url": "https://pypi.org/project/OASYS1-SRW/1.0.21/",
+            "release_url": "https://pypi.org/project/OASYS1-SRW/1.0.23/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SRW in OASYS",
-            "version": "1.0.21"
+            "version": "1.0.23"
         },
-        "last_serial": 3964905,
+        "last_serial": 3965062,
         "releases": {
             "1.0.0": [
                 {
@@ -1178,6 +1196,42 @@
                     "url": "https://files.pythonhosted.org/packages/ff/92/d0e01998887ca326d62ae063b571472ff4bae75f853e42214f5b8e275e28/OASYS1-SRW-1.0.21.tar.gz"
                 }
             ],
+            "1.0.22": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "6f25967ddf3d705289f697bfdb50f3db",
+                        "sha256": "e804f5dd22311e6b5560e536bc18f07aed69a800d5c0086afee6fb39f32d19cb"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.22.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "6f25967ddf3d705289f697bfdb50f3db",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1611289,
+                    "upload_time": "2018-06-15T14:19:06",
+                    "url": "https://files.pythonhosted.org/packages/7f/38/1aaa792a2edfe4060e41e05ec747acac6d757317feb4cea9b314fae6289a/OASYS1-SRW-1.0.22.tar.gz"
+                }
+            ],
+            "1.0.23": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "bfaf712ef407a1d92b5dabc72093d1a8",
+                        "sha256": "95a2fc0781a9959372748642ba8e01f45761c9bac5fa4033d6134f8b3b9ba9ee"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.23.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "bfaf712ef407a1d92b5dabc72093d1a8",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "size": 1611251,
+                    "upload_time": "2018-06-15T14:27:47",
+                    "url": "https://files.pythonhosted.org/packages/87/04/93be4ca7ba7ed67ebce6da051428c753249060e85d11acdeb0bfbaab2b46/OASYS1-SRW-1.0.23.tar.gz"
+                }
+            ],
             "1.0.3": [
                 {
                     "comment_text": "",
@@ -1309,18 +1363,18 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "4753c6f1014def6b4b1211b64ae8cd6a",
-                    "sha256": "922132d551cba224a186a962eefa8f91b6234c7209c9d50264f677b50f6ebcc7"
+                    "md5": "bfaf712ef407a1d92b5dabc72093d1a8",
+                    "sha256": "95a2fc0781a9959372748642ba8e01f45761c9bac5fa4033d6134f8b3b9ba9ee"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SRW-1.0.21.tar.gz",
+                "filename": "OASYS1-SRW-1.0.23.tar.gz",
                 "has_sig": false,
-                "md5_digest": "4753c6f1014def6b4b1211b64ae8cd6a",
+                "md5_digest": "bfaf712ef407a1d92b5dabc72093d1a8",
                 "packagetype": "sdist",
                 "python_version": "source",
-                "size": 1611153,
-                "upload_time": "2018-06-15T13:35:23",
-                "url": "https://files.pythonhosted.org/packages/ff/92/d0e01998887ca326d62ae063b571472ff4bae75f853e42214f5b8e275e28/OASYS1-SRW-1.0.21.tar.gz"
+                "size": 1611251,
+                "upload_time": "2018-06-15T14:27:47",
+                "url": "https://files.pythonhosted.org/packages/87/04/93be4ca7ba7ed67ebce6da051428c753249060e85d11acdeb0bfbaab2b46/OASYS1-SRW-1.0.23.tar.gz"
             }
         ]
     },
