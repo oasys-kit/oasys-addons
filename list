@@ -34,13 +34,13 @@
                 "Download": "http://github.com/lucarebuffi/ShadowOui",
                 "Homepage": "http://github.com/lucarebuffi/ShadowOui"
             },
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.4.106/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.4.107/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Shadow, Ray-tracing simulation software",
-            "version": "1.4.106"
+            "version": "1.4.107"
         },
-        "last_serial": 4764125,
+        "last_serial": 4773406,
         "releases": {
             "1.4.100": [
                 {
@@ -173,6 +173,25 @@
                     "size": 3104552,
                     "upload_time": "2019-01-31T15:24:28",
                     "url": "https://files.pythonhosted.org/packages/67/27/d8db020e1d73beda770adeb21aefa2e380c01b25bde8d6290543689e7f62/OASYS1-ShadowOui-1.4.106.tar.gz"
+                }
+            ],
+            "1.4.107": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "7a0aafb9f713a0f1e02c18ffb7a76c69",
+                        "sha256": "1fd0d196183c5af5cc6b2c50327946eb811fc12d2dfc623d5a872bc6bc9f023c"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.4.107.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "7a0aafb9f713a0f1e02c18ffb7a76c69",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3104407,
+                    "upload_time": "2019-02-02T22:57:50",
+                    "url": "https://files.pythonhosted.org/packages/3f/f9/bbb08d5754794704e612f369f6ed9b02bf47e0328057d218ac6611e88d36/OASYS1-ShadowOui-1.4.107.tar.gz"
                 }
             ],
             "1.4.59": [
@@ -959,19 +978,19 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "75338e0275765de60f17e0c291f28974",
-                    "sha256": "c23199a3d52d8383c3ca603f4cc5de635d7d6fbf3ad85e5d62d13581c4ce7ec2"
+                    "md5": "7a0aafb9f713a0f1e02c18ffb7a76c69",
+                    "sha256": "1fd0d196183c5af5cc6b2c50327946eb811fc12d2dfc623d5a872bc6bc9f023c"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.4.106.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.4.107.tar.gz",
                 "has_sig": false,
-                "md5_digest": "75338e0275765de60f17e0c291f28974",
+                "md5_digest": "7a0aafb9f713a0f1e02c18ffb7a76c69",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 3104552,
-                "upload_time": "2019-01-31T15:24:28",
-                "url": "https://files.pythonhosted.org/packages/67/27/d8db020e1d73beda770adeb21aefa2e380c01b25bde8d6290543689e7f62/OASYS1-ShadowOui-1.4.106.tar.gz"
+                "size": 3104407,
+                "upload_time": "2019-02-02T22:57:50",
+                "url": "https://files.pythonhosted.org/packages/3f/f9/bbb08d5754794704e612f369f6ed9b02bf47e0328057d218ac6611e88d36/OASYS1-ShadowOui-1.4.107.tar.gz"
             }
         ]
     },
@@ -1010,13 +1029,13 @@
                 "Download": "https://github.com/lucarebuffi/OASYS-SRW",
                 "Homepage": "https://github.com/lucarebuffi/OASYS-SRW"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SRW/1.0.68/",
+            "release_url": "https://pypi.org/project/OASYS1-SRW/1.0.69/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SRW in OASYS",
-            "version": "1.0.68"
+            "version": "1.0.69"
         },
-        "last_serial": 4771173,
+        "last_serial": 4773404,
         "releases": {
             "1.0.0": [
                 {
@@ -2234,6 +2253,25 @@
                     "url": "https://files.pythonhosted.org/packages/1e/ec/3717328684d7a638bfa73122996168212f649385754b9701fd9e153ab4d0/OASYS1-SRW-1.0.68.tar.gz"
                 }
             ],
+            "1.0.69": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "a02d37ddcfd3473157665ffe4b8c2f3f",
+                        "sha256": "971a14bbc57caa1281a609471df034f0364736d7caabcc051e3b6544eba2448f"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.0.69.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "a02d37ddcfd3473157665ffe4b8c2f3f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 1769999,
+                    "upload_time": "2019-02-02T22:57:20",
+                    "url": "https://files.pythonhosted.org/packages/a4/bc/467dc3321fa815a2ccc72275f3f7528cc2772088763c83c50eefc91bd54d/OASYS1-SRW-1.0.69.tar.gz"
+                }
+            ],
             "1.0.7": [
                 {
                     "comment_text": "",
@@ -2296,19 +2334,19 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "560b4dae20c1076511bfcb5fee392c7f",
-                    "sha256": "81ef69fd42623700c74d662b6d638de23b362606e3b7c7eab5e65dd423f52f20"
+                    "md5": "a02d37ddcfd3473157665ffe4b8c2f3f",
+                    "sha256": "971a14bbc57caa1281a609471df034f0364736d7caabcc051e3b6544eba2448f"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SRW-1.0.68.tar.gz",
+                "filename": "OASYS1-SRW-1.0.69.tar.gz",
                 "has_sig": false,
-                "md5_digest": "560b4dae20c1076511bfcb5fee392c7f",
+                "md5_digest": "a02d37ddcfd3473157665ffe4b8c2f3f",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1770255,
-                "upload_time": "2019-02-02T01:29:54",
-                "url": "https://files.pythonhosted.org/packages/1e/ec/3717328684d7a638bfa73122996168212f649385754b9701fd9e153ab4d0/OASYS1-SRW-1.0.68.tar.gz"
+                "size": 1769999,
+                "upload_time": "2019-02-02T22:57:20",
+                "url": "https://files.pythonhosted.org/packages/a4/bc/467dc3321fa815a2ccc72275f3f7528cc2772088763c83c50eefc91bd54d/OASYS1-SRW-1.0.69.tar.gz"
             }
         ]
     },
@@ -2582,13 +2620,13 @@
                 "Download": "https://github.com/srio/Orange-XOPPY",
                 "Homepage": "https://github.com/srio/Orange-XOPPY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.34/",
+            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.35/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
-            "version": "1.0.34"
+            "version": "1.0.35"
         },
-        "last_serial": 4543817,
+        "last_serial": 4773392,
         "releases": {
             "1.0.16": [],
             "1.0.17": [
@@ -2932,25 +2970,44 @@
                     "upload_time": "2018-11-29T17:40:13",
                     "url": "https://files.pythonhosted.org/packages/7b/e2/886b5ea194dc522bda360ddd66ad1652300ab809b733b874dbfc73f72643/OASYS1-XOPPY-1.0.34.tar.gz"
                 }
+            ],
+            "1.0.35": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "aa909473702a7706bfbee221053e7160",
+                        "sha256": "2399caf2c5a58c6eaac1665c82b11c8f8cce935b3e93faa3b620149b0deeeb68"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.35.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "aa909473702a7706bfbee221053e7160",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 10435404,
+                    "upload_time": "2019-02-02T22:53:52",
+                    "url": "https://files.pythonhosted.org/packages/40/bc/485cac10e878deb6e3b5b2999795b3cbd5be759a2fd32057a62890ffea5e/OASYS1-XOPPY-1.0.35.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "92913d72bf439ef3ade8a120489fcee7",
-                    "sha256": "6d422726ab22407a92c990fed9b38f3d553287b2cd539a74a9d5172503526984"
+                    "md5": "aa909473702a7706bfbee221053e7160",
+                    "sha256": "2399caf2c5a58c6eaac1665c82b11c8f8cce935b3e93faa3b620149b0deeeb68"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.34.tar.gz",
+                "filename": "OASYS1-XOPPY-1.0.35.tar.gz",
                 "has_sig": false,
-                "md5_digest": "92913d72bf439ef3ade8a120489fcee7",
+                "md5_digest": "aa909473702a7706bfbee221053e7160",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 10431592,
-                "upload_time": "2018-11-29T17:40:13",
-                "url": "https://files.pythonhosted.org/packages/7b/e2/886b5ea194dc522bda360ddd66ad1652300ab809b733b874dbfc73f72643/OASYS1-XOPPY-1.0.34.tar.gz"
+                "size": 10435404,
+                "upload_time": "2019-02-02T22:53:52",
+                "url": "https://files.pythonhosted.org/packages/40/bc/485cac10e878deb6e3b5b2999795b3cbd5be759a2fd32057a62890ffea5e/OASYS1-XOPPY-1.0.35.tar.gz"
             }
         ]
     },
@@ -3282,13 +3339,13 @@
                 "Download": "https://github.com/lucarebuffi/OASYS-SYNED",
                 "Homepage": "https://github.com/lucarebuffi/OASYS-SYNED"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.10/",
+            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.11/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SYNED SYNchrotron Elements Dictionary",
-            "version": "1.0.10"
+            "version": "1.0.11"
         },
-        "last_serial": 4732788,
+        "last_serial": 4773394,
         "releases": {
             "1.0.0": [
                 {
@@ -3345,6 +3402,25 @@
                     "size": 1053638,
                     "upload_time": "2019-01-23T19:57:25",
                     "url": "https://files.pythonhosted.org/packages/09/75/43fbe858d3da20a6ead48b9c065cdc00ee9fa265d1c9dad29b058e78b601/OASYS1-SYNED-1.0.10.tar.gz"
+                }
+            ],
+            "1.0.11": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "6d4c84f0b66332285841699c043924fc",
+                        "sha256": "86e2c101038ed48dda1b751dde6d7003bc07d776f7acb4c60e2098cfbc6f2809"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SYNED-1.0.11.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "6d4c84f0b66332285841699c043924fc",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 1053649,
+                    "upload_time": "2019-02-02T22:54:19",
+                    "url": "https://files.pythonhosted.org/packages/b7/e9/90dc291e90d2c71b882d6f81e16a0e1ac91fd2081fe761c25615fc6e0674/OASYS1-SYNED-1.0.11.tar.gz"
                 }
             ],
             "1.0.2": [
@@ -3504,19 +3580,19 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "67088bc548ede8807987d448671b009d",
-                    "sha256": "6dd78e0e199a560d079b1418f6e6c7434c6783da784c49bea8a0f0b413aefb34"
+                    "md5": "6d4c84f0b66332285841699c043924fc",
+                    "sha256": "86e2c101038ed48dda1b751dde6d7003bc07d776f7acb4c60e2098cfbc6f2809"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SYNED-1.0.10.tar.gz",
+                "filename": "OASYS1-SYNED-1.0.11.tar.gz",
                 "has_sig": false,
-                "md5_digest": "67088bc548ede8807987d448671b009d",
+                "md5_digest": "6d4c84f0b66332285841699c043924fc",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1053638,
-                "upload_time": "2019-01-23T19:57:25",
-                "url": "https://files.pythonhosted.org/packages/09/75/43fbe858d3da20a6ead48b9c065cdc00ee9fa265d1c9dad29b058e78b601/OASYS1-SYNED-1.0.10.tar.gz"
+                "size": 1053649,
+                "upload_time": "2019-02-02T22:54:19",
+                "url": "https://files.pythonhosted.org/packages/b7/e9/90dc291e90d2c71b882d6f81e16a0e1ac91fd2081fe761c25615fc6e0674/OASYS1-SYNED-1.0.11.tar.gz"
             }
         ]
     },
@@ -3555,13 +3631,13 @@
                 "Download": "https://github.com/lucarebuffi/OASYS-WOFRY",
                 "Homepage": "https://github.com/lucarebuffi/OASYS-WOFRY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-WOFRY/1.0.2/",
+            "release_url": "https://pypi.org/project/OASYS1-WOFRY/1.0.3/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "WOFRY (Wave Optics FRamework in pYthon)",
-            "version": "1.0.2"
+            "version": "1.0.3"
         },
-        "last_serial": 4503309,
+        "last_serial": 4773397,
         "releases": {
             "1.0.0": [
                 {
@@ -3619,25 +3695,44 @@
                     "upload_time": "2018-11-19T15:17:44",
                     "url": "https://files.pythonhosted.org/packages/cf/b2/06fd4bab6805fb2c08a96e8f260d7d27900fa376c3be76b2629c15a9caa0/OASYS1-WOFRY-1.0.2.tar.gz"
                 }
+            ],
+            "1.0.3": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "954b3b5b0d3a432af842a3ad9b6384b4",
+                        "sha256": "b056ade3ffe2b8beffe6ce932c8161d9dcd0f7cf86b2191511ac4a85bcffe066"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-WOFRY-1.0.3.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "954b3b5b0d3a432af842a3ad9b6384b4",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 696861,
+                    "upload_time": "2019-02-02T22:55:23",
+                    "url": "https://files.pythonhosted.org/packages/14/55/79a925897792d553494594d9dd09701a237b0fe3fd257ea107a8fa393db1/OASYS1-WOFRY-1.0.3.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "8048d627b8f148a80cadc536edb25614",
-                    "sha256": "cbde0ad8a6346466d21edf91b022a70457e30f8d28e8029e5940be351473bef7"
+                    "md5": "954b3b5b0d3a432af842a3ad9b6384b4",
+                    "sha256": "b056ade3ffe2b8beffe6ce932c8161d9dcd0f7cf86b2191511ac4a85bcffe066"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WOFRY-1.0.2.tar.gz",
+                "filename": "OASYS1-WOFRY-1.0.3.tar.gz",
                 "has_sig": false,
-                "md5_digest": "8048d627b8f148a80cadc536edb25614",
+                "md5_digest": "954b3b5b0d3a432af842a3ad9b6384b4",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 696787,
-                "upload_time": "2018-11-19T15:17:44",
-                "url": "https://files.pythonhosted.org/packages/cf/b2/06fd4bab6805fb2c08a96e8f260d7d27900fa376c3be76b2629c15a9caa0/OASYS1-WOFRY-1.0.2.tar.gz"
+                "size": 696861,
+                "upload_time": "2019-02-02T22:55:23",
+                "url": "https://files.pythonhosted.org/packages/14/55/79a925897792d553494594d9dd09701a237b0fe3fd257ea107a8fa393db1/OASYS1-WOFRY-1.0.3.tar.gz"
             }
         ]
     }
