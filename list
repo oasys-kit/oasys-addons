@@ -3139,7 +3139,7 @@
     {
         "info": {
             "author": "Manuel Sanchez del Rio, Luca Rebuffi, and Bioinformatics Laboratory, FRI UL",
-            "author_email": "srio@esrf.eu, luca.rebuffi@elettra.eu",
+            "author_email": "srio@esrf.eu, lrebuffi@anl.gov",
             "bugtrack_url": null,
             "classifiers": [
                 "Development Status :: 5 - Production/Stable",
@@ -3149,16 +3149,16 @@
                 "Intended Audience :: Science/Research",
                 "Programming Language :: Python :: 3"
             ],
-            "description": "This is the project for XOPPY (XOP under python3) under OASYS",
+            "description": "\nThis is the project for XOPPY (XOP under python3) under OASYS\n\n\n",
             "description_content_type": "",
             "docs_url": null,
-            "download_url": "https://github.com/srio/Orange-XOPPY",
+            "download_url": "https://github.com/oasys-kit/XOPPY",
             "downloads": {
                 "last_day": -1,
                 "last_month": -1,
                 "last_week": -1
             },
-            "home_page": "https://github.com/srio/Orange-XOPPY",
+            "home_page": "https://github.com/oasys-kit/XOPPY",
             "keywords": "X-ray optics,simulator,oasys1",
             "license": "GPLv3",
             "maintainer": "",
@@ -3168,16 +3168,20 @@
             "platform": "",
             "project_url": "https://pypi.org/project/OASYS1-XOPPY/",
             "project_urls": {
-                "Download": "https://github.com/srio/Orange-XOPPY",
-                "Homepage": "https://github.com/srio/Orange-XOPPY"
+                "Download": "https://github.com/oasys-kit/XOPPY",
+                "Homepage": "https://github.com/oasys-kit/XOPPY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.38/",
-            "requires_dist": null,
+            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.39/",
+            "requires_dist": [
+                "oasys1 (>=1.1.41)",
+                "oasys1-srwlib",
+                "pySRU"
+            ],
             "requires_python": "",
             "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
-            "version": "1.0.38"
+            "version": "1.0.39"
         },
-        "last_serial": 4917143,
+        "last_serial": 4995053,
         "releases": {
             "1.0.16": [],
             "1.0.17": [
@@ -3597,25 +3601,78 @@
                     "upload_time": "2019-03-08T21:14:08",
                     "url": "https://files.pythonhosted.org/packages/08/c4/61104993ed53584a6cf4d1a6e894424148b0ab0bc5ab6f090a1421fc7995/OASYS1-XOPPY-1.0.38.tar.gz"
                 }
+            ],
+            "1.0.39": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "a0149b9e77b6afb6ba0c4e8e5695285b",
+                        "sha256": "40fc6b3eea14b9b9fe7503077380ccea92c1ec4c9dad172076deb474ecad648e"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1_XOPPY-1.0.39-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "a0149b9e77b6afb6ba0c4e8e5695285b",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 13502482,
+                    "upload_time": "2019-03-27T22:19:03",
+                    "url": "https://files.pythonhosted.org/packages/d6/4e/d40a0b0bdfb98015e678d17c1d238666fb3060e589a7cb8c1382c3b0a024/OASYS1_XOPPY-1.0.39-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "fdd7f655a9dcdcec08b37643edba3073",
+                        "sha256": "8e3a3417935564e94da55857d1e8a975e117e68c4c4f2ab6e25897a88f577a1c"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XOPPY-1.0.39.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "fdd7f655a9dcdcec08b37643edba3073",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 14738771,
+                    "upload_time": "2019-03-27T22:19:08",
+                    "url": "https://files.pythonhosted.org/packages/7e/98/2383816770df54ab8759764f68ae76b7dc78a5e35925e2c834379d0e3638/OASYS1-XOPPY-1.0.39.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "d7a84f9e552be94d9ae119f8b1b4fe33",
-                    "sha256": "649b651a84d23260675e3ac0fd2eefb9a7ba8527a643dfd320fc5e6195460b51"
+                    "md5": "a0149b9e77b6afb6ba0c4e8e5695285b",
+                    "sha256": "40fc6b3eea14b9b9fe7503077380ccea92c1ec4c9dad172076deb474ecad648e"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.38.tar.gz",
+                "filename": "OASYS1_XOPPY-1.0.39-py3-none-any.whl",
                 "has_sig": false,
-                "md5_digest": "d7a84f9e552be94d9ae119f8b1b4fe33",
+                "md5_digest": "a0149b9e77b6afb6ba0c4e8e5695285b",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 13502482,
+                "upload_time": "2019-03-27T22:19:03",
+                "url": "https://files.pythonhosted.org/packages/d6/4e/d40a0b0bdfb98015e678d17c1d238666fb3060e589a7cb8c1382c3b0a024/OASYS1_XOPPY-1.0.39-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "fdd7f655a9dcdcec08b37643edba3073",
+                    "sha256": "8e3a3417935564e94da55857d1e8a975e117e68c4c4f2ab6e25897a88f577a1c"
+                },
+                "downloads": -1,
+                "filename": "OASYS1-XOPPY-1.0.39.tar.gz",
+                "has_sig": false,
+                "md5_digest": "fdd7f655a9dcdcec08b37643edba3073",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 14738788,
-                "upload_time": "2019-03-08T21:14:08",
-                "url": "https://files.pythonhosted.org/packages/08/c4/61104993ed53584a6cf4d1a6e894424148b0ab0bc5ab6f090a1421fc7995/OASYS1-XOPPY-1.0.38.tar.gz"
+                "size": 14738771,
+                "upload_time": "2019-03-27T22:19:08",
+                "url": "https://files.pythonhosted.org/packages/7e/98/2383816770df54ab8759764f68ae76b7dc78a5e35925e2c834379d0e3638/OASYS1-XOPPY-1.0.39.tar.gz"
             }
         ]
     },
