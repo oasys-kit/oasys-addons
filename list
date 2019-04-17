@@ -3899,13 +3899,13 @@
                 "Download": "https://github.com/lucarebuffi/XRayServer",
                 "Homepage": "https://github.com/lucarebuffi/XRayServer"
             },
-            "release_url": "https://pypi.org/project/OASYS1-XRayServer/1.0.27/",
+            "release_url": "https://pypi.org/project/OASYS1-XRayServer/1.0.28/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "X-Ray Server: Sergey Stepanov's X-Ray Server on OASYS",
-            "version": "1.0.27"
+            "version": "1.0.28"
         },
-        "last_serial": 4917160,
+        "last_serial": 5157295,
         "releases": {
             "1.0.10": [],
             "1.0.11": [
@@ -4211,25 +4211,44 @@
                     "upload_time": "2019-03-08T21:16:08",
                     "url": "https://files.pythonhosted.org/packages/af/42/ee3b530824b47d0bcb4c9f03b1d9307162a1c074abeaaecb3e01bb81c15d/OASYS1-XRayServer-1.0.27.tar.gz"
                 }
+            ],
+            "1.0.28": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "552beaa4eee860fbdd16efe3cbc20a95",
+                        "sha256": "3c733e107897005bf74e5fef146488e8f4aaee2130fa73bbfc9d0859a3b21e62"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-XRayServer-1.0.28.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "552beaa4eee860fbdd16efe3cbc20a95",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 110095,
+                    "upload_time": "2019-04-17T21:58:35",
+                    "url": "https://files.pythonhosted.org/packages/41/e7/456fa2688a9fd3c259d25588f27e8f02eddbdfa949c9f8a2f4209b31c8c9/OASYS1-XRayServer-1.0.28.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "9a47c159438403ca1ffe849b775b76ac",
-                    "sha256": "8b7fc161d026cf141653ecc1f23dce56328f157e8e208f3e302d9be98a777271"
+                    "md5": "552beaa4eee860fbdd16efe3cbc20a95",
+                    "sha256": "3c733e107897005bf74e5fef146488e8f4aaee2130fa73bbfc9d0859a3b21e62"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XRayServer-1.0.27.tar.gz",
+                "filename": "OASYS1-XRayServer-1.0.28.tar.gz",
                 "has_sig": false,
-                "md5_digest": "9a47c159438403ca1ffe849b775b76ac",
+                "md5_digest": "552beaa4eee860fbdd16efe3cbc20a95",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 110044,
-                "upload_time": "2019-03-08T21:16:08",
-                "url": "https://files.pythonhosted.org/packages/af/42/ee3b530824b47d0bcb4c9f03b1d9307162a1c074abeaaecb3e01bb81c15d/OASYS1-XRayServer-1.0.27.tar.gz"
+                "size": 110095,
+                "upload_time": "2019-04-17T21:58:35",
+                "url": "https://files.pythonhosted.org/packages/41/e7/456fa2688a9fd3c259d25588f27e8f02eddbdfa949c9f8a2f4209b31c8c9/OASYS1-XRayServer-1.0.28.tar.gz"
             }
         ]
     },
