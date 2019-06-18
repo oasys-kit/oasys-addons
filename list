@@ -34,13 +34,13 @@
                 "Download": "http://github.com/oasys-kit/ShadowOui",
                 "Homepage": "http://github.com/oasys-kit/ShadowOui"
             },
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.6/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.7/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Shadow, Ray-tracing simulation software",
-            "version": "1.5.6"
+            "version": "1.5.7"
         },
-        "last_serial": 5402567,
+        "last_serial": 5416284,
         "releases": {
             "1.4.100": [
                 {
@@ -1789,25 +1789,44 @@
                     "upload_time": "2019-06-14T23:30:30",
                     "url": "https://files.pythonhosted.org/packages/cf/59/cf7177023cab98a0a1663c75a92a5cfe33977e09eb4859ed6838a3b6278c/OASYS1-ShadowOui-1.5.6.tar.gz"
                 }
+            ],
+            "1.5.7": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "4bd35927e74128c8db33eb57e1f9d620",
+                        "sha256": "ca65c2c841f149d04e3bd4b77b24728bac72be7a527c13b20b6949ee31a00e8f"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.5.7.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "4bd35927e74128c8db33eb57e1f9d620",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3410518,
+                    "upload_time": "2019-06-18T16:54:12",
+                    "url": "https://files.pythonhosted.org/packages/2c/23/aaf300ba60c7c7d1966d0990748416908e28fa11be20e446520c9e3e54a9/OASYS1-ShadowOui-1.5.7.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "2f09857bbe9988fcadf11e2334e40e26",
-                    "sha256": "2f6e1561dcbaffb95c6a299a78f1d866f7bdd9aaf6afa1e9fd14375ebaf586f2"
+                    "md5": "4bd35927e74128c8db33eb57e1f9d620",
+                    "sha256": "ca65c2c841f149d04e3bd4b77b24728bac72be7a527c13b20b6949ee31a00e8f"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.5.6.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.5.7.tar.gz",
                 "has_sig": false,
-                "md5_digest": "2f09857bbe9988fcadf11e2334e40e26",
+                "md5_digest": "4bd35927e74128c8db33eb57e1f9d620",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 3411445,
-                "upload_time": "2019-06-14T23:30:30",
-                "url": "https://files.pythonhosted.org/packages/cf/59/cf7177023cab98a0a1663c75a92a5cfe33977e09eb4859ed6838a3b6278c/OASYS1-ShadowOui-1.5.6.tar.gz"
+                "size": 3410518,
+                "upload_time": "2019-06-18T16:54:12",
+                "url": "https://files.pythonhosted.org/packages/2c/23/aaf300ba60c7c7d1966d0990748416908e28fa11be20e446520c9e3e54a9/OASYS1-ShadowOui-1.5.7.tar.gz"
             }
         ]
     },
