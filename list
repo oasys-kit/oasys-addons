@@ -34,13 +34,13 @@
                 "Download": "http://github.com/oasys-kit/ShadowOui",
                 "Homepage": "http://github.com/oasys-kit/ShadowOui"
             },
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.21/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.22/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Shadow, Ray-tracing simulation software",
-            "version": "1.5.21"
+            "version": "1.5.22"
         },
-        "last_serial": 5961287,
+        "last_serial": 6060639,
         "releases": {
             "1.4.100": [
                 {
@@ -58,6 +58,7 @@
                     "requires_python": null,
                     "size": 3103239,
                     "upload_time": "2019-01-23T19:55:41",
+                    "upload_time_iso_8601": "2019-01-23T19:55:41.838433Z",
                     "url": "https://files.pythonhosted.org/packages/12/7c/7bf7d8db72c3d433b952344e9e16017c1f71e4154f77bffcfdbada52404f/OASYS1-ShadowOui-1.4.100.tar.gz"
                 }
             ],
@@ -77,6 +78,7 @@
                     "requires_python": null,
                     "size": 3103685,
                     "upload_time": "2019-01-24T16:22:10",
+                    "upload_time_iso_8601": "2019-01-24T16:22:10.503527Z",
                     "url": "https://files.pythonhosted.org/packages/c6/02/42c3c38a307a443b7d08029998ee4fb7a98a8a7aeea0070e18e3127613b5/OASYS1-ShadowOui-1.4.101.tar.gz"
                 }
             ],
@@ -96,6 +98,7 @@
                     "requires_python": null,
                     "size": 3103989,
                     "upload_time": "2019-01-28T16:58:14",
+                    "upload_time_iso_8601": "2019-01-28T16:58:14.760849Z",
                     "url": "https://files.pythonhosted.org/packages/cb/e7/ba7dd7015714ada8f01bb4495040d2f922f5fbbf110aa69f6ded32061988/OASYS1-ShadowOui-1.4.102.tar.gz"
                 }
             ],
@@ -115,6 +118,7 @@
                     "requires_python": null,
                     "size": 3104828,
                     "upload_time": "2019-01-29T22:51:21",
+                    "upload_time_iso_8601": "2019-01-29T22:51:21.855725Z",
                     "url": "https://files.pythonhosted.org/packages/5a/e5/13d36d332e9d8ccbee562ebff44291e41d7d4ce2de1a751763aea96d6e35/OASYS1-ShadowOui-1.4.103.tar.gz"
                 }
             ],
@@ -134,6 +138,7 @@
                     "requires_python": null,
                     "size": 3104521,
                     "upload_time": "2019-01-30T17:08:46",
+                    "upload_time_iso_8601": "2019-01-30T17:08:46.288665Z",
                     "url": "https://files.pythonhosted.org/packages/d7/8f/cb0801575088f617373dce73b4ec5d586925156cf41e129502bd89890a55/OASYS1-ShadowOui-1.4.104.tar.gz"
                 }
             ],
@@ -153,6 +158,7 @@
                     "requires_python": null,
                     "size": 3104561,
                     "upload_time": "2019-01-30T17:38:22",
+                    "upload_time_iso_8601": "2019-01-30T17:38:22.001500Z",
                     "url": "https://files.pythonhosted.org/packages/29/29/fe9960cf5ab355c40e6d6d815c8a193c2ba5d8c91dffe07ac51390f99b14/OASYS1-ShadowOui-1.4.105.tar.gz"
                 }
             ],
@@ -172,6 +178,7 @@
                     "requires_python": null,
                     "size": 3104552,
                     "upload_time": "2019-01-31T15:24:28",
+                    "upload_time_iso_8601": "2019-01-31T15:24:28.753170Z",
                     "url": "https://files.pythonhosted.org/packages/67/27/d8db020e1d73beda770adeb21aefa2e380c01b25bde8d6290543689e7f62/OASYS1-ShadowOui-1.4.106.tar.gz"
                 }
             ],
@@ -191,6 +198,7 @@
                     "requires_python": null,
                     "size": 3104407,
                     "upload_time": "2019-02-02T22:57:50",
+                    "upload_time_iso_8601": "2019-02-02T22:57:50.255212Z",
                     "url": "https://files.pythonhosted.org/packages/3f/f9/bbb08d5754794704e612f369f6ed9b02bf47e0328057d218ac6611e88d36/OASYS1-ShadowOui-1.4.107.tar.gz"
                 }
             ],
@@ -210,6 +218,7 @@
                     "requires_python": null,
                     "size": 3104683,
                     "upload_time": "2019-02-03T18:33:09",
+                    "upload_time_iso_8601": "2019-02-03T18:33:09.368984Z",
                     "url": "https://files.pythonhosted.org/packages/17/4c/1c47a6aa28114a397962ea89788c505347dcfb6e641c7b96a5a751651530/OASYS1-ShadowOui-1.4.108.tar.gz"
                 }
             ],
@@ -229,6 +238,7 @@
                     "requires_python": null,
                     "size": 3105053,
                     "upload_time": "2019-02-08T20:58:32",
+                    "upload_time_iso_8601": "2019-02-08T20:58:32.387760Z",
                     "url": "https://files.pythonhosted.org/packages/eb/ac/bb015a7acf2e7310456eeafa7012e67c85cf69ae4e9e02c90ffe5afeb5c5/OASYS1-ShadowOui-1.4.109.tar.gz"
                 }
             ],
@@ -248,6 +258,7 @@
                     "requires_python": null,
                     "size": 3110507,
                     "upload_time": "2019-02-12T23:25:13",
+                    "upload_time_iso_8601": "2019-02-12T23:25:13.372667Z",
                     "url": "https://files.pythonhosted.org/packages/e8/c6/48d24f8bd909de0a2a4a85b4f18b30c750acbd0d13eaf64e214091cbba54/OASYS1-ShadowOui-1.4.110.tar.gz"
                 }
             ],
@@ -267,6 +278,7 @@
                     "requires_python": null,
                     "size": 3110442,
                     "upload_time": "2019-02-13T22:48:09",
+                    "upload_time_iso_8601": "2019-02-13T22:48:09.886570Z",
                     "url": "https://files.pythonhosted.org/packages/8f/35/14bb65318c559e049a9a495b032a324d01608c648f50155da3d68dc67fd1/OASYS1-ShadowOui-1.4.111.tar.gz"
                 }
             ],
@@ -286,6 +298,7 @@
                     "requires_python": null,
                     "size": 3110719,
                     "upload_time": "2019-02-14T18:47:38",
+                    "upload_time_iso_8601": "2019-02-14T18:47:38.951922Z",
                     "url": "https://files.pythonhosted.org/packages/38/57/7d9c496cab4c20cefeccfeb804b50aa055329e23ff3126b82d3c16be97bc/OASYS1-ShadowOui-1.4.112.tar.gz"
                 }
             ],
@@ -305,6 +318,7 @@
                     "requires_python": null,
                     "size": 3110714,
                     "upload_time": "2019-02-15T00:53:35",
+                    "upload_time_iso_8601": "2019-02-15T00:53:35.253617Z",
                     "url": "https://files.pythonhosted.org/packages/89/4c/675ed695560a27e3233182064580031350bda3bf7ae8be7fd17722d29a59/OASYS1-ShadowOui-1.4.113.tar.gz"
                 }
             ],
@@ -324,6 +338,7 @@
                     "requires_python": null,
                     "size": 3111097,
                     "upload_time": "2019-02-15T17:52:28",
+                    "upload_time_iso_8601": "2019-02-15T17:52:28.053792Z",
                     "url": "https://files.pythonhosted.org/packages/f1/91/41b185b28876e1eaa68d96119c6a8bc5ca08723fc879f7a64db7dc947459/OASYS1-ShadowOui-1.4.114.tar.gz"
                 }
             ],
@@ -343,6 +358,7 @@
                     "requires_python": null,
                     "size": 3111683,
                     "upload_time": "2019-02-15T22:50:31",
+                    "upload_time_iso_8601": "2019-02-15T22:50:31.788021Z",
                     "url": "https://files.pythonhosted.org/packages/d5/40/d869b38b7fdde31a4c7fa5fdd3831974a03e47478b72d327b33d9530df95/OASYS1-ShadowOui-1.4.115.tar.gz"
                 }
             ],
@@ -362,6 +378,7 @@
                     "requires_python": null,
                     "size": 3111362,
                     "upload_time": "2019-02-16T20:09:49",
+                    "upload_time_iso_8601": "2019-02-16T20:09:49.743081Z",
                     "url": "https://files.pythonhosted.org/packages/e0/70/a58bdf01911cba487989a3cdf0e72211faaea44adbbbeb5b380697a3fe0f/OASYS1-ShadowOui-1.4.116.tar.gz"
                 }
             ],
@@ -381,6 +398,7 @@
                     "requires_python": null,
                     "size": 3111899,
                     "upload_time": "2019-02-18T17:17:10",
+                    "upload_time_iso_8601": "2019-02-18T17:17:10.091024Z",
                     "url": "https://files.pythonhosted.org/packages/5f/e5/c584dee5165e535b010750b0b215ee48136f06db055f651dc9bd7b8dae36/OASYS1-ShadowOui-1.4.117.tar.gz"
                 }
             ],
@@ -400,6 +418,7 @@
                     "requires_python": null,
                     "size": 3111903,
                     "upload_time": "2019-02-19T17:30:00",
+                    "upload_time_iso_8601": "2019-02-19T17:30:00.233834Z",
                     "url": "https://files.pythonhosted.org/packages/29/ad/be9d90b4912dbb151396cd3abb0d3c614793ab2a08782d1c42e298d06bb6/OASYS1-ShadowOui-1.4.118.tar.gz"
                 }
             ],
@@ -419,6 +438,7 @@
                     "requires_python": null,
                     "size": 3112071,
                     "upload_time": "2019-02-20T00:25:07",
+                    "upload_time_iso_8601": "2019-02-20T00:25:07.282083Z",
                     "url": "https://files.pythonhosted.org/packages/f1/c6/199954d1bb6baa729fd964a2ebca7f75b269e81b52a7f688b473c23ce1c7/OASYS1-ShadowOui-1.4.119.tar.gz"
                 }
             ],
@@ -438,6 +458,7 @@
                     "requires_python": null,
                     "size": 3112159,
                     "upload_time": "2019-02-20T00:43:15",
+                    "upload_time_iso_8601": "2019-02-20T00:43:15.846554Z",
                     "url": "https://files.pythonhosted.org/packages/af/f7/1bb80c6c966b906fde4a3998ce184ce0ab0f38ce6e4486aa33ae82a0469a/OASYS1-ShadowOui-1.4.120.tar.gz"
                 }
             ],
@@ -457,6 +478,7 @@
                     "requires_python": null,
                     "size": 3112147,
                     "upload_time": "2019-02-20T17:49:47",
+                    "upload_time_iso_8601": "2019-02-20T17:49:47.394779Z",
                     "url": "https://files.pythonhosted.org/packages/3f/9c/6fa10d989e1b3830f1ab86e52f0f5e9246ce835bcf52f5024b02a22c61f7/OASYS1-ShadowOui-1.4.121.tar.gz"
                 }
             ],
@@ -476,6 +498,7 @@
                     "requires_python": null,
                     "size": 3111694,
                     "upload_time": "2019-02-20T20:28:49",
+                    "upload_time_iso_8601": "2019-02-20T20:28:49.191135Z",
                     "url": "https://files.pythonhosted.org/packages/e5/fb/b74c3e394d9d02cf9e72bfdf9b5600d043db56d287a7d9d1c93bf82286de/OASYS1-ShadowOui-1.4.122.tar.gz"
                 }
             ],
@@ -495,6 +518,7 @@
                     "requires_python": null,
                     "size": 3111708,
                     "upload_time": "2019-02-23T19:34:25",
+                    "upload_time_iso_8601": "2019-02-23T19:34:25.601946Z",
                     "url": "https://files.pythonhosted.org/packages/e8/8a/22f3f687f89c4d4306ca55468d8a98e19755b0ebe68c8d23a5f734028a53/OASYS1-ShadowOui-1.4.123.tar.gz"
                 }
             ],
@@ -514,6 +538,7 @@
                     "requires_python": null,
                     "size": 3111742,
                     "upload_time": "2019-02-23T20:14:08",
+                    "upload_time_iso_8601": "2019-02-23T20:14:08.636149Z",
                     "url": "https://files.pythonhosted.org/packages/74/ee/f81981c3e4223528692006f3115c61b43c634b2d94d29cbfdafe0a71eb13/OASYS1-ShadowOui-1.4.124.tar.gz"
                 }
             ],
@@ -533,6 +558,7 @@
                     "requires_python": null,
                     "size": 3112039,
                     "upload_time": "2019-02-25T18:57:36",
+                    "upload_time_iso_8601": "2019-02-25T18:57:36.588505Z",
                     "url": "https://files.pythonhosted.org/packages/91/8d/9cb0aa98f37cfd8951752576b66956b734202292c219ea3d116291ab1050/OASYS1-ShadowOui-1.4.125.tar.gz"
                 }
             ],
@@ -552,6 +578,7 @@
                     "requires_python": null,
                     "size": 3111812,
                     "upload_time": "2019-02-26T22:04:15",
+                    "upload_time_iso_8601": "2019-02-26T22:04:15.783304Z",
                     "url": "https://files.pythonhosted.org/packages/d6/f8/8985f3e32545402a7810fba234f8e79da0500c8094b2edb0158b49f7b521/OASYS1-ShadowOui-1.4.126.tar.gz"
                 }
             ],
@@ -571,6 +598,7 @@
                     "requires_python": null,
                     "size": 3111902,
                     "upload_time": "2019-03-02T21:47:41",
+                    "upload_time_iso_8601": "2019-03-02T21:47:41.240471Z",
                     "url": "https://files.pythonhosted.org/packages/07/c3/ff9cf0d8d6c988af52968bf63322ff5cdc84fe1ee97b9987a835645ada81/OASYS1-ShadowOui-1.4.127.tar.gz"
                 }
             ],
@@ -590,6 +618,7 @@
                     "requires_python": null,
                     "size": 3111939,
                     "upload_time": "2019-03-04T22:12:11",
+                    "upload_time_iso_8601": "2019-03-04T22:12:11.538839Z",
                     "url": "https://files.pythonhosted.org/packages/10/3a/f137db9db123e783c5a2e8010b16a006102f88552f43a7c04f2f819d28b7/OASYS1-ShadowOui-1.4.128.tar.gz"
                 }
             ],
@@ -609,6 +638,7 @@
                     "requires_python": null,
                     "size": 3111878,
                     "upload_time": "2019-03-07T17:20:08",
+                    "upload_time_iso_8601": "2019-03-07T17:20:08.181163Z",
                     "url": "https://files.pythonhosted.org/packages/10/01/ece5b2f01442f03b7bc8f57532b657ae7243f50c3fc64d8f0aa3657dda0e/OASYS1-ShadowOui-1.4.129.tar.gz"
                 }
             ],
@@ -628,6 +658,7 @@
                     "requires_python": null,
                     "size": 3111894,
                     "upload_time": "2019-03-08T21:13:26",
+                    "upload_time_iso_8601": "2019-03-08T21:13:26.780706Z",
                     "url": "https://files.pythonhosted.org/packages/d7/c8/4624849764801ce68c2fc1cebba0886c47fe7b58a713846b66dc1738566e/OASYS1-ShadowOui-1.4.130.tar.gz"
                 }
             ],
@@ -647,6 +678,7 @@
                     "requires_python": null,
                     "size": 3408350,
                     "upload_time": "2019-04-04T14:52:21",
+                    "upload_time_iso_8601": "2019-04-04T14:52:21.771993Z",
                     "url": "https://files.pythonhosted.org/packages/6e/8e/5ee4a0b92dd35c1002fadf6b0ad498529c4960ce920c8aef923f637ee961/OASYS1-ShadowOui-1.4.131.tar.gz"
                 }
             ],
@@ -666,6 +698,7 @@
                     "requires_python": null,
                     "size": 3406802,
                     "upload_time": "2019-04-09T17:12:35",
+                    "upload_time_iso_8601": "2019-04-09T17:12:35.061250Z",
                     "url": "https://files.pythonhosted.org/packages/c2/e3/4020c1842b0f2d575ef16579a350714737c710610268edbb5cca82eda75d/OASYS1-ShadowOui-1.4.132.tar.gz"
                 }
             ],
@@ -685,6 +718,7 @@
                     "requires_python": null,
                     "size": 3406701,
                     "upload_time": "2019-04-09T17:14:51",
+                    "upload_time_iso_8601": "2019-04-09T17:14:51.645985Z",
                     "url": "https://files.pythonhosted.org/packages/db/a8/c1ea62890c57bbc510fbacd2e3654bfe38907ab83dbef5878cae1c1f6669/OASYS1-ShadowOui-1.4.133.tar.gz"
                 }
             ],
@@ -704,6 +738,7 @@
                     "requires_python": null,
                     "size": 3406805,
                     "upload_time": "2019-04-09T17:18:49",
+                    "upload_time_iso_8601": "2019-04-09T17:18:49.261901Z",
                     "url": "https://files.pythonhosted.org/packages/92/ad/16f7eba699f7f27c3d9a430d58603c49718a1733a8792c35eb32aa5112c4/OASYS1-ShadowOui-1.4.134.tar.gz"
                 }
             ],
@@ -723,6 +758,7 @@
                     "requires_python": null,
                     "size": 3406858,
                     "upload_time": "2019-04-09T17:27:22",
+                    "upload_time_iso_8601": "2019-04-09T17:27:22.645844Z",
                     "url": "https://files.pythonhosted.org/packages/62/58/581ba29138a75c22fe21d617f8950c522f85f072812d951743e96191655a/OASYS1-ShadowOui-1.4.135.tar.gz"
                 }
             ],
@@ -742,6 +778,7 @@
                     "requires_python": null,
                     "size": 3407011,
                     "upload_time": "2019-04-16T16:25:19",
+                    "upload_time_iso_8601": "2019-04-16T16:25:19.503862Z",
                     "url": "https://files.pythonhosted.org/packages/cf/d0/b80214e137689c3b5be6199493394edea4861668a0f70aa9249367f14985/OASYS1-ShadowOui-1.4.136.tar.gz"
                 }
             ],
@@ -761,6 +798,7 @@
                     "requires_python": null,
                     "size": 3407098,
                     "upload_time": "2019-04-16T16:53:58",
+                    "upload_time_iso_8601": "2019-04-16T16:53:58.897182Z",
                     "url": "https://files.pythonhosted.org/packages/34/d4/d981887f4bfb22f66012ac82214cb4c40cfa5393104b30f9efd4256072ed/OASYS1-ShadowOui-1.4.137.tar.gz"
                 }
             ],
@@ -780,6 +818,7 @@
                     "requires_python": null,
                     "size": 3407137,
                     "upload_time": "2019-04-17T16:30:37",
+                    "upload_time_iso_8601": "2019-04-17T16:30:37.275379Z",
                     "url": "https://files.pythonhosted.org/packages/d3/bb/853f8f1a0989ada5f690cb4f7df2c8358137063b835cbe4d6407d9058c09/OASYS1-ShadowOui-1.4.138.tar.gz"
                 }
             ],
@@ -799,6 +838,7 @@
                     "requires_python": null,
                     "size": 3407128,
                     "upload_time": "2019-04-22T19:51:38",
+                    "upload_time_iso_8601": "2019-04-22T19:51:38.089896Z",
                     "url": "https://files.pythonhosted.org/packages/9c/b1/fd4c3316ef04950106716071bdfdf8a15df2346610b7fdcf9ee33f93c7fc/OASYS1-ShadowOui-1.4.139.tar.gz"
                 }
             ],
@@ -818,6 +858,7 @@
                     "requires_python": null,
                     "size": 3406777,
                     "upload_time": "2019-05-09T14:59:38",
+                    "upload_time_iso_8601": "2019-05-09T14:59:38.095836Z",
                     "url": "https://files.pythonhosted.org/packages/81/2c/fa1dac6715d52096d1a3d3b5bfd645b2e98ef0cdd2470b6210e1b817f8ca/OASYS1-ShadowOui-1.4.140.tar.gz"
                 }
             ],
@@ -837,6 +878,7 @@
                     "requires_python": null,
                     "size": 3405609,
                     "upload_time": "2019-05-10T09:18:04",
+                    "upload_time_iso_8601": "2019-05-10T09:18:04.293314Z",
                     "url": "https://files.pythonhosted.org/packages/1b/20/c7803f1b1c127dac044a3630223c5b2185835b681625180678950d9bd882/OASYS1-ShadowOui-1.4.141.tar.gz"
                 }
             ],
@@ -856,6 +898,7 @@
                     "requires_python": null,
                     "size": 3405721,
                     "upload_time": "2019-05-10T13:24:04",
+                    "upload_time_iso_8601": "2019-05-10T13:24:04.670988Z",
                     "url": "https://files.pythonhosted.org/packages/4b/32/cc5c328cb5d17266acd9a2fb5a310ae933656e173c63f6aee41d6de4ad32/OASYS1-ShadowOui-1.4.142.tar.gz"
                 }
             ],
@@ -875,6 +918,7 @@
                     "requires_python": null,
                     "size": 3406049,
                     "upload_time": "2019-05-13T12:01:16",
+                    "upload_time_iso_8601": "2019-05-13T12:01:16.597844Z",
                     "url": "https://files.pythonhosted.org/packages/37/da/5d9a0b31285ad5d54e1a0dc8eb9dede7c6c8760c352de58f7fcc2013371c/OASYS1-ShadowOui-1.4.143.tar.gz"
                 }
             ],
@@ -894,6 +938,7 @@
                     "requires_python": null,
                     "size": 3406069,
                     "upload_time": "2019-05-15T07:43:22",
+                    "upload_time_iso_8601": "2019-05-15T07:43:22.192236Z",
                     "url": "https://files.pythonhosted.org/packages/3b/ee/e6f5ce498730ad32fc6ebe04c19dc30bb8543f0c16adb93b8124d66d99af/OASYS1-ShadowOui-1.4.144.tar.gz"
                 }
             ],
@@ -913,6 +958,7 @@
                     "requires_python": null,
                     "size": 2988930,
                     "upload_time": "2018-07-17T15:42:43",
+                    "upload_time_iso_8601": "2018-07-17T15:42:43.086798Z",
                     "url": "https://files.pythonhosted.org/packages/4c/94/e0d81f2ea26c11f1f5a471e0e8bb50dc725e7121762d664271f453b060d3/OASYS1-ShadowOui-1.4.59.tar.gz"
                 }
             ],
@@ -932,6 +978,7 @@
                     "requires_python": null,
                     "size": 2982936,
                     "upload_time": "2018-09-21T15:40:21",
+                    "upload_time_iso_8601": "2018-09-21T15:40:21.240992Z",
                     "url": "https://files.pythonhosted.org/packages/25/9d/bdeeaf357d9ab5027382194a765008a5cddb85920fa3b57f4af0e4bd1fa1/OASYS1-ShadowOui-1.4.60.tar.gz"
                 }
             ],
@@ -951,6 +998,7 @@
                     "requires_python": null,
                     "size": 2982936,
                     "upload_time": "2018-09-21T19:46:39",
+                    "upload_time_iso_8601": "2018-09-21T19:46:39.213183Z",
                     "url": "https://files.pythonhosted.org/packages/96/3d/71e78b69f73ae07c0500e0866ba93a4145eb59d81c6320ac4f3e465eb09a/OASYS1-ShadowOui-1.4.61.tar.gz"
                 }
             ],
@@ -970,6 +1018,7 @@
                     "requires_python": null,
                     "size": 2982955,
                     "upload_time": "2018-10-02T21:33:18",
+                    "upload_time_iso_8601": "2018-10-02T21:33:18.730508Z",
                     "url": "https://files.pythonhosted.org/packages/b0/74/c5ffcbe3fc1978a79e8a01e6a8e8ee64248fcf910594069effcdf0951b59/OASYS1-ShadowOui-1.4.62.tar.gz"
                 }
             ],
@@ -989,6 +1038,7 @@
                     "requires_python": null,
                     "size": 2982919,
                     "upload_time": "2018-10-09T21:00:02",
+                    "upload_time_iso_8601": "2018-10-09T21:00:02.166778Z",
                     "url": "https://files.pythonhosted.org/packages/ae/22/83d535e5338768cee024235300373f6f6a5f3dc21a3ac46fefee185e296d/OASYS1-ShadowOui-1.4.63.tar.gz"
                 }
             ],
@@ -1008,6 +1058,7 @@
                     "requires_python": null,
                     "size": 2983028,
                     "upload_time": "2018-10-16T21:29:11",
+                    "upload_time_iso_8601": "2018-10-16T21:29:11.222107Z",
                     "url": "https://files.pythonhosted.org/packages/43/25/13476f0e00aae581b34bff5b781a443f2e02b9e6e6d7c4a638014b216d4a/OASYS1-ShadowOui-1.4.64.tar.gz"
                 }
             ],
@@ -1027,6 +1078,7 @@
                     "requires_python": null,
                     "size": 2983287,
                     "upload_time": "2018-10-19T23:40:03",
+                    "upload_time_iso_8601": "2018-10-19T23:40:03.077985Z",
                     "url": "https://files.pythonhosted.org/packages/6a/8d/fb89a7c789f4d272018002ebc48cda473a7e8a8f8520941dc4f28725673e/OASYS1-ShadowOui-1.4.65.tar.gz"
                 }
             ],
@@ -1046,6 +1098,7 @@
                     "requires_python": null,
                     "size": 2983312,
                     "upload_time": "2018-10-23T15:44:49",
+                    "upload_time_iso_8601": "2018-10-23T15:44:49.431533Z",
                     "url": "https://files.pythonhosted.org/packages/8b/6b/91707d264d722802c7a0613a6fc42bb368a96055d83ec307cd4707364e65/OASYS1-ShadowOui-1.4.66.tar.gz"
                 }
             ],
@@ -1065,6 +1118,7 @@
                     "requires_python": null,
                     "size": 2983307,
                     "upload_time": "2018-10-24T16:54:28",
+                    "upload_time_iso_8601": "2018-10-24T16:54:28.859136Z",
                     "url": "https://files.pythonhosted.org/packages/82/b9/2cdcbef5f7b24b529aa6ef82b42409586e4e4f38e3226fb81bf3c1b408c3/OASYS1-ShadowOui-1.4.67.tar.gz"
                 }
             ],
@@ -1084,6 +1138,7 @@
                     "requires_python": null,
                     "size": 2983326,
                     "upload_time": "2018-10-25T22:06:21",
+                    "upload_time_iso_8601": "2018-10-25T22:06:21.383162Z",
                     "url": "https://files.pythonhosted.org/packages/b7/88/28240f9354cc4f4384fe994e89b3d5b5e4033784693553cc0c4d9cdcf457/OASYS1-ShadowOui-1.4.68.tar.gz"
                 }
             ],
@@ -1103,6 +1158,7 @@
                     "requires_python": null,
                     "size": 3013480,
                     "upload_time": "2018-10-30T21:09:18",
+                    "upload_time_iso_8601": "2018-10-30T21:09:18.877974Z",
                     "url": "https://files.pythonhosted.org/packages/78/e7/c45cbd271fd394ed080e9ad1a888f05523eb6a8eb45e153d9a004c6e2932/OASYS1-ShadowOui-1.4.69.tar.gz"
                 }
             ],
@@ -1122,6 +1178,7 @@
                     "requires_python": null,
                     "size": 3063399,
                     "upload_time": "2018-10-30T21:46:44",
+                    "upload_time_iso_8601": "2018-10-30T21:46:44.817832Z",
                     "url": "https://files.pythonhosted.org/packages/22/0f/3b799dc13d589ffebffc1fca78f69d539b44aff3635ab30f62766a7c328e/OASYS1-ShadowOui-1.4.70.tar.gz"
                 }
             ],
@@ -1141,6 +1198,7 @@
                     "requires_python": null,
                     "size": 3063391,
                     "upload_time": "2018-10-30T22:02:17",
+                    "upload_time_iso_8601": "2018-10-30T22:02:17.193721Z",
                     "url": "https://files.pythonhosted.org/packages/5a/bb/8f07620cbe8f5fc39f9ae5027c8a2a82a0cbd855a1b433bd3efd8e943e18/OASYS1-ShadowOui-1.4.71.tar.gz"
                 }
             ],
@@ -1160,6 +1218,7 @@
                     "requires_python": null,
                     "size": 3063485,
                     "upload_time": "2018-11-14T23:04:09",
+                    "upload_time_iso_8601": "2018-11-14T23:04:09.663787Z",
                     "url": "https://files.pythonhosted.org/packages/ef/32/b03e60810c11e3903a62a42df74ded858c8d4ea69f757d87fe614b380e42/OASYS1-ShadowOui-1.4.72.tar.gz"
                 }
             ],
@@ -1179,6 +1238,7 @@
                     "requires_python": null,
                     "size": 3063487,
                     "upload_time": "2018-11-14T23:24:15",
+                    "upload_time_iso_8601": "2018-11-14T23:24:15.328432Z",
                     "url": "https://files.pythonhosted.org/packages/6c/69/85b48db37b56164bae26b930901f9ed90b2c006cde3d93dd157c20b7e82b/OASYS1-ShadowOui-1.4.73.tar.gz"
                 }
             ],
@@ -1198,6 +1258,7 @@
                     "requires_python": null,
                     "size": 3097873,
                     "upload_time": "2018-11-16T20:16:06",
+                    "upload_time_iso_8601": "2018-11-16T20:16:06.727510Z",
                     "url": "https://files.pythonhosted.org/packages/29/6a/049c84f489b44c59cfd76d7788c1fe40d8b70554f2caf2d7f4a5e2dbfd2e/OASYS1-ShadowOui-1.4.74.tar.gz"
                 }
             ],
@@ -1217,6 +1278,7 @@
                     "requires_python": null,
                     "size": 3097868,
                     "upload_time": "2018-11-16T20:31:12",
+                    "upload_time_iso_8601": "2018-11-16T20:31:12.939562Z",
                     "url": "https://files.pythonhosted.org/packages/81/88/a9a96c1c060714980fdb3634de80a2f2e606c20c32f9c6c5cb07f88aa5e4/OASYS1-ShadowOui-1.4.75.tar.gz"
                 }
             ],
@@ -1236,6 +1298,7 @@
                     "requires_python": null,
                     "size": 3097863,
                     "upload_time": "2018-11-19T15:18:10",
+                    "upload_time_iso_8601": "2018-11-19T15:18:10.343868Z",
                     "url": "https://files.pythonhosted.org/packages/2c/ed/ef65dd8cda0844eeb0d0fa64fa6a6a3519229e6165a6c3ac73eca817e81f/OASYS1-ShadowOui-1.4.76.tar.gz"
                 }
             ],
@@ -1255,6 +1318,7 @@
                     "requires_python": null,
                     "size": 3097844,
                     "upload_time": "2018-11-19T15:21:59",
+                    "upload_time_iso_8601": "2018-11-19T15:21:59.830067Z",
                     "url": "https://files.pythonhosted.org/packages/8f/70/0184f8b680dd860cb5ebe793b3df79225039c56ae8550d6512203461b8ca/OASYS1-ShadowOui-1.4.77.tar.gz"
                 }
             ],
@@ -1274,6 +1338,7 @@
                     "requires_python": null,
                     "size": 3097855,
                     "upload_time": "2018-11-19T15:47:23",
+                    "upload_time_iso_8601": "2018-11-19T15:47:23.625534Z",
                     "url": "https://files.pythonhosted.org/packages/8c/89/4ba3f74a9bb8fb72824706f54a787e39ac07d03a214b6d914e36687867ea/OASYS1-ShadowOui-1.4.78.tar.gz"
                 }
             ],
@@ -1293,6 +1358,7 @@
                     "requires_python": null,
                     "size": 3098511,
                     "upload_time": "2018-11-20T17:07:24",
+                    "upload_time_iso_8601": "2018-11-20T17:07:24.543233Z",
                     "url": "https://files.pythonhosted.org/packages/ce/60/51ce7c071e0f0db2c9bcaa924af5d37b7029558c00f018b7037a07376e1f/OASYS1-ShadowOui-1.4.79.tar.gz"
                 }
             ],
@@ -1312,6 +1378,7 @@
                     "requires_python": null,
                     "size": 3098598,
                     "upload_time": "2018-11-28T22:22:15",
+                    "upload_time_iso_8601": "2018-11-28T22:22:15.369611Z",
                     "url": "https://files.pythonhosted.org/packages/da/03/8c15acc3d1b4bd9cf6e828c6e5f03e09e6f8098e5c9e1e78a065219a8c18/OASYS1-ShadowOui-1.4.80.tar.gz"
                 }
             ],
@@ -1331,6 +1398,7 @@
                     "requires_python": null,
                     "size": 3098671,
                     "upload_time": "2018-12-06T22:53:57",
+                    "upload_time_iso_8601": "2018-12-06T22:53:57.432974Z",
                     "url": "https://files.pythonhosted.org/packages/4b/0d/a3650626b259689ed251167874283fe8adc99018021b29e3129dce0b6f02/OASYS1-ShadowOui-1.4.81.tar.gz"
                 }
             ],
@@ -1350,6 +1418,7 @@
                     "requires_python": null,
                     "size": 3098849,
                     "upload_time": "2018-12-11T22:21:43",
+                    "upload_time_iso_8601": "2018-12-11T22:21:43.845597Z",
                     "url": "https://files.pythonhosted.org/packages/ac/dd/d2c0d80abd726f73fd59c62bf8ba6ac6ca1c37118efa74fc3fcae6cd6d52/OASYS1-ShadowOui-1.4.82.tar.gz"
                 }
             ],
@@ -1369,6 +1438,7 @@
                     "requires_python": null,
                     "size": 3099047,
                     "upload_time": "2018-12-13T17:27:25",
+                    "upload_time_iso_8601": "2018-12-13T17:27:25.240150Z",
                     "url": "https://files.pythonhosted.org/packages/9f/bc/7aa28a2c90f11fe8ba35e81d5b747cd83c839f5f643a4f55f5ca210b6f60/OASYS1-ShadowOui-1.4.83.tar.gz"
                 }
             ],
@@ -1388,6 +1458,7 @@
                     "requires_python": null,
                     "size": 3099848,
                     "upload_time": "2018-12-20T22:30:42",
+                    "upload_time_iso_8601": "2018-12-20T22:30:42.884597Z",
                     "url": "https://files.pythonhosted.org/packages/40/9c/6590f792d059973d9c947769d8864301e1214a4ea2e258525e7c13473ad7/OASYS1-ShadowOui-1.4.84.tar.gz"
                 }
             ],
@@ -1407,6 +1478,7 @@
                     "requires_python": null,
                     "size": 3099861,
                     "upload_time": "2018-12-20T22:33:55",
+                    "upload_time_iso_8601": "2018-12-20T22:33:55.388338Z",
                     "url": "https://files.pythonhosted.org/packages/93/9b/fc7933b3405079ea7d2fc93d399eded7b659342aa3fc9e7240110481c3b7/OASYS1-ShadowOui-1.4.85.tar.gz"
                 }
             ],
@@ -1426,6 +1498,7 @@
                     "requires_python": null,
                     "size": 3099910,
                     "upload_time": "2018-12-21T16:42:23",
+                    "upload_time_iso_8601": "2018-12-21T16:42:23.746930Z",
                     "url": "https://files.pythonhosted.org/packages/46/45/acdab8c28d85de4e2b5dd13c9c82a86a633e6d7275382bc3c45206cbc752/OASYS1-ShadowOui-1.4.86.tar.gz"
                 }
             ],
@@ -1445,6 +1518,7 @@
                     "requires_python": null,
                     "size": 3099890,
                     "upload_time": "2019-01-04T15:20:11",
+                    "upload_time_iso_8601": "2019-01-04T15:20:11.935929Z",
                     "url": "https://files.pythonhosted.org/packages/2a/d7/d6823640d3d12a5beb5fbab6125ebad579d1ce5436ff9f5d2434b833bd35/OASYS1-ShadowOui-1.4.87.tar.gz"
                 }
             ],
@@ -1464,6 +1538,7 @@
                     "requires_python": null,
                     "size": 3100838,
                     "upload_time": "2019-01-10T20:37:51",
+                    "upload_time_iso_8601": "2019-01-10T20:37:51.841923Z",
                     "url": "https://files.pythonhosted.org/packages/d9/cd/359d4fe1b920ad1f7a2d605ee7f028d5a983866af0d7028eeef0bb0dcd4c/OASYS1-ShadowOui-1.4.88.tar.gz"
                 }
             ],
@@ -1483,6 +1558,7 @@
                     "requires_python": null,
                     "size": 3100733,
                     "upload_time": "2019-01-10T23:54:51",
+                    "upload_time_iso_8601": "2019-01-10T23:54:51.486129Z",
                     "url": "https://files.pythonhosted.org/packages/cb/b2/3ecbfcdb210fc663ba208b9e675aa43de8b0cf4d6f02872c01a7e5367257/OASYS1-ShadowOui-1.4.89.tar.gz"
                 }
             ],
@@ -1502,6 +1578,7 @@
                     "requires_python": null,
                     "size": 3095366,
                     "upload_time": "2019-01-14T23:47:04",
+                    "upload_time_iso_8601": "2019-01-14T23:47:04.645881Z",
                     "url": "https://files.pythonhosted.org/packages/a3/3c/ad30a419f479b01642bc3648a3e3045e2ddc4d8368ff4f4b2f563b823f5e/OASYS1-ShadowOui-1.4.90.tar.gz"
                 }
             ],
@@ -1521,6 +1598,7 @@
                     "requires_python": null,
                     "size": 3095580,
                     "upload_time": "2019-01-15T17:11:44",
+                    "upload_time_iso_8601": "2019-01-15T17:11:44.679968Z",
                     "url": "https://files.pythonhosted.org/packages/7f/fe/a00ef56ca8d25e54f4c7baa9924b68dc6689093d1e7256e4ed409fea65db/OASYS1-ShadowOui-1.4.91.tar.gz"
                 }
             ],
@@ -1540,6 +1618,7 @@
                     "requires_python": null,
                     "size": 3095549,
                     "upload_time": "2019-01-16T18:32:07",
+                    "upload_time_iso_8601": "2019-01-16T18:32:07.251594Z",
                     "url": "https://files.pythonhosted.org/packages/08/d7/c9dc4b3ce18eda67f0b11eef5471446e608a676ac5d9f593feadee08e197/OASYS1-ShadowOui-1.4.92.tar.gz"
                 }
             ],
@@ -1559,6 +1638,7 @@
                     "requires_python": null,
                     "size": 3095579,
                     "upload_time": "2019-01-17T01:43:11",
+                    "upload_time_iso_8601": "2019-01-17T01:43:11.055306Z",
                     "url": "https://files.pythonhosted.org/packages/bf/e1/42576e7fcb3e620bc75b78331a0c75836b0cf3e6d0c9b2430ee911a73473/OASYS1-ShadowOui-1.4.93.tar.gz"
                 }
             ],
@@ -1578,6 +1658,7 @@
                     "requires_python": null,
                     "size": 3103181,
                     "upload_time": "2019-01-18T22:27:44",
+                    "upload_time_iso_8601": "2019-01-18T22:27:44.562784Z",
                     "url": "https://files.pythonhosted.org/packages/9c/a7/47a794cc7fb2ecb851a5babeb09fd572acc7aad4477823352f486b8ccf63/OASYS1-ShadowOui-1.4.94.tar.gz"
                 }
             ],
@@ -1597,6 +1678,7 @@
                     "requires_python": null,
                     "size": 3103360,
                     "upload_time": "2019-01-21T17:35:17",
+                    "upload_time_iso_8601": "2019-01-21T17:35:17.341780Z",
                     "url": "https://files.pythonhosted.org/packages/48/5a/b5fffdc7c74c5702b66da1bfc98720f72e63526a9ad7a17a8282654e4666/OASYS1-ShadowOui-1.4.95.tar.gz"
                 }
             ],
@@ -1616,6 +1698,7 @@
                     "requires_python": null,
                     "size": 3103511,
                     "upload_time": "2019-01-21T22:18:38",
+                    "upload_time_iso_8601": "2019-01-21T22:18:38.942578Z",
                     "url": "https://files.pythonhosted.org/packages/2f/67/65b470e1bf6f9eb10bd0b8efc61c5a2d17d736feee898c5b8cc74db5302d/OASYS1-ShadowOui-1.4.96.tar.gz"
                 }
             ],
@@ -1635,6 +1718,7 @@
                     "requires_python": null,
                     "size": 3103715,
                     "upload_time": "2019-01-22T00:00:36",
+                    "upload_time_iso_8601": "2019-01-22T00:00:36.638412Z",
                     "url": "https://files.pythonhosted.org/packages/4d/77/ee1abace48f5c8458791e7b0c18ce011473f740176c6d916f58548160ffd/OASYS1-ShadowOui-1.4.97.tar.gz"
                 }
             ],
@@ -1654,6 +1738,7 @@
                     "requires_python": null,
                     "size": 3103713,
                     "upload_time": "2019-01-22T00:10:13",
+                    "upload_time_iso_8601": "2019-01-22T00:10:13.540249Z",
                     "url": "https://files.pythonhosted.org/packages/9c/28/2c519cae7e95a0ccbbd86065b83252d7d0dddb018d42dc84aad3199675f3/OASYS1-ShadowOui-1.4.98.tar.gz"
                 }
             ],
@@ -1673,6 +1758,7 @@
                     "requires_python": null,
                     "size": 3103102,
                     "upload_time": "2019-01-23T17:08:12",
+                    "upload_time_iso_8601": "2019-01-23T17:08:12.602786Z",
                     "url": "https://files.pythonhosted.org/packages/ca/89/7250df606f58b1870731cd0d6b93b50dd923216d50f644b3c2e65cbc9ada/OASYS1-ShadowOui-1.4.99.tar.gz"
                 }
             ],
@@ -1692,6 +1778,7 @@
                     "requires_python": null,
                     "size": 3408630,
                     "upload_time": "2019-05-30T19:02:56",
+                    "upload_time_iso_8601": "2019-05-30T19:02:56.496705Z",
                     "url": "https://files.pythonhosted.org/packages/ed/52/5240fdf3d3ebca04dbd55eee445f8152d82fccf52cfc1343089d13733cb9/OASYS1-ShadowOui-1.5.0.tar.gz"
                 }
             ],
@@ -1711,6 +1798,7 @@
                     "requires_python": null,
                     "size": 3408774,
                     "upload_time": "2019-05-31T16:49:53",
+                    "upload_time_iso_8601": "2019-05-31T16:49:53.363490Z",
                     "url": "https://files.pythonhosted.org/packages/44/f3/4cfc02739ea35c1aeb21b001b4adc03dac47b5df4d2b39e779d2a8fdddb1/OASYS1-ShadowOui-1.5.1.tar.gz"
                 }
             ],
@@ -1730,6 +1818,7 @@
                     "requires_python": null,
                     "size": 3411283,
                     "upload_time": "2019-08-09T22:04:16",
+                    "upload_time_iso_8601": "2019-08-09T22:04:16.678782Z",
                     "url": "https://files.pythonhosted.org/packages/d9/cf/c977a23e1d19c2a77f2976a7c5cfcd85c16f7c91e4249289806548c662e9/OASYS1-ShadowOui-1.5.10.tar.gz"
                 }
             ],
@@ -1749,6 +1838,7 @@
                     "requires_python": null,
                     "size": 3410334,
                     "upload_time": "2019-08-14T21:25:22",
+                    "upload_time_iso_8601": "2019-08-14T21:25:22.698045Z",
                     "url": "https://files.pythonhosted.org/packages/77/6a/de08dcd8cf48e9b238301f348d040900a182a9229d143984cb2b80dac252/OASYS1-ShadowOui-1.5.11.tar.gz"
                 }
             ],
@@ -1768,6 +1858,7 @@
                     "requires_python": null,
                     "size": 3410367,
                     "upload_time": "2019-08-14T21:37:29",
+                    "upload_time_iso_8601": "2019-08-14T21:37:29.001559Z",
                     "url": "https://files.pythonhosted.org/packages/62/d2/5873360880bcaa48174f61bf5726caa0f1e549985fae85734e1ac77974b9/OASYS1-ShadowOui-1.5.12.tar.gz"
                 }
             ],
@@ -1787,6 +1878,7 @@
                     "requires_python": null,
                     "size": 3409795,
                     "upload_time": "2019-08-15T22:27:45",
+                    "upload_time_iso_8601": "2019-08-15T22:27:45.075387Z",
                     "url": "https://files.pythonhosted.org/packages/26/97/06ac2ed0482753574243bb5c18fbc237d09cc72684ac6219a761b42e8485/OASYS1-ShadowOui-1.5.13.tar.gz"
                 }
             ],
@@ -1806,6 +1898,7 @@
                     "requires_python": null,
                     "size": 3411021,
                     "upload_time": "2019-08-16T18:31:10",
+                    "upload_time_iso_8601": "2019-08-16T18:31:10.656951Z",
                     "url": "https://files.pythonhosted.org/packages/68/fc/108ae17d8eab0e1cc377bc71e2038e54a7b5fa4768223a9b8d240be739dc/OASYS1-ShadowOui-1.5.14.tar.gz"
                 }
             ],
@@ -1825,6 +1918,7 @@
                     "requires_python": null,
                     "size": 3411746,
                     "upload_time": "2019-09-04T17:40:00",
+                    "upload_time_iso_8601": "2019-09-04T17:40:00.760906Z",
                     "url": "https://files.pythonhosted.org/packages/d0/30/fa0bd1f3c8edf57200ab5c7b44e508ba59b4fefa6fe9f578b1b7501a5049/OASYS1-ShadowOui-1.5.15.tar.gz"
                 }
             ],
@@ -1844,6 +1938,7 @@
                     "requires_python": null,
                     "size": 3411118,
                     "upload_time": "2019-09-05T22:44:02",
+                    "upload_time_iso_8601": "2019-09-05T22:44:02.086917Z",
                     "url": "https://files.pythonhosted.org/packages/5c/d4/b11d38818d863fe9eb9a488ddfdcf5f4577086cb6346093ade1833a79b2f/OASYS1-ShadowOui-1.5.16.tar.gz"
                 }
             ],
@@ -1863,6 +1958,7 @@
                     "requires_python": null,
                     "size": 3411122,
                     "upload_time": "2019-09-06T20:53:59",
+                    "upload_time_iso_8601": "2019-09-06T20:53:59.579481Z",
                     "url": "https://files.pythonhosted.org/packages/01/ac/5ae294247543902671191212863feefc45e17471f6edf71330a9fc51e758/OASYS1-ShadowOui-1.5.17.tar.gz"
                 }
             ],
@@ -1882,6 +1978,7 @@
                     "requires_python": null,
                     "size": 3410847,
                     "upload_time": "2019-09-06T21:41:53",
+                    "upload_time_iso_8601": "2019-09-06T21:41:53.598567Z",
                     "url": "https://files.pythonhosted.org/packages/bd/2a/c0146749acfdce88df4ceba8d9fa937832e4f75544874c86b2e9c4e9222d/OASYS1-ShadowOui-1.5.18.tar.gz"
                 }
             ],
@@ -1901,6 +1998,7 @@
                     "requires_python": null,
                     "size": 3410924,
                     "upload_time": "2019-09-09T21:53:56",
+                    "upload_time_iso_8601": "2019-09-09T21:53:56.288201Z",
                     "url": "https://files.pythonhosted.org/packages/cf/dc/2be460df4184730a8aeee11fad6fcd84dd2c9f89f78eeeea0940ecb6a5d9/OASYS1-ShadowOui-1.5.19.tar.gz"
                 }
             ],
@@ -1920,6 +2018,7 @@
                     "requires_python": null,
                     "size": 3411007,
                     "upload_time": "2019-09-24T15:40:53",
+                    "upload_time_iso_8601": "2019-09-24T15:40:53.797724Z",
                     "url": "https://files.pythonhosted.org/packages/18/df/16b4d9ff0a4747f3624bfbf24ea9f3c3fd3a78821f63a74804c27961e044/OASYS1-ShadowOui-1.5.20.tar.gz"
                 }
             ],
@@ -1939,7 +2038,28 @@
                     "requires_python": null,
                     "size": 3411007,
                     "upload_time": "2019-10-11T17:10:32",
+                    "upload_time_iso_8601": "2019-10-11T17:10:32.614719Z",
                     "url": "https://files.pythonhosted.org/packages/27/0e/c7f9978f35844ddfabbef3297879ae4ed057fb35069cc9921e7dbe2f32d2/OASYS1-ShadowOui-1.5.21.tar.gz"
+                }
+            ],
+            "1.5.22": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "efbc81df6fad1b2625b5497156d4f5db",
+                        "sha256": "7c4203b3f83fab8f891ec914a3d881d294b02a95f4670ccaf1fe3cf8589e23e2"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-ShadowOui-1.5.22.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "efbc81df6fad1b2625b5497156d4f5db",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3412193,
+                    "upload_time": "2019-10-31T21:26:19",
+                    "upload_time_iso_8601": "2019-10-31T21:26:19.822433Z",
+                    "url": "https://files.pythonhosted.org/packages/6c/c4/54ed39fe4a880eeb31c84f925feb8834b93756b68a00e2fa46f3f278eb9a/OASYS1-ShadowOui-1.5.22.tar.gz"
                 }
             ],
             "1.5.3": [
@@ -1958,6 +2078,7 @@
                     "requires_python": null,
                     "size": 3408750,
                     "upload_time": "2019-05-31T17:13:21",
+                    "upload_time_iso_8601": "2019-05-31T17:13:21.201819Z",
                     "url": "https://files.pythonhosted.org/packages/b6/aa/8d28dd0026297df8187e950f2cff6f35ce084278826431fa331dbf83c067/OASYS1-ShadowOui-1.5.3.tar.gz"
                 }
             ],
@@ -1977,6 +2098,7 @@
                     "requires_python": null,
                     "size": 3409460,
                     "upload_time": "2019-06-10T16:55:28",
+                    "upload_time_iso_8601": "2019-06-10T16:55:28.456418Z",
                     "url": "https://files.pythonhosted.org/packages/d9/51/7002d4ffc4a542535f299519e3bb18d902e36e022762f08d1989101d6c52/OASYS1-ShadowOui-1.5.4.tar.gz"
                 }
             ],
@@ -1996,6 +2118,7 @@
                     "requires_python": null,
                     "size": 3411376,
                     "upload_time": "2019-06-14T22:02:35",
+                    "upload_time_iso_8601": "2019-06-14T22:02:35.865242Z",
                     "url": "https://files.pythonhosted.org/packages/35/63/22868516b92e58c7579d0f7a6dc4d725fd3c96a1cd668186847d0cd81367/OASYS1-ShadowOui-1.5.5.tar.gz"
                 }
             ],
@@ -2015,6 +2138,7 @@
                     "requires_python": null,
                     "size": 3411445,
                     "upload_time": "2019-06-14T23:30:30",
+                    "upload_time_iso_8601": "2019-06-14T23:30:30.469373Z",
                     "url": "https://files.pythonhosted.org/packages/cf/59/cf7177023cab98a0a1663c75a92a5cfe33977e09eb4859ed6838a3b6278c/OASYS1-ShadowOui-1.5.6.tar.gz"
                 }
             ],
@@ -2034,6 +2158,7 @@
                     "requires_python": null,
                     "size": 3410518,
                     "upload_time": "2019-06-18T16:54:12",
+                    "upload_time_iso_8601": "2019-06-18T16:54:12.227066Z",
                     "url": "https://files.pythonhosted.org/packages/2c/23/aaf300ba60c7c7d1966d0990748416908e28fa11be20e446520c9e3e54a9/OASYS1-ShadowOui-1.5.7.tar.gz"
                 }
             ],
@@ -2053,6 +2178,7 @@
                     "requires_python": null,
                     "size": 3410529,
                     "upload_time": "2019-06-21T15:43:39",
+                    "upload_time_iso_8601": "2019-06-21T15:43:39.115732Z",
                     "url": "https://files.pythonhosted.org/packages/dd/23/77be258c2240680fa4bb652db67cae6c8a470daf4f7fdd5fe6c2c5b9cb68/OASYS1-ShadowOui-1.5.8.tar.gz"
                 }
             ],
@@ -2072,6 +2198,7 @@
                     "requires_python": null,
                     "size": 3410957,
                     "upload_time": "2019-08-09T22:01:17",
+                    "upload_time_iso_8601": "2019-08-09T22:01:17.699550Z",
                     "url": "https://files.pythonhosted.org/packages/a9/55/ca1a05d017f781d412dbb43b3313a21d2d5698d4d5d8b2257584aad7622c/OASYS1-ShadowOui-1.5.9.tar.gz"
                 }
             ]
@@ -2080,19 +2207,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "15fa81bb80579f9e702e44da4ccc29af",
-                    "sha256": "4bc90de3b626d85a6b0282216b06bc3ae96c2e4c3e51c03f23e7054a4e6f3917"
+                    "md5": "efbc81df6fad1b2625b5497156d4f5db",
+                    "sha256": "7c4203b3f83fab8f891ec914a3d881d294b02a95f4670ccaf1fe3cf8589e23e2"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.5.21.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.5.22.tar.gz",
                 "has_sig": false,
-                "md5_digest": "15fa81bb80579f9e702e44da4ccc29af",
+                "md5_digest": "efbc81df6fad1b2625b5497156d4f5db",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 3411007,
-                "upload_time": "2019-10-11T17:10:32",
-                "url": "https://files.pythonhosted.org/packages/27/0e/c7f9978f35844ddfabbef3297879ae4ed057fb35069cc9921e7dbe2f32d2/OASYS1-ShadowOui-1.5.21.tar.gz"
+                "size": 3412193,
+                "upload_time": "2019-10-31T21:26:19",
+                "upload_time_iso_8601": "2019-10-31T21:26:19.822433Z",
+                "url": "https://files.pythonhosted.org/packages/6c/c4/54ed39fe4a880eeb31c84f925feb8834b93756b68a00e2fa46f3f278eb9a/OASYS1-ShadowOui-1.5.22.tar.gz"
             }
         ]
     },
@@ -2155,6 +2283,7 @@
                     "requires_python": null,
                     "size": 1396126,
                     "upload_time": "2018-05-31T15:26:54",
+                    "upload_time_iso_8601": "2018-05-31T15:26:54.575742Z",
                     "url": "https://files.pythonhosted.org/packages/2a/92/dab0a70e90762d417ca05f3554ac07dacc37bf0eff874bfe752dc9a4c951/OASYS1-SRW-1.0.0.tar.gz"
                 }
             ],
@@ -2174,6 +2303,7 @@
                     "requires_python": null,
                     "size": 1396117,
                     "upload_time": "2018-05-31T15:31:31",
+                    "upload_time_iso_8601": "2018-05-31T15:31:31.280111Z",
                     "url": "https://files.pythonhosted.org/packages/d0/40/1fb518ab48d6fefb9e0652c0b3b5aa3afabdb48d61ce6a0f49b4459b013a/OASYS1-SRW-1.0.1.tar.gz"
                 }
             ],
@@ -2193,6 +2323,7 @@
                     "requires_python": null,
                     "size": 1711516,
                     "upload_time": "2018-06-07T10:02:15",
+                    "upload_time_iso_8601": "2018-06-07T10:02:15.494961Z",
                     "url": "https://files.pythonhosted.org/packages/e2/dd/400e90abf76c410cd481c7a664f177af287a91daa25cfcf26783a6469988/OASYS1-SRW-1.0.10.tar.gz"
                 }
             ],
@@ -2212,6 +2343,7 @@
                     "requires_python": null,
                     "size": 1674878,
                     "upload_time": "2018-06-07T10:03:45",
+                    "upload_time_iso_8601": "2018-06-07T10:03:45.426623Z",
                     "url": "https://files.pythonhosted.org/packages/30/59/614bc24f42d773ca08362cce7cd554818db6f98e43474a79e0b201cf3040/OASYS1-SRW-1.0.11.tar.gz"
                 }
             ],
@@ -2231,6 +2363,7 @@
                     "requires_python": null,
                     "size": 1674870,
                     "upload_time": "2018-06-07T15:12:12",
+                    "upload_time_iso_8601": "2018-06-07T15:12:12.802689Z",
                     "url": "https://files.pythonhosted.org/packages/33/cd/ce82c9333e37ab944e89eaec334e2eab7c6ff6cc78155ab38a53e236201c/OASYS1-SRW-1.0.12.tar.gz"
                 }
             ],
@@ -2250,6 +2383,7 @@
                     "requires_python": null,
                     "size": 1479304,
                     "upload_time": "2018-06-07T22:59:30",
+                    "upload_time_iso_8601": "2018-06-07T22:59:30.775245Z",
                     "url": "https://files.pythonhosted.org/packages/2d/f6/be63b04d1bf3ab3bd9c0f2ab928550c049efb9472ddb1bff2736ff6d71f2/OASYS1-SRW-1.0.14.tar.gz"
                 }
             ],
@@ -2269,6 +2403,7 @@
                     "requires_python": null,
                     "size": 1511029,
                     "upload_time": "2018-06-08T12:51:16",
+                    "upload_time_iso_8601": "2018-06-08T12:51:16.580033Z",
                     "url": "https://files.pythonhosted.org/packages/f4/6b/8ce84fbbca904296cee436bc94c26cd7d44044f636652d5a3db9c03bcc62/OASYS1-SRW-1.0.15.tar.gz"
                 }
             ],
@@ -2288,6 +2423,7 @@
                     "requires_python": null,
                     "size": 1511068,
                     "upload_time": "2018-06-08T12:59:28",
+                    "upload_time_iso_8601": "2018-06-08T12:59:28.014630Z",
                     "url": "https://files.pythonhosted.org/packages/98/72/e74f254d77ad7f4624bd5b562ca34f7719f6010e1b465f0d37c0c4a805cc/OASYS1-SRW-1.0.16.tar.gz"
                 }
             ],
@@ -2307,6 +2443,7 @@
                     "requires_python": null,
                     "size": 1602107,
                     "upload_time": "2018-06-08T16:03:45",
+                    "upload_time_iso_8601": "2018-06-08T16:03:45.686741Z",
                     "url": "https://files.pythonhosted.org/packages/16/23/176aeed5a5f782e12b66de629d141dc04207f25a24358e7bfeb6d0717079/OASYS1-SRW-1.0.17.tar.gz"
                 }
             ],
@@ -2326,6 +2463,7 @@
                     "requires_python": null,
                     "size": 1611046,
                     "upload_time": "2018-06-12T15:18:20",
+                    "upload_time_iso_8601": "2018-06-12T15:18:20.152869Z",
                     "url": "https://files.pythonhosted.org/packages/f9/21/46c5c44b7efefdf6387f3c295719a6894d25eb7c6e200e3ee1723a75e932/OASYS1-SRW-1.0.18.tar.gz"
                 }
             ],
@@ -2345,6 +2483,7 @@
                     "requires_python": null,
                     "size": 1611128,
                     "upload_time": "2018-06-12T15:35:53",
+                    "upload_time_iso_8601": "2018-06-12T15:35:53.088085Z",
                     "url": "https://files.pythonhosted.org/packages/f3/fd/17fd38b6bd3aa3284f055b2a82408935c050a02ac2a917dd6697f9ba149b/OASYS1-SRW-1.0.19.tar.gz"
                 }
             ],
@@ -2364,6 +2503,7 @@
                     "requires_python": null,
                     "size": 1396100,
                     "upload_time": "2018-05-31T15:48:04",
+                    "upload_time_iso_8601": "2018-05-31T15:48:04.375108Z",
                     "url": "https://files.pythonhosted.org/packages/05/e5/00d5df709ac25cf15d1a89b660a1fef926575a7ea6a51cd8e3c688a23312/OASYS1-SRW-1.0.2.tar.gz"
                 }
             ],
@@ -2383,6 +2523,7 @@
                     "requires_python": null,
                     "size": 1611133,
                     "upload_time": "2018-06-12T16:51:16",
+                    "upload_time_iso_8601": "2018-06-12T16:51:16.621484Z",
                     "url": "https://files.pythonhosted.org/packages/d2/07/0e60fe37d4674db1bbf00431a1fdb14690bfd90eeeac44d5a6db018cc30e/OASYS1-SRW-1.0.20.tar.gz"
                 }
             ],
@@ -2402,6 +2543,7 @@
                     "requires_python": null,
                     "size": 1611153,
                     "upload_time": "2018-06-15T13:35:23",
+                    "upload_time_iso_8601": "2018-06-15T13:35:23.344584Z",
                     "url": "https://files.pythonhosted.org/packages/ff/92/d0e01998887ca326d62ae063b571472ff4bae75f853e42214f5b8e275e28/OASYS1-SRW-1.0.21.tar.gz"
                 }
             ],
@@ -2421,6 +2563,7 @@
                     "requires_python": null,
                     "size": 1611289,
                     "upload_time": "2018-06-15T14:19:06",
+                    "upload_time_iso_8601": "2018-06-15T14:19:06.537364Z",
                     "url": "https://files.pythonhosted.org/packages/7f/38/1aaa792a2edfe4060e41e05ec747acac6d757317feb4cea9b314fae6289a/OASYS1-SRW-1.0.22.tar.gz"
                 }
             ],
@@ -2440,6 +2583,7 @@
                     "requires_python": null,
                     "size": 1611251,
                     "upload_time": "2018-06-15T14:27:47",
+                    "upload_time_iso_8601": "2018-06-15T14:27:47.045214Z",
                     "url": "https://files.pythonhosted.org/packages/87/04/93be4ca7ba7ed67ebce6da051428c753249060e85d11acdeb0bfbaab2b46/OASYS1-SRW-1.0.23.tar.gz"
                 }
             ],
@@ -2459,6 +2603,7 @@
                     "requires_python": null,
                     "size": 1611284,
                     "upload_time": "2018-06-29T11:34:57",
+                    "upload_time_iso_8601": "2018-06-29T11:34:57.546654Z",
                     "url": "https://files.pythonhosted.org/packages/57/33/83f4d0c30d085953276149f73615ee9705b3a1f0eae9984e38b9e5fbb094/OASYS1-SRW-1.0.24.tar.gz"
                 }
             ],
@@ -2478,6 +2623,7 @@
                     "requires_python": null,
                     "size": 1588573,
                     "upload_time": "2018-09-21T15:44:12",
+                    "upload_time_iso_8601": "2018-09-21T15:44:12.308983Z",
                     "url": "https://files.pythonhosted.org/packages/c2/55/44f164f8c88be1ddfb63a1b5dee11233c4daebcdc930a7e9d48fce1c4cd8/OASYS1-SRW-1.0.25.tar.gz"
                 }
             ],
@@ -2497,6 +2643,7 @@
                     "requires_python": null,
                     "size": 1588643,
                     "upload_time": "2018-10-03T19:14:58",
+                    "upload_time_iso_8601": "2018-10-03T19:14:58.153199Z",
                     "url": "https://files.pythonhosted.org/packages/07/3f/b5594d71995d134c98e0abde4bb817395351fdc44832c83c525330d79000/OASYS1-SRW-1.0.26.tar.gz"
                 }
             ],
@@ -2516,6 +2663,7 @@
                     "requires_python": null,
                     "size": 1610163,
                     "upload_time": "2018-10-08T20:05:18",
+                    "upload_time_iso_8601": "2018-10-08T20:05:18.700184Z",
                     "url": "https://files.pythonhosted.org/packages/e7/d0/82047f1205135aabe1ae44843253a34a2b4796ebee293e82ee59df18e872/OASYS1-SRW-1.0.27.tar.gz"
                 }
             ],
@@ -2535,6 +2683,7 @@
                     "requires_python": null,
                     "size": 1610190,
                     "upload_time": "2018-10-09T16:50:07",
+                    "upload_time_iso_8601": "2018-10-09T16:50:07.461744Z",
                     "url": "https://files.pythonhosted.org/packages/56/46/7ed0232f14f8ac0b766998259cb2e96160bca8c07b65342293c8f28c09cf/OASYS1-SRW-1.0.28.tar.gz"
                 }
             ],
@@ -2554,6 +2703,7 @@
                     "requires_python": null,
                     "size": 1610174,
                     "upload_time": "2018-10-09T20:59:22",
+                    "upload_time_iso_8601": "2018-10-09T20:59:22.664377Z",
                     "url": "https://files.pythonhosted.org/packages/b9/05/fcf1a1967837877764619b5d890a6f25ce365a71de7dcd964f8e35f92ec7/OASYS1-SRW-1.0.29.tar.gz"
                 }
             ],
@@ -2573,6 +2723,7 @@
                     "requires_python": null,
                     "size": 1710677,
                     "upload_time": "2018-06-04T16:21:17",
+                    "upload_time_iso_8601": "2018-06-04T16:21:17.907611Z",
                     "url": "https://files.pythonhosted.org/packages/34/f0/584e821cf779cdbf858805827958301ada96701634b3600292f5e3b6941a/OASYS1-SRW-1.0.3.tar.gz"
                 }
             ],
@@ -2592,6 +2743,7 @@
                     "requires_python": null,
                     "size": 1610553,
                     "upload_time": "2018-10-11T21:24:35",
+                    "upload_time_iso_8601": "2018-10-11T21:24:35.786892Z",
                     "url": "https://files.pythonhosted.org/packages/ee/12/00d65581cc9cddcc4459758890159de08898a98676018683588ef4c4aa6b/OASYS1-SRW-1.0.30.tar.gz"
                 }
             ],
@@ -2611,6 +2763,7 @@
                     "requires_python": null,
                     "size": 1610604,
                     "upload_time": "2018-10-11T21:52:18",
+                    "upload_time_iso_8601": "2018-10-11T21:52:18.095210Z",
                     "url": "https://files.pythonhosted.org/packages/16/2a/4440732e4275beb360909c1cf16dc83486517630f86c68abb3e62ff8629d/OASYS1-SRW-1.0.31.tar.gz"
                 }
             ],
@@ -2630,6 +2783,7 @@
                     "requires_python": null,
                     "size": 1733370,
                     "upload_time": "2018-10-16T19:44:42",
+                    "upload_time_iso_8601": "2018-10-16T19:44:42.396662Z",
                     "url": "https://files.pythonhosted.org/packages/eb/00/f84873c40620cbe116a01b22066752f67c25ab86cdbd13a749364244296f/OASYS1-SRW-1.0.32.tar.gz"
                 }
             ],
@@ -2649,6 +2803,7 @@
                     "requires_python": null,
                     "size": 1733561,
                     "upload_time": "2018-10-17T22:02:07",
+                    "upload_time_iso_8601": "2018-10-17T22:02:07.826514Z",
                     "url": "https://files.pythonhosted.org/packages/d4/f9/9217020351a421d776c1650208dbb63403c6b5ea3220708553489fc4ba70/OASYS1-SRW-1.0.33.tar.gz"
                 }
             ],
@@ -2668,6 +2823,7 @@
                     "requires_python": null,
                     "size": 1733600,
                     "upload_time": "2018-10-18T16:16:35",
+                    "upload_time_iso_8601": "2018-10-18T16:16:35.864439Z",
                     "url": "https://files.pythonhosted.org/packages/40/ac/590ba0ed1fb5cb46fd6284c09ec8542f46c2051f0e987e0ed8be18ade3d3/OASYS1-SRW-1.0.34.tar.gz"
                 }
             ],
@@ -2687,6 +2843,7 @@
                     "requires_python": null,
                     "size": 1733643,
                     "upload_time": "2018-10-23T22:19:46",
+                    "upload_time_iso_8601": "2018-10-23T22:19:46.214417Z",
                     "url": "https://files.pythonhosted.org/packages/86/c0/ea2a0d6c4d6a9a3ee627d75d56818be84e4b644dd7ea5a1368d51d85ebc7/OASYS1-SRW-1.0.35.tar.gz"
                 }
             ],
@@ -2706,6 +2863,7 @@
                     "requires_python": null,
                     "size": 1733663,
                     "upload_time": "2018-10-24T16:53:45",
+                    "upload_time_iso_8601": "2018-10-24T16:53:45.706150Z",
                     "url": "https://files.pythonhosted.org/packages/1d/83/95ef18113e7bb1b6491b802a1329f43e6bbf0f09bfe0e40ae60e0a238fba/OASYS1-SRW-1.0.36.tar.gz"
                 }
             ],
@@ -2725,6 +2883,7 @@
                     "requires_python": null,
                     "size": 1733648,
                     "upload_time": "2018-10-25T22:06:48",
+                    "upload_time_iso_8601": "2018-10-25T22:06:48.270675Z",
                     "url": "https://files.pythonhosted.org/packages/6e/b2/40d7ea5662468825ab45e6d2dc8eb135c1d031424f8223e45eb2d37c7932/OASYS1-SRW-1.0.37.tar.gz"
                 }
             ],
@@ -2744,6 +2903,7 @@
                     "requires_python": null,
                     "size": 1733858,
                     "upload_time": "2018-11-06T18:18:37",
+                    "upload_time_iso_8601": "2018-11-06T18:18:37.050877Z",
                     "url": "https://files.pythonhosted.org/packages/d9/c1/065a1ff4adde1246648985ce98d5d249e95ab5af611d97ca8c1fc7c1252a/OASYS1-SRW-1.0.38.tar.gz"
                 }
             ],
@@ -2763,6 +2923,7 @@
                     "requires_python": null,
                     "size": 1733880,
                     "upload_time": "2018-11-06T20:48:26",
+                    "upload_time_iso_8601": "2018-11-06T20:48:26.408626Z",
                     "url": "https://files.pythonhosted.org/packages/c0/6a/f915ba875f5fccb7bd6e1d69cd3cb0056a8d520b563a2c6489b0c700f3f1/OASYS1-SRW-1.0.39.tar.gz"
                 }
             ],
@@ -2782,6 +2943,7 @@
                     "requires_python": null,
                     "size": 1710789,
                     "upload_time": "2018-06-05T10:57:51",
+                    "upload_time_iso_8601": "2018-06-05T10:57:51.484216Z",
                     "url": "https://files.pythonhosted.org/packages/83/63/a24c489e7d8672126aefa8fa1f3a49bd80e71634661faea4ba176d054a28/OASYS1-SRW-1.0.4.tar.gz"
                 }
             ],
@@ -2801,6 +2963,7 @@
                     "requires_python": null,
                     "size": 1733884,
                     "upload_time": "2018-11-07T21:31:29",
+                    "upload_time_iso_8601": "2018-11-07T21:31:29.701946Z",
                     "url": "https://files.pythonhosted.org/packages/d6/dc/feaa33868eac5d1a59aeb7554f57710a7fd4a688c511d83d25297529ff18/OASYS1-SRW-1.0.40.tar.gz"
                 }
             ],
@@ -2820,6 +2983,7 @@
                     "requires_python": null,
                     "size": 1733881,
                     "upload_time": "2018-11-12T20:56:20",
+                    "upload_time_iso_8601": "2018-11-12T20:56:20.158814Z",
                     "url": "https://files.pythonhosted.org/packages/ee/4f/1575714ffd312ab6c5856eabcc6b8b3b1aad321d49721dd628a3d6297155/OASYS1-SRW-1.0.41.tar.gz"
                 }
             ],
@@ -2839,6 +3003,7 @@
                     "requires_python": null,
                     "size": 1721683,
                     "upload_time": "2018-11-14T23:04:56",
+                    "upload_time_iso_8601": "2018-11-14T23:04:56.446801Z",
                     "url": "https://files.pythonhosted.org/packages/16/1b/30f456d1c786ed206c9809be7a2ea6df64582ac1b64e38e3ffd65d419501/OASYS1-SRW-1.0.42.tar.gz"
                 }
             ],
@@ -2858,6 +3023,7 @@
                     "requires_python": null,
                     "size": 1721683,
                     "upload_time": "2018-11-14T23:23:52",
+                    "upload_time_iso_8601": "2018-11-14T23:23:52.510874Z",
                     "url": "https://files.pythonhosted.org/packages/21/1b/7bd6cb4d2a84cc5258f1baa4dbac738370c261753fabfb9918b7a1f87c37/OASYS1-SRW-1.0.43.tar.gz"
                 }
             ],
@@ -2877,6 +3043,7 @@
                     "requires_python": null,
                     "size": 1752490,
                     "upload_time": "2018-11-16T20:16:37",
+                    "upload_time_iso_8601": "2018-11-16T20:16:37.307806Z",
                     "url": "https://files.pythonhosted.org/packages/c7/ed/b293c0773a1d51071d35a635e1b2c11fcb6a7b507224f537a31ce05ae563/OASYS1-SRW-1.0.44.tar.gz"
                 }
             ],
@@ -2896,6 +3063,7 @@
                     "requires_python": null,
                     "size": 1752353,
                     "upload_time": "2018-11-16T20:31:32",
+                    "upload_time_iso_8601": "2018-11-16T20:31:32.233505Z",
                     "url": "https://files.pythonhosted.org/packages/3b/c6/66289ef4e96ecc82c8d56d318f8239729dfe32020b037c844a5081b238fd/OASYS1-SRW-1.0.45.tar.gz"
                 }
             ],
@@ -2915,6 +3083,7 @@
                     "requires_python": null,
                     "size": 1752331,
                     "upload_time": "2018-11-19T15:18:30",
+                    "upload_time_iso_8601": "2018-11-19T15:18:30.446393Z",
                     "url": "https://files.pythonhosted.org/packages/0c/c9/ddbe5dfd537b8ce371813c43390606f2dd28b8a0541052ae47a14ab34e8b/OASYS1-SRW-1.0.46.tar.gz"
                 }
             ],
@@ -2934,6 +3103,7 @@
                     "requires_python": null,
                     "size": 1752341,
                     "upload_time": "2018-11-19T15:48:01",
+                    "upload_time_iso_8601": "2018-11-19T15:48:01.841450Z",
                     "url": "https://files.pythonhosted.org/packages/26/4c/7899d429ecb6dac36146857c3b40801cbc22386ad0cd311dedc4be8c3176/OASYS1-SRW-1.0.47.tar.gz"
                 }
             ],
@@ -2953,6 +3123,7 @@
                     "requires_python": null,
                     "size": 1752532,
                     "upload_time": "2018-11-20T17:07:04",
+                    "upload_time_iso_8601": "2018-11-20T17:07:04.773803Z",
                     "url": "https://files.pythonhosted.org/packages/71/83/6aad73257f3055a6cb7177ee0f01ab9b68d8212e2796dd394d5d5cb9a7fa/OASYS1-SRW-1.0.48.tar.gz"
                 }
             ],
@@ -2972,6 +3143,7 @@
                     "requires_python": null,
                     "size": 1753361,
                     "upload_time": "2018-11-28T22:21:49",
+                    "upload_time_iso_8601": "2018-11-28T22:21:49.448354Z",
                     "url": "https://files.pythonhosted.org/packages/a9/98/f1815a818bf3f914a1f501d544c3c4b4291126ba351770b22c5b6ca7a310/OASYS1-SRW-1.0.49.tar.gz"
                 }
             ],
@@ -2991,6 +3163,7 @@
                     "requires_python": null,
                     "size": 1710834,
                     "upload_time": "2018-06-05T11:05:33",
+                    "upload_time_iso_8601": "2018-06-05T11:05:33.714230Z",
                     "url": "https://files.pythonhosted.org/packages/e4/07/cee826ac6e82d3ada836de951f2ed4d75c9ee32abf650dbe292150f0d482/OASYS1-SRW-1.0.5.tar.gz"
                 }
             ],
@@ -3010,6 +3183,7 @@
                     "requires_python": null,
                     "size": 1753620,
                     "upload_time": "2018-11-29T17:40:46",
+                    "upload_time_iso_8601": "2018-11-29T17:40:46.547704Z",
                     "url": "https://files.pythonhosted.org/packages/4c/8b/5083fb47cb4c2c88a9c0ba3cc51e2734117741d2db30ea4e7f73e6aaefb1/OASYS1-SRW-1.0.50.tar.gz"
                 }
             ],
@@ -3029,6 +3203,7 @@
                     "requires_python": null,
                     "size": 1754651,
                     "upload_time": "2018-12-03T20:39:11",
+                    "upload_time_iso_8601": "2018-12-03T20:39:11.415245Z",
                     "url": "https://files.pythonhosted.org/packages/3e/f6/f87543b07e0b3abdc32a2dbf176f40d63ef8cf57ab055ec834899a57b0a4/OASYS1-SRW-1.0.51.tar.gz"
                 }
             ],
@@ -3048,6 +3223,7 @@
                     "requires_python": null,
                     "size": 1754633,
                     "upload_time": "2018-12-03T23:17:27",
+                    "upload_time_iso_8601": "2018-12-03T23:17:27.053860Z",
                     "url": "https://files.pythonhosted.org/packages/82/90/ba5fcf984fcedd81f3d1fc6bf336cd1fa9c3e1d5a035137540589311cfa6/OASYS1-SRW-1.0.52.tar.gz"
                 }
             ],
@@ -3067,6 +3243,7 @@
                     "requires_python": null,
                     "size": 1754654,
                     "upload_time": "2018-12-12T19:26:16",
+                    "upload_time_iso_8601": "2018-12-12T19:26:16.119100Z",
                     "url": "https://files.pythonhosted.org/packages/f2/a7/93f9e9fb5501a77243230b1ece15531380d7cd0cdaa97f80cdce83253890/OASYS1-SRW-1.0.53.tar.gz"
                 }
             ],
@@ -3086,6 +3263,7 @@
                     "requires_python": null,
                     "size": 1755604,
                     "upload_time": "2018-12-14T21:57:57",
+                    "upload_time_iso_8601": "2018-12-14T21:57:57.854215Z",
                     "url": "https://files.pythonhosted.org/packages/99/e0/82eb36766d1842de206496f047b5d2c539494293c8c43cb12dc9dbd7c8c4/OASYS1-SRW-1.0.54.tar.gz"
                 }
             ],
@@ -3105,6 +3283,7 @@
                     "requires_python": null,
                     "size": 1755667,
                     "upload_time": "2019-01-10T20:37:34",
+                    "upload_time_iso_8601": "2019-01-10T20:37:34.381737Z",
                     "url": "https://files.pythonhosted.org/packages/b4/26/09a6368169fa82f8f8c68dff96853b841a7cf89e1a508482d8745ad1e965/OASYS1-SRW-1.0.55.tar.gz"
                 }
             ],
@@ -3124,6 +3303,7 @@
                     "requires_python": null,
                     "size": 1755663,
                     "upload_time": "2019-01-14T23:48:12",
+                    "upload_time_iso_8601": "2019-01-14T23:48:12.862065Z",
                     "url": "https://files.pythonhosted.org/packages/be/a8/43c162f606ac955bef19e5a8657b5917d300b96294e4a348a32689d231ec/OASYS1-SRW-1.0.56.tar.gz"
                 }
             ],
@@ -3143,6 +3323,7 @@
                     "requires_python": null,
                     "size": 1755472,
                     "upload_time": "2019-01-23T17:09:10",
+                    "upload_time_iso_8601": "2019-01-23T17:09:10.463932Z",
                     "url": "https://files.pythonhosted.org/packages/3d/2c/e5f26f97c54ef90f1a4b6db33763fdfac88d608e922f21e1311945f6bad8/OASYS1-SRW-1.0.57.tar.gz"
                 }
             ],
@@ -3162,6 +3343,7 @@
                     "requires_python": null,
                     "size": 1755488,
                     "upload_time": "2019-01-23T19:56:41",
+                    "upload_time_iso_8601": "2019-01-23T19:56:41.451581Z",
                     "url": "https://files.pythonhosted.org/packages/8f/af/450ea5a7ffaeaef34375e5678bdd61bfe9573acef04267a739195171a1c3/OASYS1-SRW-1.0.58.tar.gz"
                 }
             ],
@@ -3181,6 +3363,7 @@
                     "requires_python": null,
                     "size": 1755621,
                     "upload_time": "2019-01-23T22:39:12",
+                    "upload_time_iso_8601": "2019-01-23T22:39:12.873627Z",
                     "url": "https://files.pythonhosted.org/packages/f5/63/c40beb9e74acda2db5ba4323dd9a4a63f81e77028d9134f3a41b5fdaf9f1/OASYS1-SRW-1.0.59.tar.gz"
                 }
             ],
@@ -3200,6 +3383,7 @@
                     "requires_python": null,
                     "size": 1710787,
                     "upload_time": "2018-06-05T11:09:03",
+                    "upload_time_iso_8601": "2018-06-05T11:09:03.347169Z",
                     "url": "https://files.pythonhosted.org/packages/02/ec/a76880130e35b26fb472b0dc9bdf8c7449c1933ad79b63957caf010e76bf/OASYS1-SRW-1.0.6.tar.gz"
                 }
             ],
@@ -3219,6 +3403,7 @@
                     "requires_python": null,
                     "size": 1755639,
                     "upload_time": "2019-01-23T23:44:25",
+                    "upload_time_iso_8601": "2019-01-23T23:44:25.813028Z",
                     "url": "https://files.pythonhosted.org/packages/72/46/d67dabdc2c0ff81fed32059b57f27cf12971f0f435d5bdf1c202b9c4626c/OASYS1-SRW-1.0.60.tar.gz"
                 }
             ],
@@ -3238,6 +3423,7 @@
                     "requires_python": null,
                     "size": 1755856,
                     "upload_time": "2019-01-24T15:59:19",
+                    "upload_time_iso_8601": "2019-01-24T15:59:19.104479Z",
                     "url": "https://files.pythonhosted.org/packages/c4/8a/733dffdba434ee2fb9ed56b8860f06eb08be5a48db0605c4c9dcff491d93/OASYS1-SRW-1.0.61.tar.gz"
                 }
             ],
@@ -3257,6 +3443,7 @@
                     "requires_python": null,
                     "size": 1770191,
                     "upload_time": "2019-01-25T22:11:56",
+                    "upload_time_iso_8601": "2019-01-25T22:11:56.018783Z",
                     "url": "https://files.pythonhosted.org/packages/a2/72/f83a77ac007dc0ac86cc5afc9c78c34d419d5dffc0783a9f68e410299e37/OASYS1-SRW-1.0.62.tar.gz"
                 }
             ],
@@ -3276,6 +3463,7 @@
                     "requires_python": null,
                     "size": 1770191,
                     "upload_time": "2019-01-25T22:16:20",
+                    "upload_time_iso_8601": "2019-01-25T22:16:20.867917Z",
                     "url": "https://files.pythonhosted.org/packages/38/f9/c22e5706b5202a227c6bf7dd32da1732a3057db7d280568f95f5fbc1aa92/OASYS1-SRW-1.0.63.tar.gz"
                 }
             ],
@@ -3295,6 +3483,7 @@
                     "requires_python": null,
                     "size": 1769934,
                     "upload_time": "2019-01-28T21:53:09",
+                    "upload_time_iso_8601": "2019-01-28T21:53:09.826710Z",
                     "url": "https://files.pythonhosted.org/packages/9a/4d/7fa3e4235e6409052b8f88031a20a913e8c402e8bf92b38b20eef692d491/OASYS1-SRW-1.0.64.tar.gz"
                 }
             ],
@@ -3314,6 +3503,7 @@
                     "requires_python": null,
                     "size": 1769928,
                     "upload_time": "2019-01-28T22:30:25",
+                    "upload_time_iso_8601": "2019-01-28T22:30:25.206459Z",
                     "url": "https://files.pythonhosted.org/packages/0d/c8/6ce1d305ed1a00bfb0440c651dafbf1db6c0edb4292206a6b9b2555a1dca/OASYS1-SRW-1.0.65.tar.gz"
                 }
             ],
@@ -3333,6 +3523,7 @@
                     "requires_python": null,
                     "size": 1769929,
                     "upload_time": "2019-01-31T16:00:07",
+                    "upload_time_iso_8601": "2019-01-31T16:00:07.537811Z",
                     "url": "https://files.pythonhosted.org/packages/db/9e/0b05605d71db9291c776af2565576f9ae721d0b891e5f3303cf689629ce4/OASYS1-SRW-1.0.67.tar.gz"
                 }
             ],
@@ -3352,6 +3543,7 @@
                     "requires_python": null,
                     "size": 1770255,
                     "upload_time": "2019-02-02T01:29:54",
+                    "upload_time_iso_8601": "2019-02-02T01:29:54.937524Z",
                     "url": "https://files.pythonhosted.org/packages/1e/ec/3717328684d7a638bfa73122996168212f649385754b9701fd9e153ab4d0/OASYS1-SRW-1.0.68.tar.gz"
                 }
             ],
@@ -3371,6 +3563,7 @@
                     "requires_python": null,
                     "size": 1769999,
                     "upload_time": "2019-02-02T22:57:20",
+                    "upload_time_iso_8601": "2019-02-02T22:57:20.297079Z",
                     "url": "https://files.pythonhosted.org/packages/a4/bc/467dc3321fa815a2ccc72275f3f7528cc2772088763c83c50eefc91bd54d/OASYS1-SRW-1.0.69.tar.gz"
                 }
             ],
@@ -3390,6 +3583,7 @@
                     "requires_python": null,
                     "size": 1710798,
                     "upload_time": "2018-06-05T11:19:15",
+                    "upload_time_iso_8601": "2018-06-05T11:19:15.786523Z",
                     "url": "https://files.pythonhosted.org/packages/a4/b7/0bd2464eb0be943d57f381966be2c36c01fc4c6f3929a8974447ac176ba7/OASYS1-SRW-1.0.7.tar.gz"
                 }
             ],
@@ -3409,6 +3603,7 @@
                     "requires_python": null,
                     "size": 1770004,
                     "upload_time": "2019-02-03T18:33:53",
+                    "upload_time_iso_8601": "2019-02-03T18:33:53.135436Z",
                     "url": "https://files.pythonhosted.org/packages/6e/39/4b31e1e04075f93ff4d2c52fcb35905ca809a0e32a437d9166d73418c621/OASYS1-SRW-1.0.70.tar.gz"
                 }
             ],
@@ -3428,6 +3623,7 @@
                     "requires_python": null,
                     "size": 1770345,
                     "upload_time": "2019-02-04T18:00:21",
+                    "upload_time_iso_8601": "2019-02-04T18:00:21.555855Z",
                     "url": "https://files.pythonhosted.org/packages/23/27/867921b7860ac8aa81ab7e87f2ea44d01b0c435774bdbbdf23f60d65ec37/OASYS1-SRW-1.0.71.tar.gz"
                 }
             ],
@@ -3447,6 +3643,7 @@
                     "requires_python": null,
                     "size": 1770315,
                     "upload_time": "2019-03-01T21:01:15",
+                    "upload_time_iso_8601": "2019-03-01T21:01:15.653639Z",
                     "url": "https://files.pythonhosted.org/packages/13/0a/25005368648b835eaed8dd4731eee9f1300a21dee05d2511d901623f4605/OASYS1-SRW-1.0.72.tar.gz"
                 }
             ],
@@ -3466,6 +3663,7 @@
                     "requires_python": null,
                     "size": 1770298,
                     "upload_time": "2019-03-02T20:50:31",
+                    "upload_time_iso_8601": "2019-03-02T20:50:31.162113Z",
                     "url": "https://files.pythonhosted.org/packages/40/39/a3f2a86437644d16d1a07d026a0034c309565a0b7ae26d59e8d1f9b79838/OASYS1-SRW-1.0.73.tar.gz"
                 }
             ],
@@ -3485,6 +3683,7 @@
                     "requires_python": null,
                     "size": 1823857,
                     "upload_time": "2019-03-06T20:13:47",
+                    "upload_time_iso_8601": "2019-03-06T20:13:47.128557Z",
                     "url": "https://files.pythonhosted.org/packages/80/ce/d08b559436ad34815fb86810bcdcedba25199b5170075ba9d7f3d010ceba/OASYS1-SRW-1.0.74.tar.gz"
                 }
             ],
@@ -3504,6 +3703,7 @@
                     "requires_python": null,
                     "size": 1823686,
                     "upload_time": "2019-03-08T21:13:43",
+                    "upload_time_iso_8601": "2019-03-08T21:13:43.663237Z",
                     "url": "https://files.pythonhosted.org/packages/b6/89/71ee8d09d0703324e0b6a750954443750383248c82f86b65740116b02857/OASYS1-SRW-1.0.75.tar.gz"
                 }
             ],
@@ -3523,6 +3723,7 @@
                     "requires_python": null,
                     "size": 1823852,
                     "upload_time": "2019-04-02T20:38:27",
+                    "upload_time_iso_8601": "2019-04-02T20:38:27.958829Z",
                     "url": "https://files.pythonhosted.org/packages/10/67/83142b20d23c6f96e0acc39bc9056ad934cac5a9a40ca1accd21a387855e/OASYS1-SRW-1.0.76.tar.gz"
                 }
             ],
@@ -3542,6 +3743,7 @@
                     "requires_python": null,
                     "size": 1823844,
                     "upload_time": "2019-04-26T21:34:51",
+                    "upload_time_iso_8601": "2019-04-26T21:34:51.938777Z",
                     "url": "https://files.pythonhosted.org/packages/62/ee/28de53ef8fb8fde8a4859adc981a88c513ddfa11c94772feaba88c95f44f/OASYS1-SRW-1.0.77.tar.gz"
                 }
             ],
@@ -3561,6 +3763,7 @@
                     "requires_python": null,
                     "size": 1759980,
                     "upload_time": "2019-05-09T14:17:54",
+                    "upload_time_iso_8601": "2019-05-09T14:17:54.322842Z",
                     "url": "https://files.pythonhosted.org/packages/28/f6/23332322abdc4dc9ad59d87696df176383cfab946175c4ffb2a5bf63db8c/OASYS1-SRW-1.0.78.tar.gz"
                 }
             ],
@@ -3580,6 +3783,7 @@
                     "requires_python": null,
                     "size": 1760184,
                     "upload_time": "2019-05-10T13:25:06",
+                    "upload_time_iso_8601": "2019-05-10T13:25:06.563998Z",
                     "url": "https://files.pythonhosted.org/packages/33/f0/abda9a134a35d20c1c7579b07148ade3b0ef4c4f3e22988c38a6221a4506/OASYS1-SRW-1.0.79.tar.gz"
                 }
             ],
@@ -3599,6 +3803,7 @@
                     "requires_python": null,
                     "size": 1710795,
                     "upload_time": "2018-06-05T14:06:59",
+                    "upload_time_iso_8601": "2018-06-05T14:06:59.047341Z",
                     "url": "https://files.pythonhosted.org/packages/d3/c4/b0d94169a39ef26d4fcd941073f42f985a0b6e8d6a5a2c1d7ccb7eae5c55/OASYS1-SRW-1.0.8.tar.gz"
                 }
             ],
@@ -3618,6 +3823,7 @@
                     "requires_python": null,
                     "size": 1814903,
                     "upload_time": "2019-05-20T20:25:59",
+                    "upload_time_iso_8601": "2019-05-20T20:25:59.912348Z",
                     "url": "https://files.pythonhosted.org/packages/f6/9e/adf13c424702f0494ec5209e034648fa0e92e9ec41b571320f8a1fe62725/OASYS1-SRW-1.0.80.tar.gz"
                 }
             ],
@@ -3637,6 +3843,7 @@
                     "requires_python": null,
                     "size": 1814756,
                     "upload_time": "2019-05-23T20:20:32",
+                    "upload_time_iso_8601": "2019-05-23T20:20:32.410736Z",
                     "url": "https://files.pythonhosted.org/packages/08/60/e06c01346b25252fdbef557ce37fb97c47a45ede396be58bf5ec397aea44/OASYS1-SRW-1.0.81.tar.gz"
                 }
             ],
@@ -3656,6 +3863,7 @@
                     "requires_python": null,
                     "size": 1710783,
                     "upload_time": "2018-06-05T16:42:37",
+                    "upload_time_iso_8601": "2018-06-05T16:42:37.539289Z",
                     "url": "https://files.pythonhosted.org/packages/a7/58/b1c7c3d7e67cdcfe4f815223bd110d0401d0e513527feaae1e36a652ff06/OASYS1-SRW-1.0.9.tar.gz"
                 }
             ],
@@ -3675,6 +3883,7 @@
                     "requires_python": null,
                     "size": 1830746,
                     "upload_time": "2019-08-28T17:08:59",
+                    "upload_time_iso_8601": "2019-08-28T17:08:59.441768Z",
                     "url": "https://files.pythonhosted.org/packages/6f/37/0b4e7b76f00d3975dcfd37e31a4c4a4ffa5783b74c8c182117f8e6ad4b24/OASYS1-SRW-1.1.10.tar.gz"
                 }
             ],
@@ -3694,6 +3903,7 @@
                     "requires_python": null,
                     "size": 1831123,
                     "upload_time": "2019-09-04T17:43:38",
+                    "upload_time_iso_8601": "2019-09-04T17:43:38.376052Z",
                     "url": "https://files.pythonhosted.org/packages/4f/a0/982afe4f670310e5e5ed041c6e685ec92aec6e4f1b93fef580b6028a552d/OASYS1-SRW-1.1.11.tar.gz"
                 }
             ],
@@ -3713,6 +3923,7 @@
                     "requires_python": null,
                     "size": 1831114,
                     "upload_time": "2019-09-04T20:00:28",
+                    "upload_time_iso_8601": "2019-09-04T20:00:28.635454Z",
                     "url": "https://files.pythonhosted.org/packages/01/e5/3464db4cc0f7c41b098e29ac675aaa91113d1fb9a865117efbc5d78fe464/OASYS1-SRW-1.1.12.tar.gz"
                 }
             ],
@@ -3732,6 +3943,7 @@
                     "requires_python": null,
                     "size": 1831137,
                     "upload_time": "2019-09-04T21:21:48",
+                    "upload_time_iso_8601": "2019-09-04T21:21:48.572830Z",
                     "url": "https://files.pythonhosted.org/packages/ca/e7/b28b7aead78fafed2129c03d97a4eb699ef20a50a8b7099765e39a71e420/OASYS1-SRW-1.1.13.tar.gz"
                 }
             ],
@@ -3751,6 +3963,7 @@
                     "requires_python": null,
                     "size": 1831166,
                     "upload_time": "2019-09-06T20:54:17",
+                    "upload_time_iso_8601": "2019-09-06T20:54:17.067622Z",
                     "url": "https://files.pythonhosted.org/packages/8f/2d/512459286750a3eae3b298881736547550320196a20c845952adaa29f68f/OASYS1-SRW-1.1.14.tar.gz"
                 }
             ],
@@ -3770,6 +3983,7 @@
                     "requires_python": null,
                     "size": 1831023,
                     "upload_time": "2019-09-06T21:42:43",
+                    "upload_time_iso_8601": "2019-09-06T21:42:43.255322Z",
                     "url": "https://files.pythonhosted.org/packages/af/b7/b15a7ae378b77d5b2db41e9b4f6ba02afffd72a55fbc670e7d340fd0d4a3/OASYS1-SRW-1.1.15.tar.gz"
                 }
             ],
@@ -3789,6 +4003,7 @@
                     "requires_python": null,
                     "size": 1831006,
                     "upload_time": "2019-09-06T22:05:32",
+                    "upload_time_iso_8601": "2019-09-06T22:05:32.256231Z",
                     "url": "https://files.pythonhosted.org/packages/82/d0/50106d31efd113c2b5ef1feeff98787b6ba966644e4caa19b30df5615b28/OASYS1-SRW-1.1.16.tar.gz"
                 }
             ],
@@ -3808,6 +4023,7 @@
                     "requires_python": null,
                     "size": 1830997,
                     "upload_time": "2019-09-06T22:08:30",
+                    "upload_time_iso_8601": "2019-09-06T22:08:30.443603Z",
                     "url": "https://files.pythonhosted.org/packages/88/3a/c71bd456757961fbfdaf30781a4c61e2fb98b89d86c7d5b28686f2593fd6/OASYS1-SRW-1.1.17.tar.gz"
                 }
             ],
@@ -3827,6 +4043,7 @@
                     "requires_python": null,
                     "size": 1831018,
                     "upload_time": "2019-09-09T15:57:08",
+                    "upload_time_iso_8601": "2019-09-09T15:57:08.713744Z",
                     "url": "https://files.pythonhosted.org/packages/91/db/c7fa1c70dcc88e4c92f28fa3d41fc5c56b6fde13a2a38195eb38f75a4ef2/OASYS1-SRW-1.1.18.tar.gz"
                 }
             ],
@@ -3846,6 +4063,7 @@
                     "requires_python": null,
                     "size": 1831033,
                     "upload_time": "2019-09-09T16:55:54",
+                    "upload_time_iso_8601": "2019-09-09T16:55:54.534787Z",
                     "url": "https://files.pythonhosted.org/packages/2e/31/b0a6108694aef117b48eea379edae9bb89f9111668744e7c8f3acff7c3f2/OASYS1-SRW-1.1.19.tar.gz"
                 }
             ],
@@ -3865,6 +4083,7 @@
                     "requires_python": null,
                     "size": 1828652,
                     "upload_time": "2019-06-11T20:49:31",
+                    "upload_time_iso_8601": "2019-06-11T20:49:31.069269Z",
                     "url": "https://files.pythonhosted.org/packages/b5/89/1a50f4b81b17ff9c75720bbdedf6b2b20a5346c71b7da792902cdba44887/OASYS1-SRW-1.1.2.tar.gz"
                 }
             ],
@@ -3884,6 +4103,7 @@
                     "requires_python": null,
                     "size": 1831326,
                     "upload_time": "2019-09-24T15:41:26",
+                    "upload_time_iso_8601": "2019-09-24T15:41:26.678772Z",
                     "url": "https://files.pythonhosted.org/packages/9c/cf/874cc60ff7d0bae2c7283b2228c0d6fe3bdd4e26b0be7cb801f1c56d7dd8/OASYS1-SRW-1.1.20.tar.gz"
                 }
             ],
@@ -3903,6 +4123,7 @@
                     "requires_python": null,
                     "size": 1831339,
                     "upload_time": "2019-09-27T14:57:20",
+                    "upload_time_iso_8601": "2019-09-27T14:57:20.405302Z",
                     "url": "https://files.pythonhosted.org/packages/62/6d/2127071036b86bae9cfa2dc5a6325ba1a0016b34c97c1987639938088b8d/OASYS1-SRW-1.1.21.tar.gz"
                 }
             ],
@@ -3922,6 +4143,7 @@
                     "requires_python": null,
                     "size": 1831353,
                     "upload_time": "2019-09-27T15:21:44",
+                    "upload_time_iso_8601": "2019-09-27T15:21:44.343516Z",
                     "url": "https://files.pythonhosted.org/packages/62/e9/41276935598381fdc5bb70b7f67c90458d795e87610e83f817a53e459695/OASYS1-SRW-1.1.22.tar.gz"
                 }
             ],
@@ -3941,6 +4163,7 @@
                     "requires_python": null,
                     "size": 1831503,
                     "upload_time": "2019-10-03T16:32:59",
+                    "upload_time_iso_8601": "2019-10-03T16:32:59.566147Z",
                     "url": "https://files.pythonhosted.org/packages/d9/be/5005e5f4ed6b6db4483bae029f8f07ba364becd3972171710934d741be3e/OASYS1-SRW-1.1.23.tar.gz"
                 }
             ],
@@ -3960,6 +4183,7 @@
                     "requires_python": null,
                     "size": 1831519,
                     "upload_time": "2019-10-11T17:10:17",
+                    "upload_time_iso_8601": "2019-10-11T17:10:17.895762Z",
                     "url": "https://files.pythonhosted.org/packages/6a/90/a17de141a8070a646bd29e0a5bb7d1943a8e9c06f53af6dac4826da4f585/OASYS1-SRW-1.1.24.tar.gz"
                 }
             ],
@@ -3979,6 +4203,7 @@
                     "requires_python": null,
                     "size": 1828727,
                     "upload_time": "2019-06-13T16:32:40",
+                    "upload_time_iso_8601": "2019-06-13T16:32:40.319529Z",
                     "url": "https://files.pythonhosted.org/packages/e8/b5/1812b8764a0341517bfe6f686e56cb032711fa000d8f72a9882541df1d4e/OASYS1-SRW-1.1.3.tar.gz"
                 }
             ],
@@ -3998,6 +4223,7 @@
                     "requires_python": null,
                     "size": 1828815,
                     "upload_time": "2019-06-13T16:51:41",
+                    "upload_time_iso_8601": "2019-06-13T16:51:41.989650Z",
                     "url": "https://files.pythonhosted.org/packages/3a/f4/c45c989b4f790cb136a93f379e4f00516c5642675bb218b24bac33df11d3/OASYS1-SRW-1.1.4.tar.gz"
                 }
             ],
@@ -4017,6 +4243,7 @@
                     "requires_python": null,
                     "size": 1829370,
                     "upload_time": "2019-06-18T23:39:35",
+                    "upload_time_iso_8601": "2019-06-18T23:39:35.656036Z",
                     "url": "https://files.pythonhosted.org/packages/56/68/3779a33183223223525b3c278c8d5af6ae6c000cf8810137cfba8828a5a9/OASYS1-SRW-1.1.5.tar.gz"
                 }
             ],
@@ -4036,6 +4263,7 @@
                     "requires_python": null,
                     "size": 1829375,
                     "upload_time": "2019-06-18T23:45:14",
+                    "upload_time_iso_8601": "2019-06-18T23:45:14.085193Z",
                     "url": "https://files.pythonhosted.org/packages/a3/82/d8098bbcb9cc738aa732f28087f95077cc5863571037d57eadb1963cc866/OASYS1-SRW-1.1.6.tar.gz"
                 }
             ],
@@ -4055,6 +4283,7 @@
                     "requires_python": null,
                     "size": 1829369,
                     "upload_time": "2019-06-18T23:46:40",
+                    "upload_time_iso_8601": "2019-06-18T23:46:40.562026Z",
                     "url": "https://files.pythonhosted.org/packages/5a/64/103a4690b8dd6a2dfb3128419446a0bddcebf1a4bbdebf87411afd6a6fda/OASYS1-SRW-1.1.7.tar.gz"
                 }
             ],
@@ -4074,6 +4303,7 @@
                     "requires_python": null,
                     "size": 1830980,
                     "upload_time": "2019-06-19T21:28:04",
+                    "upload_time_iso_8601": "2019-06-19T21:28:04.435400Z",
                     "url": "https://files.pythonhosted.org/packages/78/e9/478a5f382568575d20afd69053269e0a0a150a6f3c2a87bb49013ba85267/OASYS1-SRW-1.1.8.tar.gz"
                 }
             ],
@@ -4093,6 +4323,7 @@
                     "requires_python": null,
                     "size": 1830749,
                     "upload_time": "2019-06-20T19:10:33",
+                    "upload_time_iso_8601": "2019-06-20T19:10:33.661263Z",
                     "url": "https://files.pythonhosted.org/packages/3e/02/a89d561ca75bac7b5d4fffb56aa776a674b0c848797a8a98a0bf75065045/OASYS1-SRW-1.1.9.tar.gz"
                 }
             ]
@@ -4113,6 +4344,7 @@
                 "requires_python": null,
                 "size": 1831519,
                 "upload_time": "2019-10-11T17:10:17",
+                "upload_time_iso_8601": "2019-10-11T17:10:17.895762Z",
                 "url": "https://files.pythonhosted.org/packages/6a/90/a17de141a8070a646bd29e0a5bb7d1943a8e9c06f53af6dac4826da4f585/OASYS1-SRW-1.1.24.tar.gz"
             }
         ]
@@ -4177,6 +4409,7 @@
                     "requires_python": null,
                     "size": 10356037,
                     "upload_time": "2017-05-17T12:58:02",
+                    "upload_time_iso_8601": "2017-05-17T12:58:02.915025Z",
                     "url": "https://files.pythonhosted.org/packages/72/7b/05987f274ea96694c4c04e83bd63447b3b8e1e027a307ed99869aac42a30/OASYS1-XOPPY-1.0.17.tar.gz"
                 }
             ],
@@ -4196,6 +4429,7 @@
                     "requires_python": null,
                     "size": 10356052,
                     "upload_time": "2017-05-17T15:43:09",
+                    "upload_time_iso_8601": "2017-05-17T15:43:09.722470Z",
                     "url": "https://files.pythonhosted.org/packages/6a/65/ae5cc442e1220ad041eba770a0909a0b4d6da3095bf4deca2ea0b3bffd6a/OASYS1-XOPPY-1.0.18.tar.gz"
                 }
             ],
@@ -4215,6 +4449,7 @@
                     "requires_python": null,
                     "size": 10356022,
                     "upload_time": "2017-05-24T14:21:41",
+                    "upload_time_iso_8601": "2017-05-24T14:21:41.667628Z",
                     "url": "https://files.pythonhosted.org/packages/a1/2d/13184ef2b034396aaa93b27b756745ef231161ecdca3714192f2670b088d/OASYS1-XOPPY-1.0.19.tar.gz"
                 }
             ],
@@ -4234,6 +4469,7 @@
                     "requires_python": null,
                     "size": 10356048,
                     "upload_time": "2017-05-31T16:41:29",
+                    "upload_time_iso_8601": "2017-05-31T16:41:29.264007Z",
                     "url": "https://files.pythonhosted.org/packages/6c/c3/c090d7590921529275b70c5bb9f8436c73bce45eee003eaebd321b2d0a81/OASYS1-XOPPY-1.0.20.tar.gz"
                 }
             ],
@@ -4253,6 +4489,7 @@
                     "requires_python": null,
                     "size": 10356106,
                     "upload_time": "2017-06-15T17:35:19",
+                    "upload_time_iso_8601": "2017-06-15T17:35:19.214490Z",
                     "url": "https://files.pythonhosted.org/packages/79/a9/105276937ba439462eec323b6119a1b7425fc9e4519681bb1af02df3c83c/OASYS1-XOPPY-1.0.21.tar.gz"
                 }
             ],
@@ -4272,6 +4509,7 @@
                     "requires_python": null,
                     "size": 10356087,
                     "upload_time": "2017-06-16T14:31:23",
+                    "upload_time_iso_8601": "2017-06-16T14:31:23.160167Z",
                     "url": "https://files.pythonhosted.org/packages/53/8d/942fe534c60cc37ed2b9722c58250d9a5e9ac3fbc1bffedb07542bfa1c44/OASYS1-XOPPY-1.0.22.tar.gz"
                 }
             ],
@@ -4291,6 +4529,7 @@
                     "requires_python": null,
                     "size": 10356110,
                     "upload_time": "2017-06-16T20:19:33",
+                    "upload_time_iso_8601": "2017-06-16T20:19:33.868791Z",
                     "url": "https://files.pythonhosted.org/packages/d8/d3/09a8d2eff305037b3c82d4ee8eb48e63b953756e40f175324cfb63f88260/OASYS1-XOPPY-1.0.23.tar.gz"
                 }
             ],
@@ -4310,6 +4549,7 @@
                     "requires_python": null,
                     "size": 10356072,
                     "upload_time": "2017-07-03T08:52:03",
+                    "upload_time_iso_8601": "2017-07-03T08:52:03.283166Z",
                     "url": "https://files.pythonhosted.org/packages/16/ae/d7c2f691e7fddd3a5612e9116385b8551d6742ce210d7dce1579e6c58f2c/OASYS1-XOPPY-1.0.24.tar.gz"
                 }
             ],
@@ -4329,6 +4569,7 @@
                     "requires_python": null,
                     "size": 10356263,
                     "upload_time": "2017-07-04T12:22:10",
+                    "upload_time_iso_8601": "2017-07-04T12:22:10.019559Z",
                     "url": "https://files.pythonhosted.org/packages/f8/bf/f798fc19b2d413a853eabf97a62deae74482583acc9a8ae05f96708cdc1b/OASYS1-XOPPY-1.0.25.tar.gz"
                 }
             ],
@@ -4348,6 +4589,7 @@
                     "requires_python": null,
                     "size": 10357297,
                     "upload_time": "2017-07-31T15:20:11",
+                    "upload_time_iso_8601": "2017-07-31T15:20:11.074608Z",
                     "url": "https://files.pythonhosted.org/packages/87/11/25a0e2bcd8e40024c92a7e9ade164218bbe6056d95bb42170ffaf4faa978/OASYS1-XOPPY-1.0.26.tar.gz"
                 }
             ],
@@ -4367,6 +4609,7 @@
                     "requires_python": null,
                     "size": 10357321,
                     "upload_time": "2017-08-01T14:18:51",
+                    "upload_time_iso_8601": "2017-08-01T14:18:51.347259Z",
                     "url": "https://files.pythonhosted.org/packages/1f/ff/39e56937932800c7cd46ef47309fb6052d33c063e543f55160a07b3ea72e/OASYS1-XOPPY-1.0.27.tar.gz"
                 }
             ],
@@ -4386,6 +4629,7 @@
                     "requires_python": null,
                     "size": 10393713,
                     "upload_time": "2017-09-25T11:53:46",
+                    "upload_time_iso_8601": "2017-09-25T11:53:46.636295Z",
                     "url": "https://files.pythonhosted.org/packages/28/d0/4f2e4513ef487d6a32e079c9a860e6de71ba5e306b2e8904e1181e6bb1fd/OASYS1-XOPPY-1.0.28.tar.gz"
                 }
             ],
@@ -4405,6 +4649,7 @@
                     "requires_python": null,
                     "size": 10393815,
                     "upload_time": "2017-11-17T14:01:36",
+                    "upload_time_iso_8601": "2017-11-17T14:01:36.568635Z",
                     "url": "https://files.pythonhosted.org/packages/ca/15/566a2fb492212ee05ffb6b40a15e1c863c2218dfdbb9ace9ae9a52486add/OASYS1-XOPPY-1.0.29.tar.gz"
                 }
             ],
@@ -4424,6 +4669,7 @@
                     "requires_python": null,
                     "size": 10393982,
                     "upload_time": "2017-11-17T14:46:23",
+                    "upload_time_iso_8601": "2017-11-17T14:46:23.928492Z",
                     "url": "https://files.pythonhosted.org/packages/b8/c8/bb65577ce29d1173a107fc558eddc9741726f8c40424400fe85f7a06cab8/OASYS1-XOPPY-1.0.30.tar.gz"
                 }
             ],
@@ -4443,6 +4689,7 @@
                     "requires_python": null,
                     "size": 10393994,
                     "upload_time": "2017-11-17T15:16:02",
+                    "upload_time_iso_8601": "2017-11-17T15:16:02.701235Z",
                     "url": "https://files.pythonhosted.org/packages/40/c5/f3f9b815990d4ee7356ae502b7bbfb8747663642cf8e5addb1adceaee855/OASYS1-XOPPY-1.0.31.tar.gz"
                 }
             ],
@@ -4462,6 +4709,7 @@
                     "requires_python": null,
                     "size": 10394010,
                     "upload_time": "2017-11-17T16:05:10",
+                    "upload_time_iso_8601": "2017-11-17T16:05:10.818425Z",
                     "url": "https://files.pythonhosted.org/packages/5d/bd/03cf7e61385b046921ce6e86e6c766ecd090f8adbb5056e80ae77fe57d59/OASYS1-XOPPY-1.0.32.tar.gz"
                 }
             ],
@@ -4481,6 +4729,7 @@
                     "requires_python": null,
                     "size": 10393642,
                     "upload_time": "2017-11-24T13:49:48",
+                    "upload_time_iso_8601": "2017-11-24T13:49:48.801727Z",
                     "url": "https://files.pythonhosted.org/packages/11/e8/469486ba8f708566fca7ab7be2119d23be57896ed0bfc9d3e954ff2f2fe0/OASYS1-XOPPY-1.0.33.tar.gz"
                 }
             ],
@@ -4500,6 +4749,7 @@
                     "requires_python": null,
                     "size": 10431592,
                     "upload_time": "2018-11-29T17:40:13",
+                    "upload_time_iso_8601": "2018-11-29T17:40:13.134857Z",
                     "url": "https://files.pythonhosted.org/packages/7b/e2/886b5ea194dc522bda360ddd66ad1652300ab809b733b874dbfc73f72643/OASYS1-XOPPY-1.0.34.tar.gz"
                 }
             ],
@@ -4519,6 +4769,7 @@
                     "requires_python": null,
                     "size": 10435404,
                     "upload_time": "2019-02-02T22:53:52",
+                    "upload_time_iso_8601": "2019-02-02T22:53:52.585338Z",
                     "url": "https://files.pythonhosted.org/packages/40/bc/485cac10e878deb6e3b5b2999795b3cbd5be759a2fd32057a62890ffea5e/OASYS1-XOPPY-1.0.35.tar.gz"
                 }
             ],
@@ -4538,6 +4789,7 @@
                     "requires_python": null,
                     "size": 14736237,
                     "upload_time": "2019-02-20T17:51:21",
+                    "upload_time_iso_8601": "2019-02-20T17:51:21.436899Z",
                     "url": "https://files.pythonhosted.org/packages/63/0c/6a8e52afe8f41f172968b661d53048471631f992aa413abea6933ecf967e/OASYS1-XOPPY-1.0.36.tar.gz"
                 }
             ],
@@ -4557,6 +4809,7 @@
                     "requires_python": null,
                     "size": 14738885,
                     "upload_time": "2019-03-08T16:28:59",
+                    "upload_time_iso_8601": "2019-03-08T16:28:59.974002Z",
                     "url": "https://files.pythonhosted.org/packages/d3/bd/b5ee77aa1d0585ee3d124ed93a32e84b7539e1b73964494afcd24a7485a3/OASYS1-XOPPY-1.0.37.tar.gz"
                 }
             ],
@@ -4576,6 +4829,7 @@
                     "requires_python": null,
                     "size": 14738788,
                     "upload_time": "2019-03-08T21:14:08",
+                    "upload_time_iso_8601": "2019-03-08T21:14:08.411675Z",
                     "url": "https://files.pythonhosted.org/packages/08/c4/61104993ed53584a6cf4d1a6e894424148b0ab0bc5ab6f090a1421fc7995/OASYS1-XOPPY-1.0.38.tar.gz"
                 }
             ],
@@ -4595,6 +4849,7 @@
                     "requires_python": null,
                     "size": 13502482,
                     "upload_time": "2019-03-27T22:19:03",
+                    "upload_time_iso_8601": "2019-03-27T22:19:03.147569Z",
                     "url": "https://files.pythonhosted.org/packages/d6/4e/d40a0b0bdfb98015e678d17c1d238666fb3060e589a7cb8c1382c3b0a024/OASYS1_XOPPY-1.0.39-py3-none-any.whl"
                 },
                 {
@@ -4612,6 +4867,7 @@
                     "requires_python": null,
                     "size": 14738771,
                     "upload_time": "2019-03-27T22:19:08",
+                    "upload_time_iso_8601": "2019-03-27T22:19:08.931790Z",
                     "url": "https://files.pythonhosted.org/packages/7e/98/2383816770df54ab8759764f68ae76b7dc78a5e35925e2c834379d0e3638/OASYS1-XOPPY-1.0.39.tar.gz"
                 }
             ],
@@ -4631,6 +4887,7 @@
                     "requires_python": null,
                     "size": 14702422,
                     "upload_time": "2019-04-04T14:48:35",
+                    "upload_time_iso_8601": "2019-04-04T14:48:35.028984Z",
                     "url": "https://files.pythonhosted.org/packages/b8/8f/01cbeb5ed0b0c27c01bba0d5eef21ee050aff380d3e4232d86d1c013afb1/OASYS1-XOPPY-1.0.40.tar.gz"
                 }
             ],
@@ -4650,6 +4907,7 @@
                     "requires_python": null,
                     "size": 14702391,
                     "upload_time": "2019-04-05T09:53:34",
+                    "upload_time_iso_8601": "2019-04-05T09:53:34.317840Z",
                     "url": "https://files.pythonhosted.org/packages/c0/fb/f1118e43222011d6fab7ff74e0ecd43bd27142b3ccabfff0ca9c257ad083/OASYS1-XOPPY-1.0.41.tar.gz"
                 }
             ],
@@ -4669,6 +4927,7 @@
                     "requires_python": null,
                     "size": 13270969,
                     "upload_time": "2019-05-09T13:39:55",
+                    "upload_time_iso_8601": "2019-05-09T13:39:55.499079Z",
                     "url": "https://files.pythonhosted.org/packages/bc/0d/e140d70da2e0a41f38e4d2b31ec32e7cc457a5bbe8254f70824b8d8ebdbd/OASYS1-XOPPY-1.0.43.tar.gz"
                 }
             ],
@@ -4688,6 +4947,7 @@
                     "requires_python": null,
                     "size": 13257100,
                     "upload_time": "2019-06-21T13:47:26",
+                    "upload_time_iso_8601": "2019-06-21T13:47:26.990914Z",
                     "url": "https://files.pythonhosted.org/packages/2f/9a/1d41cff335a66444c1634ca75a97bdc4b505d67d39d6b09a34eb57e6e598/OASYS1-XOPPY-1.0.44.tar.gz"
                 }
             ],
@@ -4707,6 +4967,7 @@
                     "requires_python": null,
                     "size": 13301554,
                     "upload_time": "2019-09-18T22:56:11",
+                    "upload_time_iso_8601": "2019-09-18T22:56:11.364865Z",
                     "url": "https://files.pythonhosted.org/packages/e6/28/34eb9039c8bc6c10489691af997d42a27edc0769f02d921dae8ae5c58eae/OASYS1-XOPPY-1.0.45.tar.gz"
                 }
             ],
@@ -4726,6 +4987,7 @@
                     "requires_python": null,
                     "size": 13295044,
                     "upload_time": "2019-09-20T19:12:17",
+                    "upload_time_iso_8601": "2019-09-20T19:12:17.290632Z",
                     "url": "https://files.pythonhosted.org/packages/7e/07/594346d569206d8172b64b26d5031706acb2e061566bc9998f8dce9d8334/OASYS1-XOPPY-1.0.46.tar.gz"
                 }
             ],
@@ -4745,6 +5007,7 @@
                     "requires_python": null,
                     "size": 13297160,
                     "upload_time": "2019-09-23T20:36:29",
+                    "upload_time_iso_8601": "2019-09-23T20:36:29.045932Z",
                     "url": "https://files.pythonhosted.org/packages/ce/52/0dff7665c464e6bed806c3489ef1e6848bf21ad5f283a3a996d390d08b43/OASYS1-XOPPY-1.0.47.tar.gz"
                 }
             ],
@@ -4764,6 +5027,7 @@
                     "requires_python": null,
                     "size": 13297931,
                     "upload_time": "2019-09-23T21:42:50",
+                    "upload_time_iso_8601": "2019-09-23T21:42:50.318782Z",
                     "url": "https://files.pythonhosted.org/packages/8c/d7/2499476b2bffc2967b6b6badbb962aee13ba91e7c57b6ebf0b0e648fc2bf/OASYS1-XOPPY-1.0.48.tar.gz"
                 }
             ],
@@ -4783,6 +5047,7 @@
                     "requires_python": null,
                     "size": 14685807,
                     "upload_time": "2019-09-27T18:57:17",
+                    "upload_time_iso_8601": "2019-09-27T18:57:17.295656Z",
                     "url": "https://files.pythonhosted.org/packages/15/9f/47b82c61411a24c69dfa1ba2014392b3a8b2fbc65a10528e85cbaef5f073/OASYS1-XOPPY-1.0.49.tar.gz"
                 }
             ],
@@ -4802,6 +5067,7 @@
                     "requires_python": null,
                     "size": 14685753,
                     "upload_time": "2019-09-27T20:12:08",
+                    "upload_time_iso_8601": "2019-09-27T20:12:08.622808Z",
                     "url": "https://files.pythonhosted.org/packages/59/65/f037ed88ea0f298529603029389b97c68b32c16000f0b6adc5c934436100/OASYS1-XOPPY-1.0.50.tar.gz"
                 }
             ],
@@ -4821,6 +5087,7 @@
                     "requires_python": null,
                     "size": 14685822,
                     "upload_time": "2019-09-30T23:45:17",
+                    "upload_time_iso_8601": "2019-09-30T23:45:17.350534Z",
                     "url": "https://files.pythonhosted.org/packages/29/50/3b5172fe371b762bcde11dde37c6ec7b10871ad053bf108cb327697c9571/OASYS1-XOPPY-1.0.51.tar.gz"
                 }
             ],
@@ -4840,6 +5107,7 @@
                     "requires_python": null,
                     "size": 14685775,
                     "upload_time": "2019-10-01T00:00:06",
+                    "upload_time_iso_8601": "2019-10-01T00:00:06.833437Z",
                     "url": "https://files.pythonhosted.org/packages/e8/f1/af8d03fc1bb42abb2e6b4f30a381b6063fbdb0e467cfe8ae70d20914e4d0/OASYS1-XOPPY-1.0.52.tar.gz"
                 }
             ],
@@ -4859,6 +5127,7 @@
                     "requires_python": null,
                     "size": 14631268,
                     "upload_time": "2019-10-02T20:53:16",
+                    "upload_time_iso_8601": "2019-10-02T20:53:16.532156Z",
                     "url": "https://files.pythonhosted.org/packages/f0/d9/58c80cef1ec97e4fe15ea26cd512ea07b1c8d14456826a12fea9c806e798/OASYS1-XOPPY-1.0.53.tar.gz"
                 }
             ],
@@ -4878,6 +5147,7 @@
                     "requires_python": null,
                     "size": 14685184,
                     "upload_time": "2019-10-05T00:19:05",
+                    "upload_time_iso_8601": "2019-10-05T00:19:05.498791Z",
                     "url": "https://files.pythonhosted.org/packages/ab/e1/afac32b120c6c400924afe0230435f4d9484f97c89aec28edab6b9182f2b/OASYS1-XOPPY-1.0.54.tar.gz"
                 }
             ],
@@ -4897,6 +5167,7 @@
                     "requires_python": null,
                     "size": 14685238,
                     "upload_time": "2019-10-15T23:47:48",
+                    "upload_time_iso_8601": "2019-10-15T23:47:48.414551Z",
                     "url": "https://files.pythonhosted.org/packages/a5/0c/18b673d7ac649687452faf08fc7e0a3405c320f0ab277a1d9a4d8e5de889/OASYS1-XOPPY-1.0.55.tar.gz"
                 }
             ],
@@ -4916,6 +5187,7 @@
                     "requires_python": null,
                     "size": 14685807,
                     "upload_time": "2019-10-16T21:43:51",
+                    "upload_time_iso_8601": "2019-10-16T21:43:51.638778Z",
                     "url": "https://files.pythonhosted.org/packages/a1/82/bd54edd035eb03f87daa0c3a48d74c192be5daf2e817c4161437dfcefd38/OASYS1-XOPPY-1.0.56.tar.gz"
                 }
             ],
@@ -4935,6 +5207,7 @@
                     "requires_python": null,
                     "size": 14633739,
                     "upload_time": "2019-10-17T20:15:04",
+                    "upload_time_iso_8601": "2019-10-17T20:15:04.268655Z",
                     "url": "https://files.pythonhosted.org/packages/9d/30/fc910bb331de10d08ec2db658c35f85846a54c8a0bb164a8d90d56881147/OASYS1-XOPPY-1.0.57.tar.gz"
                 }
             ],
@@ -4954,6 +5227,7 @@
                     "requires_python": null,
                     "size": 14685904,
                     "upload_time": "2019-10-18T21:44:05",
+                    "upload_time_iso_8601": "2019-10-18T21:44:05.841741Z",
                     "url": "https://files.pythonhosted.org/packages/48/48/608b93e1d01331d1202a3a805fd8a46380f6efbc6e0bc808be43aa135021/OASYS1-XOPPY-1.0.58.tar.gz"
                 }
             ]
@@ -4974,6 +5248,7 @@
                 "requires_python": null,
                 "size": 14685904,
                 "upload_time": "2019-10-18T21:44:05",
+                "upload_time_iso_8601": "2019-10-18T21:44:05.841741Z",
                 "url": "https://files.pythonhosted.org/packages/48/48/608b93e1d01331d1202a3a805fd8a46380f6efbc6e0bc808be43aa135021/OASYS1-XOPPY-1.0.58.tar.gz"
             }
         ]
@@ -5038,6 +5313,7 @@
                     "requires_python": null,
                     "size": 105026,
                     "upload_time": "2017-05-17T12:58:26",
+                    "upload_time_iso_8601": "2017-05-17T12:58:26.548743Z",
                     "url": "https://files.pythonhosted.org/packages/32/56/16c45953bea0a9c3828f01c1c84201acb51152f487fea103144b80ddec5d/OASYS1-XRayServer-1.0.11.tar.gz"
                 }
             ],
@@ -5057,6 +5333,7 @@
                     "requires_python": null,
                     "size": 105045,
                     "upload_time": "2017-05-17T15:43:59",
+                    "upload_time_iso_8601": "2017-05-17T15:43:59.984024Z",
                     "url": "https://files.pythonhosted.org/packages/4d/06/c400a56b3e2335e2debb66b993476aad7ad0bc2bbf910f2379bd8e168300/OASYS1-XRayServer-1.0.12.tar.gz"
                 }
             ],
@@ -5076,6 +5353,7 @@
                     "requires_python": null,
                     "size": 105126,
                     "upload_time": "2017-05-25T17:34:32",
+                    "upload_time_iso_8601": "2017-05-25T17:34:32.222027Z",
                     "url": "https://files.pythonhosted.org/packages/ee/a2/e0232d9819691d312921734ce612c6a916db78ec38e982d1efbe56d3305b/OASYS1-XRayServer-1.0.13.tar.gz"
                 }
             ],
@@ -5095,6 +5373,7 @@
                     "requires_python": null,
                     "size": 105681,
                     "upload_time": "2017-06-28T14:03:51",
+                    "upload_time_iso_8601": "2017-06-28T14:03:51.340204Z",
                     "url": "https://files.pythonhosted.org/packages/be/49/6a1236a626ac8f13ca655c3e361aaa5922d730d09523aa38479d8ceac29a/OASYS1-XRayServer-1.0.15.tar.gz"
                 }
             ],
@@ -5114,6 +5393,7 @@
                     "requires_python": null,
                     "size": 106353,
                     "upload_time": "2017-07-03T08:36:28",
+                    "upload_time_iso_8601": "2017-07-03T08:36:28.441288Z",
                     "url": "https://files.pythonhosted.org/packages/ad/73/bb1448b48efb428c28df6105b575cd7f4810ca5a027dfaf1fa04d7765588/OASYS1-XRayServer-1.0.16.tar.gz"
                 }
             ],
@@ -5133,6 +5413,7 @@
                     "requires_python": null,
                     "size": 106355,
                     "upload_time": "2017-07-03T08:42:03",
+                    "upload_time_iso_8601": "2017-07-03T08:42:03.907296Z",
                     "url": "https://files.pythonhosted.org/packages/e1/b7/557e1ddd24ff731d2d7e0975b17deaf2f33cf7a92b8f78720e0b7224c231/OASYS1-XRayServer-1.0.17.tar.gz"
                 }
             ],
@@ -5152,6 +5433,7 @@
                     "requires_python": null,
                     "size": 106487,
                     "upload_time": "2017-07-04T12:22:42",
+                    "upload_time_iso_8601": "2017-07-04T12:22:42.480604Z",
                     "url": "https://files.pythonhosted.org/packages/2f/f5/11241c26ac8b92c5f66f726ccbf7bd656ff5a731f79d56adbb42e2be85f2/OASYS1-XRayServer-1.0.18.tar.gz"
                 }
             ],
@@ -5171,6 +5453,7 @@
                     "requires_python": null,
                     "size": 108780,
                     "upload_time": "2017-11-22T18:30:28",
+                    "upload_time_iso_8601": "2017-11-22T18:30:28.233294Z",
                     "url": "https://files.pythonhosted.org/packages/be/c8/9461785c402ac3026d63ce20799508313e352c9610b6692671007550adfa/OASYS1-XRayServer-1.0.19.tar.gz"
                 }
             ],
@@ -5190,6 +5473,7 @@
                     "requires_python": null,
                     "size": 109231,
                     "upload_time": "2018-06-08T11:41:20",
+                    "upload_time_iso_8601": "2018-06-08T11:41:20.655936Z",
                     "url": "https://files.pythonhosted.org/packages/41/c5/b1937abcb70dc97b1b7910987449af4a3cc6b8208b716f93d0b4438940fc/OASYS1-XRayServer-1.0.20.tar.gz"
                 }
             ],
@@ -5209,6 +5493,7 @@
                     "requires_python": null,
                     "size": 109314,
                     "upload_time": "2018-06-08T12:48:11",
+                    "upload_time_iso_8601": "2018-06-08T12:48:11.289239Z",
                     "url": "https://files.pythonhosted.org/packages/00/40/cb8f74bead4ebffec63ced373adff2118eb5e209358c6ea4eb40c03e761b/OASYS1-XRayServer-1.0.21.tar.gz"
                 }
             ],
@@ -5228,6 +5513,7 @@
                     "requires_python": null,
                     "size": 110004,
                     "upload_time": "2018-12-04T17:36:34",
+                    "upload_time_iso_8601": "2018-12-04T17:36:34.022624Z",
                     "url": "https://files.pythonhosted.org/packages/34/c7/a6c11bed977951e1a8053683e85543b92229943f8253aea205141cd3b83b/OASYS1-XRayServer-1.0.22.tar.gz"
                 }
             ],
@@ -5247,6 +5533,7 @@
                     "requires_python": null,
                     "size": 110000,
                     "upload_time": "2019-01-21T17:38:20",
+                    "upload_time_iso_8601": "2019-01-21T17:38:20.157090Z",
                     "url": "https://files.pythonhosted.org/packages/a7/6e/85a64b2c3b3ba17d9955ccbcedfd20433ce1b7cfc57d587243c111a0dd3c/OASYS1-XRayServer-1.0.23.tar.gz"
                 }
             ],
@@ -5266,6 +5553,7 @@
                     "requires_python": null,
                     "size": 110055,
                     "upload_time": "2019-02-13T17:17:34",
+                    "upload_time_iso_8601": "2019-02-13T17:17:34.896775Z",
                     "url": "https://files.pythonhosted.org/packages/da/00/ae4a407f1a24ffa348f19c62ac0de6bc133cef60b085de9b7d922bff7f7a/OASYS1-XRayServer-1.0.24.tar.gz"
                 }
             ],
@@ -5285,6 +5573,7 @@
                     "requires_python": null,
                     "size": 110016,
                     "upload_time": "2019-03-06T13:23:10",
+                    "upload_time_iso_8601": "2019-03-06T13:23:10.134860Z",
                     "url": "https://files.pythonhosted.org/packages/13/3f/0331905284f1975504714818f435ddfb0e7da79cacfbe3b82af9a0c6eca8/OASYS1-XRayServer-1.0.25.tar.gz"
                 }
             ],
@@ -5304,6 +5593,7 @@
                     "requires_python": null,
                     "size": 110083,
                     "upload_time": "2019-03-06T16:26:38",
+                    "upload_time_iso_8601": "2019-03-06T16:26:38.018482Z",
                     "url": "https://files.pythonhosted.org/packages/92/5e/fe433daac69604ea61fb52f80d4763660010fdb120f6be7b5f513664330b/OASYS1-XRayServer-1.0.26.tar.gz"
                 }
             ],
@@ -5323,6 +5613,7 @@
                     "requires_python": null,
                     "size": 110044,
                     "upload_time": "2019-03-08T21:16:08",
+                    "upload_time_iso_8601": "2019-03-08T21:16:08.510177Z",
                     "url": "https://files.pythonhosted.org/packages/af/42/ee3b530824b47d0bcb4c9f03b1d9307162a1c074abeaaecb3e01bb81c15d/OASYS1-XRayServer-1.0.27.tar.gz"
                 }
             ],
@@ -5342,6 +5633,7 @@
                     "requires_python": null,
                     "size": 110095,
                     "upload_time": "2019-04-17T21:58:35",
+                    "upload_time_iso_8601": "2019-04-17T21:58:35.426046Z",
                     "url": "https://files.pythonhosted.org/packages/41/e7/456fa2688a9fd3c259d25588f27e8f02eddbdfa949c9f8a2f4209b31c8c9/OASYS1-XRayServer-1.0.28.tar.gz"
                 }
             ],
@@ -5361,6 +5653,7 @@
                     "requires_python": null,
                     "size": 99670,
                     "upload_time": "2019-09-24T18:28:03",
+                    "upload_time_iso_8601": "2019-09-24T18:28:03.238050Z",
                     "url": "https://files.pythonhosted.org/packages/43/1c/ef965bfc89918b5a8fe1d8259141901549887c1a7aa082699d5d2129ccf4/OASYS1-XRayServer-1.0.29.tar.gz"
                 }
             ]
@@ -5381,6 +5674,7 @@
                 "requires_python": null,
                 "size": 99670,
                 "upload_time": "2019-09-24T18:28:03",
+                "upload_time_iso_8601": "2019-09-24T18:28:03.238050Z",
                 "url": "https://files.pythonhosted.org/packages/43/1c/ef965bfc89918b5a8fe1d8259141901549887c1a7aa082699d5d2129ccf4/OASYS1-XRayServer-1.0.29.tar.gz"
             }
         ]
@@ -5420,13 +5714,13 @@
                 "Download": "https://github.com/oasys-kit/OASYS-SYNED",
                 "Homepage": "https://github.com/oasys-kit/OASYS-SYNED"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.19/",
+            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.20/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SYNED SYNchrotron Elements Dictionary",
-            "version": "1.0.19"
+            "version": "1.0.20"
         },
-        "last_serial": 6015112,
+        "last_serial": 6020669,
         "releases": {
             "1.0.0": [
                 {
@@ -5444,6 +5738,7 @@
                     "requires_python": null,
                     "size": 819230,
                     "upload_time": "2018-06-07T10:07:37",
+                    "upload_time_iso_8601": "2018-06-07T10:07:37.582923Z",
                     "url": "https://files.pythonhosted.org/packages/9f/1b/a87bbbc7368f953393dd7459b8f79f469d6dad5fbf15cf42cb58dee36b99/OASYS1-SYNED-1.0.0.tar.gz"
                 }
             ],
@@ -5463,6 +5758,7 @@
                     "requires_python": null,
                     "size": 818789,
                     "upload_time": "2018-10-03T19:11:30",
+                    "upload_time_iso_8601": "2018-10-03T19:11:30.838266Z",
                     "url": "https://files.pythonhosted.org/packages/dc/d0/1941350291ad9655e7f31ddc5b98819703cd1a0bbe9e0e9247cfdcf7e5ce/OASYS1-SYNED-1.0.1.tar.gz"
                 }
             ],
@@ -5482,6 +5778,7 @@
                     "requires_python": null,
                     "size": 1053638,
                     "upload_time": "2019-01-23T19:57:25",
+                    "upload_time_iso_8601": "2019-01-23T19:57:25.438448Z",
                     "url": "https://files.pythonhosted.org/packages/09/75/43fbe858d3da20a6ead48b9c065cdc00ee9fa265d1c9dad29b058e78b601/OASYS1-SYNED-1.0.10.tar.gz"
                 }
             ],
@@ -5501,6 +5798,7 @@
                     "requires_python": null,
                     "size": 1053649,
                     "upload_time": "2019-02-02T22:54:19",
+                    "upload_time_iso_8601": "2019-02-02T22:54:19.312072Z",
                     "url": "https://files.pythonhosted.org/packages/b7/e9/90dc291e90d2c71b882d6f81e16a0e1ac91fd2081fe761c25615fc6e0674/OASYS1-SYNED-1.0.11.tar.gz"
                 }
             ],
@@ -5520,6 +5818,7 @@
                     "requires_python": null,
                     "size": 1053172,
                     "upload_time": "2019-04-04T14:41:20",
+                    "upload_time_iso_8601": "2019-04-04T14:41:20.040332Z",
                     "url": "https://files.pythonhosted.org/packages/47/2d/7aafb826adc1a913e41c7a83f6a51b12ad2d0e14335f03d5746e8e10fe05/OASYS1-SYNED-1.0.12.tar.gz"
                 }
             ],
@@ -5539,6 +5838,7 @@
                     "requires_python": null,
                     "size": 1028073,
                     "upload_time": "2019-05-31T16:49:12",
+                    "upload_time_iso_8601": "2019-05-31T16:49:12.894525Z",
                     "url": "https://files.pythonhosted.org/packages/5a/06/2fe026d03a190cd01d4556f86f7f896986ed3f82726a5e7664bff853b3c7/OASYS1-SYNED-1.0.13.tar.gz"
                 }
             ],
@@ -5558,6 +5858,7 @@
                     "requires_python": null,
                     "size": 1240653,
                     "upload_time": "2019-08-29T17:56:06",
+                    "upload_time_iso_8601": "2019-08-29T17:56:06.584123Z",
                     "url": "https://files.pythonhosted.org/packages/85/08/25c305751a9e214dc0bace1080f06359988e021f928daa21b49b5e255c0e/OASYS1-SYNED-1.0.14.tar.gz"
                 }
             ],
@@ -5577,6 +5878,7 @@
                     "requires_python": null,
                     "size": 1240651,
                     "upload_time": "2019-08-29T18:35:38",
+                    "upload_time_iso_8601": "2019-08-29T18:35:38.256750Z",
                     "url": "https://files.pythonhosted.org/packages/95/1f/9bc09816eaeb7b2772f336d064fd579a84235adb2ba3526863b18359297e/OASYS1-SYNED-1.0.15.tar.gz"
                 }
             ],
@@ -5596,6 +5898,7 @@
                     "requires_python": null,
                     "size": 1240610,
                     "upload_time": "2019-08-30T20:06:58",
+                    "upload_time_iso_8601": "2019-08-30T20:06:58.062063Z",
                     "url": "https://files.pythonhosted.org/packages/ed/df/2bade2299b7b27b0b31f92b81ecbaf31ceff6b5da32bc5d1c36395b30fdd/OASYS1-SYNED-1.0.16.tar.gz"
                 }
             ],
@@ -5615,6 +5918,7 @@
                     "requires_python": null,
                     "size": 1239030,
                     "upload_time": "2019-10-03T16:32:42",
+                    "upload_time_iso_8601": "2019-10-03T16:32:42.193556Z",
                     "url": "https://files.pythonhosted.org/packages/b3/f6/6b54f5ed627b674ef5827e6c426a5da858d768a20e3a43671e3e8ed7e7aa/OASYS1-SYNED-1.0.17.tar.gz"
                 }
             ],
@@ -5634,6 +5938,7 @@
                     "requires_python": null,
                     "size": 1242819,
                     "upload_time": "2019-10-22T19:37:41",
+                    "upload_time_iso_8601": "2019-10-22T19:37:41.721738Z",
                     "url": "https://files.pythonhosted.org/packages/6c/49/b61a1d73ae3a5c1bfb0e2eb9a0fe19655f1d219d8f5111009ba01e61f60a/OASYS1-SYNED-1.0.18.tar.gz"
                 }
             ],
@@ -5653,6 +5958,7 @@
                     "requires_python": null,
                     "size": 1242853,
                     "upload_time": "2019-10-22T20:36:39",
+                    "upload_time_iso_8601": "2019-10-22T20:36:39.021437Z",
                     "url": "https://files.pythonhosted.org/packages/bf/40/47003c27984cd3053e4e75d9c61cdb151411311450cf7830479fc2fe37b4/OASYS1-SYNED-1.0.19.tar.gz"
                 }
             ],
@@ -5672,7 +5978,28 @@
                     "requires_python": null,
                     "size": 894528,
                     "upload_time": "2018-11-16T20:17:00",
+                    "upload_time_iso_8601": "2018-11-16T20:17:00.013747Z",
                     "url": "https://files.pythonhosted.org/packages/9a/1a/169879475fc5918a32ae89c3c44f274771eee7772df340a17711999c50fb/OASYS1-SYNED-1.0.2.tar.gz"
+                }
+            ],
+            "1.0.20": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "b96b51699cbbd734136f66554b69ee30",
+                        "sha256": "70e95da18725543e259a7623147c095b5c6dde3022798a194803787de12532dc"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SYNED-1.0.20.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "b96b51699cbbd734136f66554b69ee30",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 1242838,
+                    "upload_time": "2019-10-23T21:43:53",
+                    "upload_time_iso_8601": "2019-10-23T21:43:53.750386Z",
+                    "url": "https://files.pythonhosted.org/packages/76/8e/7397d6284fef0a75d3942e393abbb7a6efea05d86ae1ba7e1b9fc31d17b6/OASYS1-SYNED-1.0.20.tar.gz"
                 }
             ],
             "1.0.3": [
@@ -5691,6 +6018,7 @@
                     "requires_python": null,
                     "size": 894520,
                     "upload_time": "2018-11-16T20:31:48",
+                    "upload_time_iso_8601": "2018-11-16T20:31:48.386783Z",
                     "url": "https://files.pythonhosted.org/packages/f8/1b/f621ac7b502413b0d27fbc53ab62324cdd6d23526f3f7cdc61afc59065e3/OASYS1-SYNED-1.0.3.tar.gz"
                 }
             ],
@@ -5710,6 +6038,7 @@
                     "requires_python": null,
                     "size": 1028337,
                     "upload_time": "2018-11-16T20:49:32",
+                    "upload_time_iso_8601": "2018-11-16T20:49:32.113645Z",
                     "url": "https://files.pythonhosted.org/packages/21/4e/d0bdbb187c8e25eff1eecd8563228e1e6cd02d381ccdd86e48174fed2131/OASYS1-SYNED-1.0.4.tar.gz"
                 }
             ],
@@ -5729,6 +6058,7 @@
                     "requires_python": null,
                     "size": 1028334,
                     "upload_time": "2018-11-19T15:15:54",
+                    "upload_time_iso_8601": "2018-11-19T15:15:54.121348Z",
                     "url": "https://files.pythonhosted.org/packages/d9/fa/3effdb54b45141d1baf8824c875758c99d0c4a02025bd2a6eb1b8bbb3e20/OASYS1-SYNED-1.0.5.tar.gz"
                 }
             ],
@@ -5748,6 +6078,7 @@
                     "requires_python": null,
                     "size": 1028334,
                     "upload_time": "2018-11-19T15:46:36",
+                    "upload_time_iso_8601": "2018-11-19T15:46:36.206699Z",
                     "url": "https://files.pythonhosted.org/packages/d7/e9/c78f4befbda0267a691bba6f86101deded31193e8ef496575d8fec2ba139/OASYS1-SYNED-1.0.6.tar.gz"
                 }
             ],
@@ -5767,6 +6098,7 @@
                     "requires_python": null,
                     "size": 1053729,
                     "upload_time": "2018-11-20T17:06:45",
+                    "upload_time_iso_8601": "2018-11-20T17:06:45.398625Z",
                     "url": "https://files.pythonhosted.org/packages/9b/07/06406f4897219ca241fcb087907a8be4cbb08867b32074a4bd42b906ddf6/OASYS1-SYNED-1.0.7.tar.gz"
                 }
             ],
@@ -5786,6 +6118,7 @@
                     "requires_python": null,
                     "size": 1053784,
                     "upload_time": "2019-01-22T16:34:55",
+                    "upload_time_iso_8601": "2019-01-22T16:34:55.245032Z",
                     "url": "https://files.pythonhosted.org/packages/7f/26/5b09d0066632df7764a707725cce6b07bfada4a7c563c080744999cffab1/OASYS1-SYNED-1.0.8.tar.gz"
                 }
             ],
@@ -5805,6 +6138,7 @@
                     "requires_python": null,
                     "size": 1053600,
                     "upload_time": "2019-01-23T17:08:41",
+                    "upload_time_iso_8601": "2019-01-23T17:08:41.742442Z",
                     "url": "https://files.pythonhosted.org/packages/93/c5/a58d305c1b37940c850403139c942a867a701b41a643a861af3ef075115c/OASYS1-SYNED-1.0.9.tar.gz"
                 }
             ]
@@ -5813,19 +6147,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "172a320f691ab783ad5ab9e2f312db03",
-                    "sha256": "8d2ea5ce29bbe7b17e346b57a48ac63d8dbc13509c93208b95ed6794099febb7"
+                    "md5": "b96b51699cbbd734136f66554b69ee30",
+                    "sha256": "70e95da18725543e259a7623147c095b5c6dde3022798a194803787de12532dc"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SYNED-1.0.19.tar.gz",
+                "filename": "OASYS1-SYNED-1.0.20.tar.gz",
                 "has_sig": false,
-                "md5_digest": "172a320f691ab783ad5ab9e2f312db03",
+                "md5_digest": "b96b51699cbbd734136f66554b69ee30",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1242853,
-                "upload_time": "2019-10-22T20:36:39",
-                "url": "https://files.pythonhosted.org/packages/bf/40/47003c27984cd3053e4e75d9c61cdb151411311450cf7830479fc2fe37b4/OASYS1-SYNED-1.0.19.tar.gz"
+                "size": 1242838,
+                "upload_time": "2019-10-23T21:43:53",
+                "upload_time_iso_8601": "2019-10-23T21:43:53.750386Z",
+                "url": "https://files.pythonhosted.org/packages/76/8e/7397d6284fef0a75d3942e393abbb7a6efea05d86ae1ba7e1b9fc31d17b6/OASYS1-SYNED-1.0.20.tar.gz"
             }
         ]
     },
@@ -5888,6 +6223,7 @@
                     "requires_python": null,
                     "size": 686209,
                     "upload_time": "2018-06-07T10:10:29",
+                    "upload_time_iso_8601": "2018-06-07T10:10:29.367633Z",
                     "url": "https://files.pythonhosted.org/packages/36/3d/de0f724b661f045391e460006fef4dc21b660e56923f77df2eb07ef7c63f/OASYS1-WOFRY-1.0.0.tar.gz"
                 }
             ],
@@ -5907,6 +6243,7 @@
                     "requires_python": null,
                     "size": 696733,
                     "upload_time": "2018-10-03T14:51:06",
+                    "upload_time_iso_8601": "2018-10-03T14:51:06.832722Z",
                     "url": "https://files.pythonhosted.org/packages/7f/c6/31c49cf2edda3f34f3d37df13199c6d3d195d9bb201665cefaeb29bbaa36/OASYS1-WOFRY-1.0.1.tar.gz"
                 }
             ],
@@ -5926,6 +6263,7 @@
                     "requires_python": null,
                     "size": 696787,
                     "upload_time": "2018-11-19T15:17:44",
+                    "upload_time_iso_8601": "2018-11-19T15:17:44.381770Z",
                     "url": "https://files.pythonhosted.org/packages/cf/b2/06fd4bab6805fb2c08a96e8f260d7d27900fa376c3be76b2629c15a9caa0/OASYS1-WOFRY-1.0.2.tar.gz"
                 }
             ],
@@ -5945,6 +6283,7 @@
                     "requires_python": null,
                     "size": 696861,
                     "upload_time": "2019-02-02T22:55:23",
+                    "upload_time_iso_8601": "2019-02-02T22:55:23.205646Z",
                     "url": "https://files.pythonhosted.org/packages/14/55/79a925897792d553494594d9dd09701a237b0fe3fd257ea107a8fa393db1/OASYS1-WOFRY-1.0.3.tar.gz"
                 }
             ],
@@ -5964,6 +6303,7 @@
                     "requires_python": null,
                     "size": 696938,
                     "upload_time": "2019-02-03T18:31:38",
+                    "upload_time_iso_8601": "2019-02-03T18:31:38.889832Z",
                     "url": "https://files.pythonhosted.org/packages/37/15/64de571b7671e16ed6eae963a96fb8f0f239be62b534d23aab1284a5b349/OASYS1-WOFRY-1.0.4.tar.gz"
                 }
             ],
@@ -5983,6 +6323,7 @@
                     "requires_python": null,
                     "size": 696989,
                     "upload_time": "2019-03-08T21:14:24",
+                    "upload_time_iso_8601": "2019-03-08T21:14:24.186806Z",
                     "url": "https://files.pythonhosted.org/packages/7c/bc/4b54cc2743282673431a47479cce2c7c8f45d916a9a5f56d626e60e308ec/OASYS1-WOFRY-1.0.5.tar.gz"
                 }
             ],
@@ -6002,6 +6343,7 @@
                     "requires_python": null,
                     "size": 693914,
                     "upload_time": "2019-04-04T14:45:03",
+                    "upload_time_iso_8601": "2019-04-04T14:45:03.905080Z",
                     "url": "https://files.pythonhosted.org/packages/2c/54/e10eda7843f229891f8fd6a0c803295976673378f4a9ba1a8e5312fa0c9c/OASYS1-WOFRY-1.0.6.tar.gz"
                 }
             ],
@@ -6021,6 +6363,7 @@
                     "requires_python": null,
                     "size": 696053,
                     "upload_time": "2019-09-03T16:35:18",
+                    "upload_time_iso_8601": "2019-09-03T16:35:18.514639Z",
                     "url": "https://files.pythonhosted.org/packages/58/92/3e284513728a0897992f06b6a3c797a3b028fab1f54a93578c18be1cc418/OASYS1-WOFRY-1.0.7.tar.gz"
                 }
             ],
@@ -6040,6 +6383,7 @@
                     "requires_python": null,
                     "size": 699659,
                     "upload_time": "2019-09-16T20:47:27",
+                    "upload_time_iso_8601": "2019-09-16T20:47:27.746863Z",
                     "url": "https://files.pythonhosted.org/packages/ac/60/6403c2aa1e0c9a5fea8eb58d6f25834d9e31b5b6838a20f0cb1935a113f8/OASYS1-WOFRY-1.0.8.tar.gz"
                 }
             ]
@@ -6060,6 +6404,7 @@
                 "requires_python": null,
                 "size": 699659,
                 "upload_time": "2019-09-16T20:47:27",
+                "upload_time_iso_8601": "2019-09-16T20:47:27.746863Z",
                 "url": "https://files.pythonhosted.org/packages/ac/60/6403c2aa1e0c9a5fea8eb58d6f25834d9e31b5b6838a20f0cb1935a113f8/OASYS1-WOFRY-1.0.8.tar.gz"
             }
         ]
