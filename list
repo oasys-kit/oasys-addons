@@ -40,7 +40,7 @@
             "summary": "Shadow, Ray-tracing simulation software",
             "version": "1.5.33"
         },
-        "last_serial": 6314572,
+        "last_serial": 6319240,
         "releases": {
             "1.4.100": [
                 {
@@ -2459,13 +2459,13 @@
                 "Download": "https://github.com/lucarebuffi/OASYS-SRW",
                 "Homepage": "https://github.com/lucarebuffi/OASYS-SRW"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SRW/1.1.31/",
+            "release_url": "https://pypi.org/project/OASYS1-SRW/1.1.32/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SRW in OASYS",
-            "version": "1.1.31"
+            "version": "1.1.32"
         },
-        "last_serial": 6248418,
+        "last_serial": 6319380,
         "releases": {
             "1.0.0": [
                 {
@@ -4547,6 +4547,26 @@
                     "url": "https://files.pythonhosted.org/packages/b2/52/79988f378b1855392efe4a7ccb3f711c0e6ec73dbfbba9661284e77e9e5e/OASYS1-SRW-1.1.31.tar.gz"
                 }
             ],
+            "1.1.32": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c8f738f86f76752591e14879347cbcac",
+                        "sha256": "464aba369f5f12b160e5579f5522056c324b07611ce660888de8df42c1784fd8"
+                    },
+                    "downloads": -1,
+                    "filename": "OASYS1-SRW-1.1.32.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c8f738f86f76752591e14879347cbcac",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 1988715,
+                    "upload_time": "2019-12-17T17:49:20",
+                    "upload_time_iso_8601": "2019-12-17T17:49:20.618413Z",
+                    "url": "https://files.pythonhosted.org/packages/df/f1/35a68c391e48b761dbc7453223f33ede9ce6bbd401d9d53155a28e0afcf5/OASYS1-SRW-1.1.32.tar.gz"
+                }
+            ],
             "1.1.4": [
                 {
                     "comment_text": "",
@@ -4672,20 +4692,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "2c7700cf76e8ad50f49bc75c055c383e",
-                    "sha256": "2864e84dd131da934ea405de4c2146c402b25f354aed6d9ef2ad5525fea6b39e"
+                    "md5": "c8f738f86f76752591e14879347cbcac",
+                    "sha256": "464aba369f5f12b160e5579f5522056c324b07611ce660888de8df42c1784fd8"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SRW-1.1.31.tar.gz",
+                "filename": "OASYS1-SRW-1.1.32.tar.gz",
                 "has_sig": false,
-                "md5_digest": "2c7700cf76e8ad50f49bc75c055c383e",
+                "md5_digest": "c8f738f86f76752591e14879347cbcac",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1988685,
-                "upload_time": "2019-12-05T16:52:25",
-                "upload_time_iso_8601": "2019-12-05T16:52:25.062088Z",
-                "url": "https://files.pythonhosted.org/packages/b2/52/79988f378b1855392efe4a7ccb3f711c0e6ec73dbfbba9661284e77e9e5e/OASYS1-SRW-1.1.31.tar.gz"
+                "size": 1988715,
+                "upload_time": "2019-12-17T17:49:20",
+                "upload_time_iso_8601": "2019-12-17T17:49:20.618413Z",
+                "url": "https://files.pythonhosted.org/packages/df/f1/35a68c391e48b761dbc7453223f33ede9ce6bbd401d9d53155a28e0afcf5/OASYS1-SRW-1.1.32.tar.gz"
             }
         ]
     },
@@ -5654,7 +5674,7 @@
             "summary": "X-Ray Server: Sergey Stepanov's X-Ray Server on OASYS",
             "version": "1.0.29"
         },
-        "last_serial": 5881299,
+        "last_serial": 6319238,
         "releases": {
             "1.0.10": [],
             "1.0.11": [
