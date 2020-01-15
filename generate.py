@@ -17,18 +17,16 @@ package_list = []
 for package in OFFICIAL_ADDONS:
     r = urlopen(URL.format(package=package)).read().decode("utf-8")
     p = json.loads(r)
-    p["releases"] =  p["releases"][p["info"]["version"]] # load only the last version
+    p["releases"] = p["releases"][p["info"]["version"]] # load only the last version
 
     package_list.append(p)
     
 with open('list.tmp', 'wt') as f:
     json.dump(package_list, f, sort_keys=True, indent=4)
 
-
 # verification
 
 with open('list.tmp', "rt") as f:
-
     json_list = json.load(f)
     names_in_json = [a["info"]["name"] for a in json_list]
     assert names_in_json == OFFICIAL_ADDONS
@@ -37,7 +35,6 @@ with open('list.tmp', "rt") as f:
     for addon in json_list:
         info = addon["info"]
         _ = info["version"], info["summary"], info["description"], info["package_url"], info["package_url"]
-
 
 # verification successful
 
