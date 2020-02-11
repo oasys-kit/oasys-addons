@@ -530,51 +530,51 @@
             "project_urls": {
                 "Homepage": "https://github.com/WONDER-project/OASYS1-WONDER"
             },
-            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.19/",
+            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.20/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Whole POwder PatterN MoDEl in OASYS.",
-            "version": "1.0.19"
+            "version": "1.0.20"
         },
-        "last_serial": 6610963,
+        "last_serial": 6611009,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "8261ddbbc77d5c0bb74c13ad6721a172",
-                    "sha256": "b7013aa9ecedfc2bf068240e285a2fdec5d55c74d4c0e2995a636ff2ebc3e245"
+                    "md5": "1c3eaa6be8af1a4f3f6a4ddf52e152cd",
+                    "sha256": "40520b065121c94f4d5852af070704349702c3ea143ba9fbc63491c0366fb23b"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.19.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.20.tar.gz",
                 "has_sig": false,
-                "md5_digest": "8261ddbbc77d5c0bb74c13ad6721a172",
+                "md5_digest": "1c3eaa6be8af1a4f3f6a4ddf52e152cd",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1484543,
-                "upload_time": "2020-02-11T17:33:55",
-                "upload_time_iso_8601": "2020-02-11T17:33:55.512365Z",
-                "url": "https://files.pythonhosted.org/packages/d0/8b/abb203a143aaa828621278a540f8115eeeea1cc4693e3d3cfa8f5f2c0467/OASYS1-WONDER-1.0.19.tar.gz"
+                "size": 1484612,
+                "upload_time": "2020-02-11T17:46:56",
+                "upload_time_iso_8601": "2020-02-11T17:46:56.751769Z",
+                "url": "https://files.pythonhosted.org/packages/20/59/20f6e64fda7b2a69baef6700e6d5a219b5c1f528b5b514ef0ade80d4b300/OASYS1-WONDER-1.0.20.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "8261ddbbc77d5c0bb74c13ad6721a172",
-                    "sha256": "b7013aa9ecedfc2bf068240e285a2fdec5d55c74d4c0e2995a636ff2ebc3e245"
+                    "md5": "1c3eaa6be8af1a4f3f6a4ddf52e152cd",
+                    "sha256": "40520b065121c94f4d5852af070704349702c3ea143ba9fbc63491c0366fb23b"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.19.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.20.tar.gz",
                 "has_sig": false,
-                "md5_digest": "8261ddbbc77d5c0bb74c13ad6721a172",
+                "md5_digest": "1c3eaa6be8af1a4f3f6a4ddf52e152cd",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1484543,
-                "upload_time": "2020-02-11T17:33:55",
-                "upload_time_iso_8601": "2020-02-11T17:33:55.512365Z",
-                "url": "https://files.pythonhosted.org/packages/d0/8b/abb203a143aaa828621278a540f8115eeeea1cc4693e3d3cfa8f5f2c0467/OASYS1-WONDER-1.0.19.tar.gz"
+                "size": 1484612,
+                "upload_time": "2020-02-11T17:46:56",
+                "upload_time_iso_8601": "2020-02-11T17:46:56.751769Z",
+                "url": "https://files.pythonhosted.org/packages/20/59/20f6e64fda7b2a69baef6700e6d5a219b5c1f528b5b514ef0ade80d4b300/OASYS1-WONDER-1.0.20.tar.gz"
             }
         ]
     }
