@@ -509,7 +509,7 @@
                 "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
                 "Programming Language :: Python :: 3 :: Only"
             ],
-            "description": "# WONDER (Whole POwder PatterN moDelling in ORange)\n\nWONDER is a graphic user interface to implement the WPPM approach to XRPD data analysis, that is fully based on the OASYS graphic and data flow engine, providing high flexibility and ease of use. \n\nThanks to the OASYS concept, no programming skills are requested to use WONDER at full power.\n\nWONDER provides a detailed output information by displaying not only the fit results, but by automatically drawing graphs containing the Instrumental Profile Functions and microstructural properties like Crystalline Domains size distribution, Warren\u2019s Plot and Integral Breadth.\n\nWONDER is a truly visual and interactive representation of how WPPM works, making it particularly indicated for didactical purposes and, generally speaking, to users that are not familiar with it.\n\n\n### Copyright (c) 2020, UChicago Argonne, LLC. All rights reserved.         \n                                                                         \n Copyright 2020. UChicago Argonne, LLC. This software was produced       \n under U.S. Government contract DE-AC02-06CH11357 for Argonne National   \n Laboratory (ANL), which is operated by UChicago Argonne, LLC for the    \n U.S. Department of Energy. The U.S. Government has rights to use,       \n reproduce, and distribute this software.  NEITHER THE GOVERNMENT NOR    \n UChicago Argonne, LLC MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR        \n ASSUMES ANY LIABILITY FOR THE USE OF THIS SOFTWARE.  If software is     \n modified to produce derivative works, such modified software should     \n be clearly marked, so as not to confuse it with the version available   \n from ANL.                                                               \n                                                                         \n Additionally, redistribution and use in source and binary forms, with   \n or without modification, are permitted provided that the following      \n conditions are met:                                                     \n                                                                         \n     * Redistributions of source code must retain the above copyright    \n       notice, this list of conditions and the following disclaimer.     \n                                                                         \n     * Redistributions in binary form must reproduce the above copyright \n       notice, this list of conditions and the following disclaimer in   \n       the documentation and/or other materials provided with the        \n       distribution.                                                     \n                                                                         \n     * Neither the name of UChicago Argonne, LLC, Argonne National       \n       Laboratory, ANL, the U.S. Government, nor the names of its        \n       contributors may be used to endorse or promote products derived   \n       from this software without specific prior written permission.     \n                                                                         \n THIS SOFTWARE IS PROVIDED BY UChicago Argonne, LLC AND CONTRIBUTORS     \n \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT       \n LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS       \n FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL UChicago     \n Argonne, LLC OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,        \n INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,    \n BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;        \n LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER        \n CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT      \n LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN       \n ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE         \n POSSIBILITY OF SUCH DAMAGE.",
+            "description": "# WONDER (Whole POwder PatterN moDelling in ORange)\n\nWONDER is a graphic user interface to implement the WPPM approach to XRPD data analysis, that is fully based on the OASYS graphic and data flow engine, providing high flexibility and ease of use. \n\nThanks to the OASYS concept, no programming skills are requested to use WONDER at full power.\n\nWONDER provides a detailed output information by displaying not only the fit results, but by automatically drawing graphs containing the Instrumental Profile Functions and microstructural properties like Crystalline Domains size distribution, Warren\u2019s Plot and Integral Breadth.\n\nWONDER is a truly visual and interactive representation of how WPPM works, making it particularly indicated for didactical purposes and, generally speaking, to users that are not familiar with it.\n\n\n### Copyright (c) 2020, UChicago Argonne, LLC. All rights reserved.         \n                                                                         \nCopyright 2020. UChicago Argonne, LLC. This software was produced under U.S. Government contract DE-AC02-06CH11357 for Argonne National Laboratory (ANL), which is operated by UChicago Argonne, LLC for the U.S. Department of Energy. The U.S. Government has rights to use, reproduce, and distribute this software.  \nNEITHER THE GOVERNMENT NOR UChicago Argonne, LLC MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LIABILITY FOR THE USE OF THIS SOFTWARE.  If software is modified to produce derivative works, such modified software should be clearly marked, so as not to confuse it with the version available from ANL.                                                               \n                                                                         \nAdditionally, redistribution and use in source and binary forms, with or without modification, are permitted provided that the following  conditions are met:                                                     \n                                                                         \n- Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.     \n                                                                         \n- Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.                                                     \n                                                                         \n- Neither the name of UChicago Argonne, LLC, Argonne National Laboratory, ANL, the U.S. Government, nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.     \n                                                                         \n THIS SOFTWARE IS PROVIDED BY UChicago Argonne, LLC AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL UChicago Argonne, LLC OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT      \n LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
             "description_content_type": "",
             "docs_url": null,
             "download_url": "",
@@ -530,51 +530,51 @@
             "project_urls": {
                 "Homepage": "https://github.com/WONDER-project/OASYS1-WONDER"
             },
-            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.30/",
+            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.31/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Whole POwder PatterN MoDEl in OASYS.",
-            "version": "1.0.30"
+            "version": "1.0.31"
         },
-        "last_serial": 6698582,
+        "last_serial": 6713150,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "b740733ad3a450917a8f7fcefc68ec3a",
-                    "sha256": "ece6bb0544138494106169d34c52e66dd53755ce5b53c3a6a361a8c9887f7a0b"
+                    "md5": "22812c7c47dbb6c3f05bfff0287324e0",
+                    "sha256": "8e55962eab6277b73a47f680dd00d882d9a729c5279812fe5973e136b84fc0d9"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.30.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.31.tar.gz",
                 "has_sig": false,
-                "md5_digest": "b740733ad3a450917a8f7fcefc68ec3a",
+                "md5_digest": "22812c7c47dbb6c3f05bfff0287324e0",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1427539,
-                "upload_time": "2020-02-25T19:51:33",
-                "upload_time_iso_8601": "2020-02-25T19:51:33.114558Z",
-                "url": "https://files.pythonhosted.org/packages/03/43/277e409a0c61e7151a4565cbc97d20ee8963185d4996964dfc26359b9224/OASYS1-WONDER-1.0.30.tar.gz"
+                "size": 1427302,
+                "upload_time": "2020-02-27T20:23:03",
+                "upload_time_iso_8601": "2020-02-27T20:23:03.289003Z",
+                "url": "https://files.pythonhosted.org/packages/7c/e5/0ef6064a6a0ee3acc7e52110d45d4bef2ee8de59a5e45e606699bc80c9e7/OASYS1-WONDER-1.0.31.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "b740733ad3a450917a8f7fcefc68ec3a",
-                    "sha256": "ece6bb0544138494106169d34c52e66dd53755ce5b53c3a6a361a8c9887f7a0b"
+                    "md5": "22812c7c47dbb6c3f05bfff0287324e0",
+                    "sha256": "8e55962eab6277b73a47f680dd00d882d9a729c5279812fe5973e136b84fc0d9"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.30.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.31.tar.gz",
                 "has_sig": false,
-                "md5_digest": "b740733ad3a450917a8f7fcefc68ec3a",
+                "md5_digest": "22812c7c47dbb6c3f05bfff0287324e0",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1427539,
-                "upload_time": "2020-02-25T19:51:33",
-                "upload_time_iso_8601": "2020-02-25T19:51:33.114558Z",
-                "url": "https://files.pythonhosted.org/packages/03/43/277e409a0c61e7151a4565cbc97d20ee8963185d4996964dfc26359b9224/OASYS1-WONDER-1.0.30.tar.gz"
+                "size": 1427302,
+                "upload_time": "2020-02-27T20:23:03",
+                "upload_time_iso_8601": "2020-02-27T20:23:03.289003Z",
+                "url": "https://files.pythonhosted.org/packages/7c/e5/0ef6064a6a0ee3acc7e52110d45d4bef2ee8de59a5e45e606699bc80c9e7/OASYS1-WONDER-1.0.31.tar.gz"
             }
         ]
     }
