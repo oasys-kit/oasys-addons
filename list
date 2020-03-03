@@ -499,8 +499,8 @@
     },
     {
         "info": {
-            "author": "Luca Rebuffi, Paolo Scardi, Alberto Flor",
-            "author_email": "paolo.scardi@unitn.ut",
+            "author": "Luca Rebuffi, Paolo Scardi",
+            "author_email": "lrebuffi@anl.gov, paolo.scardi@unitn.it",
             "bugtrack_url": null,
             "classifiers": [
                 "Development Status :: 1 - Planning",
@@ -530,51 +530,51 @@
             "project_urls": {
                 "Homepage": "https://github.com/WONDER-project/OASYS1-WONDER"
             },
-            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.37/",
+            "release_url": "https://pypi.org/project/OASYS1-WONDER/1.0.38/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Whole POwder PatterN MoDEl in OASYS.",
-            "version": "1.0.37"
+            "version": "1.0.38"
         },
-        "last_serial": 6737292,
+        "last_serial": 6742604,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "f496b8927dc7f74a75ac13381ee1d2f0",
-                    "sha256": "29e4182287add2ca1e908bb83905edd415f61eb0ffb360a57cb4fe64eafe7e25"
+                    "md5": "1279eebd7bc2c6c26f3a35dc5163da32",
+                    "sha256": "cc83df8e8602a2fdad70d5835867cf6294b74ce410c48b2946013ce5901f7adc"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.37.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.38.tar.gz",
                 "has_sig": false,
-                "md5_digest": "f496b8927dc7f74a75ac13381ee1d2f0",
+                "md5_digest": "1279eebd7bc2c6c26f3a35dc5163da32",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1428051,
-                "upload_time": "2020-03-02T23:58:52",
-                "upload_time_iso_8601": "2020-03-02T23:58:52.946945Z",
-                "url": "https://files.pythonhosted.org/packages/8a/ce/d0957eec3cf8ef780c44d44273c57812ce228addc39d8a1d0159c01108c6/OASYS1-WONDER-1.0.37.tar.gz"
+                "size": 1428913,
+                "upload_time": "2020-03-03T18:32:06",
+                "upload_time_iso_8601": "2020-03-03T18:32:06.483861Z",
+                "url": "https://files.pythonhosted.org/packages/a5/e0/97ee755ae65700cd55d2fafacb3f4ec8c55539d990742f1b9dad13885720/OASYS1-WONDER-1.0.38.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "f496b8927dc7f74a75ac13381ee1d2f0",
-                    "sha256": "29e4182287add2ca1e908bb83905edd415f61eb0ffb360a57cb4fe64eafe7e25"
+                    "md5": "1279eebd7bc2c6c26f3a35dc5163da32",
+                    "sha256": "cc83df8e8602a2fdad70d5835867cf6294b74ce410c48b2946013ce5901f7adc"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WONDER-1.0.37.tar.gz",
+                "filename": "OASYS1-WONDER-1.0.38.tar.gz",
                 "has_sig": false,
-                "md5_digest": "f496b8927dc7f74a75ac13381ee1d2f0",
+                "md5_digest": "1279eebd7bc2c6c26f3a35dc5163da32",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1428051,
-                "upload_time": "2020-03-02T23:58:52",
-                "upload_time_iso_8601": "2020-03-02T23:58:52.946945Z",
-                "url": "https://files.pythonhosted.org/packages/8a/ce/d0957eec3cf8ef780c44d44273c57812ce228addc39d8a1d0159c01108c6/OASYS1-WONDER-1.0.37.tar.gz"
+                "size": 1428913,
+                "upload_time": "2020-03-03T18:32:06",
+                "upload_time_iso_8601": "2020-03-03T18:32:06.483861Z",
+                "url": "https://files.pythonhosted.org/packages/a5/e0/97ee755ae65700cd55d2fafacb3f4ec8c55539d990742f1b9dad13885720/OASYS1-WONDER-1.0.38.tar.gz"
             }
         ]
     }
