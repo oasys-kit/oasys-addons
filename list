@@ -34,51 +34,51 @@
                 "Download": "http://github.com/oasys-kit/ShadowOui",
                 "Homepage": "http://github.com/oasys-kit/ShadowOui"
             },
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.42/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui/1.5.44/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Shadow, Ray-tracing simulation software",
-            "version": "1.5.42"
+            "version": "1.5.44"
         },
-        "last_serial": 6844284,
+        "last_serial": 6924068,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "6553ee4a07990cb9051f3dc3f045a1cb",
-                    "sha256": "66c560654ae30cd582e7bca9351777e396b725b0ad56245f42d5c5fa60ed860a"
+                    "md5": "9e6e36d96fbe4e8217d564fc7a8fb8a2",
+                    "sha256": "8aa7d5c67edd82d49b12a5309d8cf7757f65a8e9b68f7934ddc5a4b572da794c"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.5.42.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.5.44.tar.gz",
                 "has_sig": false,
-                "md5_digest": "6553ee4a07990cb9051f3dc3f045a1cb",
+                "md5_digest": "9e6e36d96fbe4e8217d564fc7a8fb8a2",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 3479077,
-                "upload_time": "2020-03-19T16:38:48",
-                "upload_time_iso_8601": "2020-03-19T16:38:48.254781Z",
-                "url": "https://files.pythonhosted.org/packages/0b/41/d37cbee39d315c5a3586dbebbb07a679827ec571921f107bbca9ef4c6bbb/OASYS1-ShadowOui-1.5.42.tar.gz"
+                "size": 3479318,
+                "upload_time": "2020-03-31T22:58:53",
+                "upload_time_iso_8601": "2020-03-31T22:58:53.496784Z",
+                "url": "https://files.pythonhosted.org/packages/8b/05/6e8b4431cf90eeef4bd99e83e3361aae8fc9acfb8d071cc9aa84b84a2153/OASYS1-ShadowOui-1.5.44.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "6553ee4a07990cb9051f3dc3f045a1cb",
-                    "sha256": "66c560654ae30cd582e7bca9351777e396b725b0ad56245f42d5c5fa60ed860a"
+                    "md5": "9e6e36d96fbe4e8217d564fc7a8fb8a2",
+                    "sha256": "8aa7d5c67edd82d49b12a5309d8cf7757f65a8e9b68f7934ddc5a4b572da794c"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-1.5.42.tar.gz",
+                "filename": "OASYS1-ShadowOui-1.5.44.tar.gz",
                 "has_sig": false,
-                "md5_digest": "6553ee4a07990cb9051f3dc3f045a1cb",
+                "md5_digest": "9e6e36d96fbe4e8217d564fc7a8fb8a2",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 3479077,
-                "upload_time": "2020-03-19T16:38:48",
-                "upload_time_iso_8601": "2020-03-19T16:38:48.254781Z",
-                "url": "https://files.pythonhosted.org/packages/0b/41/d37cbee39d315c5a3586dbebbb07a679827ec571921f107bbca9ef4c6bbb/OASYS1-ShadowOui-1.5.42.tar.gz"
+                "size": 3479318,
+                "upload_time": "2020-03-31T22:58:53",
+                "upload_time_iso_8601": "2020-03-31T22:58:53.496784Z",
+                "url": "https://files.pythonhosted.org/packages/8b/05/6e8b4431cf90eeef4bd99e83e3361aae8fc9acfb8d071cc9aa84b84a2153/OASYS1-ShadowOui-1.5.44.tar.gz"
             }
         ]
     },
@@ -200,51 +200,51 @@
                 "Download": "https://github.com/oasys-kit/XOPPY",
                 "Homepage": "https://github.com/oasys-kit/XOPPY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.66/",
+            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.67/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
-            "version": "1.0.66"
+            "version": "1.0.67"
         },
-        "last_serial": 6831941,
+        "last_serial": 6846833,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "4ba2b6cc077a446a9310ee96b1e7c0e3",
-                    "sha256": "2b7d847ebf5182a41297be026a86945d8942c432375372842c61fa78597ed0e7"
+                    "md5": "6cb20c35a53ae6f97339104f765ae827",
+                    "sha256": "26cecf66458ee0e04602a08340e9df0d100665c0f11ab4bf170614ca8f80b043"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.66.tar.gz",
+                "filename": "OASYS1-XOPPY-1.0.67.tar.gz",
                 "has_sig": false,
-                "md5_digest": "4ba2b6cc077a446a9310ee96b1e7c0e3",
+                "md5_digest": "6cb20c35a53ae6f97339104f765ae827",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 14632880,
-                "upload_time": "2020-03-17T22:31:59",
-                "upload_time_iso_8601": "2020-03-17T22:31:59.930502Z",
-                "url": "https://files.pythonhosted.org/packages/43/be/b4cc995ed229f4bc864cbdae17eff74b0f45a816925e902a8e7b277730a3/OASYS1-XOPPY-1.0.66.tar.gz"
+                "size": 14627654,
+                "upload_time": "2020-03-20T00:21:26",
+                "upload_time_iso_8601": "2020-03-20T00:21:26.876599Z",
+                "url": "https://files.pythonhosted.org/packages/7e/98/80723de4150889ea6fd8052c552a7ef2be9a0389256c866a2b9751941768/OASYS1-XOPPY-1.0.67.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "4ba2b6cc077a446a9310ee96b1e7c0e3",
-                    "sha256": "2b7d847ebf5182a41297be026a86945d8942c432375372842c61fa78597ed0e7"
+                    "md5": "6cb20c35a53ae6f97339104f765ae827",
+                    "sha256": "26cecf66458ee0e04602a08340e9df0d100665c0f11ab4bf170614ca8f80b043"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.66.tar.gz",
+                "filename": "OASYS1-XOPPY-1.0.67.tar.gz",
                 "has_sig": false,
-                "md5_digest": "4ba2b6cc077a446a9310ee96b1e7c0e3",
+                "md5_digest": "6cb20c35a53ae6f97339104f765ae827",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 14632880,
-                "upload_time": "2020-03-17T22:31:59",
-                "upload_time_iso_8601": "2020-03-17T22:31:59.930502Z",
-                "url": "https://files.pythonhosted.org/packages/43/be/b4cc995ed229f4bc864cbdae17eff74b0f45a816925e902a8e7b277730a3/OASYS1-XOPPY-1.0.66.tar.gz"
+                "size": 14627654,
+                "upload_time": "2020-03-20T00:21:26",
+                "upload_time_iso_8601": "2020-03-20T00:21:26.876599Z",
+                "url": "https://files.pythonhosted.org/packages/7e/98/80723de4150889ea6fd8052c552a7ef2be9a0389256c866a2b9751941768/OASYS1-XOPPY-1.0.67.tar.gz"
             }
         ]
     },
