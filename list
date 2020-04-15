@@ -449,51 +449,51 @@
                 "Download": "https://github.com/oasys-kit/OASYS-WOFRY",
                 "Homepage": "https://github.com/oasys-kit/OASYS-WOFRY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-WOFRY/1.0.11/",
+            "release_url": "https://pypi.org/project/OASYS1-WOFRY/1.0.12/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "WOFRY (Wave Optics FRamework in pYthon)",
-            "version": "1.0.11"
+            "version": "1.0.12"
         },
-        "last_serial": 6434113,
+        "last_serial": 7021231,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "282d7abdefd6bfef9f56867983a043af",
-                    "sha256": "0293f006133442d0eb13acc140ec4a9459980348f7a90ab255dd365f83b15cd8"
+                    "md5": "32086cd34732f92255c3425eb35ee5ac",
+                    "sha256": "9557fb0268be150c33416383d53ab3ec8820a3379b60db0de2741e05ac696fee"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WOFRY-1.0.11.tar.gz",
+                "filename": "OASYS1-WOFRY-1.0.12.tar.gz",
                 "has_sig": false,
-                "md5_digest": "282d7abdefd6bfef9f56867983a043af",
+                "md5_digest": "32086cd34732f92255c3425eb35ee5ac",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 699601,
-                "upload_time": "2020-01-10T23:31:45",
-                "upload_time_iso_8601": "2020-01-10T23:31:45.350090Z",
-                "url": "https://files.pythonhosted.org/packages/7b/d8/c570a571199433f94488efef9558cee748f4f8740c4249427ee4603ae816/OASYS1-WOFRY-1.0.11.tar.gz"
+                "size": 698053,
+                "upload_time": "2020-04-15T00:45:10",
+                "upload_time_iso_8601": "2020-04-15T00:45:10.554846Z",
+                "url": "https://files.pythonhosted.org/packages/b2/6c/0de832d844424ddd0e90c277ffcca9ae0ad8169fcc2c27f3f23feb176ab3/OASYS1-WOFRY-1.0.12.tar.gz"
             }
         ],
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "282d7abdefd6bfef9f56867983a043af",
-                    "sha256": "0293f006133442d0eb13acc140ec4a9459980348f7a90ab255dd365f83b15cd8"
+                    "md5": "32086cd34732f92255c3425eb35ee5ac",
+                    "sha256": "9557fb0268be150c33416383d53ab3ec8820a3379b60db0de2741e05ac696fee"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-WOFRY-1.0.11.tar.gz",
+                "filename": "OASYS1-WOFRY-1.0.12.tar.gz",
                 "has_sig": false,
-                "md5_digest": "282d7abdefd6bfef9f56867983a043af",
+                "md5_digest": "32086cd34732f92255c3425eb35ee5ac",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 699601,
-                "upload_time": "2020-01-10T23:31:45",
-                "upload_time_iso_8601": "2020-01-10T23:31:45.350090Z",
-                "url": "https://files.pythonhosted.org/packages/7b/d8/c570a571199433f94488efef9558cee748f4f8740c4249427ee4603ae816/OASYS1-WOFRY-1.0.11.tar.gz"
+                "size": 698053,
+                "upload_time": "2020-04-15T00:45:10",
+                "upload_time_iso_8601": "2020-04-15T00:45:10.554846Z",
+                "url": "https://files.pythonhosted.org/packages/b2/6c/0de832d844424ddd0e90c277ffcca9ae0ad8169fcc2c27f3f23feb176ab3/OASYS1-WOFRY-1.0.12.tar.gz"
             }
         ]
     },
