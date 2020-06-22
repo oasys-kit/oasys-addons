@@ -212,33 +212,33 @@
                 "Download": "https://github.com/lucarebuffi/OASYS-SRW",
                 "Homepage": "https://github.com/lucarebuffi/OASYS-SRW"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SRW/1.1.53/",
+            "release_url": "https://pypi.org/project/OASYS1-SRW/1.1.54/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SRW in OASYS",
-            "version": "1.1.53",
+            "version": "1.1.54",
             "yanked": false,
             "yanked_reason": null
         },
-        "last_serial": 7489923,
+        "last_serial": 7535824,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "2e7683cbb687723e77fcc720847a6dec",
-                    "sha256": "174eb6bf10a48eb35b812a1d7cff24b0cb504a516f8224f1cf6c5b3874da11d0"
+                    "md5": "131a406f75fd445c9ce56e5f669505f8",
+                    "sha256": "1edb7d698383de8e666eddb3162663f61500b15d99fcd0d2d9187c21046a662d"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SRW-1.1.53.tar.gz",
+                "filename": "OASYS1-SRW-1.1.54.tar.gz",
                 "has_sig": false,
-                "md5_digest": "2e7683cbb687723e77fcc720847a6dec",
+                "md5_digest": "131a406f75fd445c9ce56e5f669505f8",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 2732370,
-                "upload_time": "2020-06-16T17:26:39",
-                "upload_time_iso_8601": "2020-06-16T17:26:39.668195Z",
-                "url": "https://files.pythonhosted.org/packages/8e/6a/cacd87c455f89de3db3bca878830b3da7922fac7a66196f416fe753ea121/OASYS1-SRW-1.1.53.tar.gz",
+                "size": 2732520,
+                "upload_time": "2020-06-22T17:14:32",
+                "upload_time_iso_8601": "2020-06-22T17:14:32.195121Z",
+                "url": "https://files.pythonhosted.org/packages/2c/f3/09ed7e78bc8de1979dc9d747c42213df6bf4404480bfa483f0b9b922eca0/OASYS1-SRW-1.1.54.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
@@ -247,20 +247,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "2e7683cbb687723e77fcc720847a6dec",
-                    "sha256": "174eb6bf10a48eb35b812a1d7cff24b0cb504a516f8224f1cf6c5b3874da11d0"
+                    "md5": "131a406f75fd445c9ce56e5f669505f8",
+                    "sha256": "1edb7d698383de8e666eddb3162663f61500b15d99fcd0d2d9187c21046a662d"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SRW-1.1.53.tar.gz",
+                "filename": "OASYS1-SRW-1.1.54.tar.gz",
                 "has_sig": false,
-                "md5_digest": "2e7683cbb687723e77fcc720847a6dec",
+                "md5_digest": "131a406f75fd445c9ce56e5f669505f8",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 2732370,
-                "upload_time": "2020-06-16T17:26:39",
-                "upload_time_iso_8601": "2020-06-16T17:26:39.668195Z",
-                "url": "https://files.pythonhosted.org/packages/8e/6a/cacd87c455f89de3db3bca878830b3da7922fac7a66196f416fe753ea121/OASYS1-SRW-1.1.53.tar.gz",
+                "size": 2732520,
+                "upload_time": "2020-06-22T17:14:32",
+                "upload_time_iso_8601": "2020-06-22T17:14:32.195121Z",
+                "url": "https://files.pythonhosted.org/packages/2c/f3/09ed7e78bc8de1979dc9d747c42213df6bf4404480bfa483f0b9b922eca0/OASYS1-SRW-1.1.54.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
