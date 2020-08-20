@@ -479,33 +479,33 @@
                 "Download": "https://github.com/oasys-kit/OASYS-SYNED",
                 "Homepage": "https://github.com/oasys-kit/OASYS-SYNED"
             },
-            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.29/",
+            "release_url": "https://pypi.org/project/OASYS1-SYNED/1.0.30/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "SYNED SYNchrotron Elements Dictionary",
-            "version": "1.0.29",
+            "version": "1.0.30",
             "yanked": false,
             "yanked_reason": null
         },
-        "last_serial": 7449159,
+        "last_serial": 8007994,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "a568abe1b4a0ad67d9f6863e3d6d00d4",
-                    "sha256": "2d7ce461abe1fd1b0af7d2dab08973856df5a42ac63cae63d27df8b0986a2012"
+                    "md5": "779d8636febc2be30ca849fc31264f2b",
+                    "sha256": "e40e333fdc26012e1923bd8a77e1323c49a13cc5d1708d779254c296c9b76476"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SYNED-1.0.29.tar.gz",
+                "filename": "OASYS1-SYNED-1.0.30.tar.gz",
                 "has_sig": false,
-                "md5_digest": "a568abe1b4a0ad67d9f6863e3d6d00d4",
+                "md5_digest": "779d8636febc2be30ca849fc31264f2b",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1312102,
-                "upload_time": "2020-06-11T02:24:06",
-                "upload_time_iso_8601": "2020-06-11T02:24:06.751870Z",
-                "url": "https://files.pythonhosted.org/packages/03/47/e659188e27ffccc374280f8afc88e896f66b546c04e0569905d5955bcf1a/OASYS1-SYNED-1.0.29.tar.gz",
+                "size": 1312127,
+                "upload_time": "2020-08-20T20:48:09",
+                "upload_time_iso_8601": "2020-08-20T20:48:09.566766Z",
+                "url": "https://files.pythonhosted.org/packages/3d/8b/60530a715747d82452796c0ccc6e05e3870ca179b3f24ba5eeabd8ef2cf6/OASYS1-SYNED-1.0.30.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
@@ -514,20 +514,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "a568abe1b4a0ad67d9f6863e3d6d00d4",
-                    "sha256": "2d7ce461abe1fd1b0af7d2dab08973856df5a42ac63cae63d27df8b0986a2012"
+                    "md5": "779d8636febc2be30ca849fc31264f2b",
+                    "sha256": "e40e333fdc26012e1923bd8a77e1323c49a13cc5d1708d779254c296c9b76476"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-SYNED-1.0.29.tar.gz",
+                "filename": "OASYS1-SYNED-1.0.30.tar.gz",
                 "has_sig": false,
-                "md5_digest": "a568abe1b4a0ad67d9f6863e3d6d00d4",
+                "md5_digest": "779d8636febc2be30ca849fc31264f2b",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 1312102,
-                "upload_time": "2020-06-11T02:24:06",
-                "upload_time_iso_8601": "2020-06-11T02:24:06.751870Z",
-                "url": "https://files.pythonhosted.org/packages/03/47/e659188e27ffccc374280f8afc88e896f66b546c04e0569905d5955bcf1a/OASYS1-SYNED-1.0.29.tar.gz",
+                "size": 1312127,
+                "upload_time": "2020-08-20T20:48:09",
+                "upload_time_iso_8601": "2020-08-20T20:48:09.566766Z",
+                "url": "https://files.pythonhosted.org/packages/3d/8b/60530a715747d82452796c0ccc6e05e3870ca179b3f24ba5eeabd8ef2cf6/OASYS1-SYNED-1.0.30.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
