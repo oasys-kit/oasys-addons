@@ -301,33 +301,33 @@
                 "Download": "https://github.com/oasys-kit/XOPPY",
                 "Homepage": "https://github.com/oasys-kit/XOPPY"
             },
-            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.90/",
+            "release_url": "https://pypi.org/project/OASYS1-XOPPY/1.0.91/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
-            "version": "1.0.90",
+            "version": "1.0.91",
             "yanked": false,
             "yanked_reason": null
         },
-        "last_serial": 8026386,
+        "last_serial": 8074894,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "e1d559c5b30e29d329e7f5faa966df03",
-                    "sha256": "59243bd2bfb06258b2e15e24802d8a9c9baa205a47eb2f1aa832289ac950142f"
+                    "md5": "9c2c1d1683567b842b7ac9f8e5edf3f7",
+                    "sha256": "dbcd497464f8b8a2c387ff07d694f373f904f1d71d13a11bb370909c25dc5fae"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.90.tar.gz",
+                "filename": "OASYS1-XOPPY-1.0.91.tar.gz",
                 "has_sig": false,
-                "md5_digest": "e1d559c5b30e29d329e7f5faa966df03",
+                "md5_digest": "9c2c1d1683567b842b7ac9f8e5edf3f7",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 15852228,
-                "upload_time": "2020-08-24T10:09:23",
-                "upload_time_iso_8601": "2020-08-24T10:09:23.666781Z",
-                "url": "https://files.pythonhosted.org/packages/3a/16/09d66fd8eb5fa3e77d460d02374e64ba215511176d6f2537e135726b9cc6/OASYS1-XOPPY-1.0.90.tar.gz",
+                "size": 15847528,
+                "upload_time": "2020-08-31T07:43:33",
+                "upload_time_iso_8601": "2020-08-31T07:43:33.941254Z",
+                "url": "https://files.pythonhosted.org/packages/76/bd/07e9019adf68b1843fc134021cd478e6b8bdf85778b33700d5d628d85f56/OASYS1-XOPPY-1.0.91.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
@@ -336,20 +336,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "e1d559c5b30e29d329e7f5faa966df03",
-                    "sha256": "59243bd2bfb06258b2e15e24802d8a9c9baa205a47eb2f1aa832289ac950142f"
+                    "md5": "9c2c1d1683567b842b7ac9f8e5edf3f7",
+                    "sha256": "dbcd497464f8b8a2c387ff07d694f373f904f1d71d13a11bb370909c25dc5fae"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-XOPPY-1.0.90.tar.gz",
+                "filename": "OASYS1-XOPPY-1.0.91.tar.gz",
                 "has_sig": false,
-                "md5_digest": "e1d559c5b30e29d329e7f5faa966df03",
+                "md5_digest": "9c2c1d1683567b842b7ac9f8e5edf3f7",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 15852228,
-                "upload_time": "2020-08-24T10:09:23",
-                "upload_time_iso_8601": "2020-08-24T10:09:23.666781Z",
-                "url": "https://files.pythonhosted.org/packages/3a/16/09d66fd8eb5fa3e77d460d02374e64ba215511176d6f2537e135726b9cc6/OASYS1-XOPPY-1.0.90.tar.gz",
+                "size": 15847528,
+                "upload_time": "2020-08-31T07:43:33",
+                "upload_time_iso_8601": "2020-08-31T07:43:33.941254Z",
+                "url": "https://files.pythonhosted.org/packages/76/bd/07e9019adf68b1843fc134021cd478e6b8bdf85778b33700d5d628d85f56/OASYS1-XOPPY-1.0.91.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
