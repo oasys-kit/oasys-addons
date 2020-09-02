@@ -744,33 +744,33 @@
                 "Download": "https://github.com/oasys-elettra-kit/OasysWiser",
                 "Homepage": "https://github.com/oasys-elettra-kit/OasysWiser"
             },
-            "release_url": "https://pypi.org/project/OASYS1-OasysWiser/0.0.17/",
+            "release_url": "https://pypi.org/project/OASYS1-OasysWiser/0.0.20/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "Wiser in Python",
-            "version": "0.0.17",
+            "version": "0.0.20",
             "yanked": false,
             "yanked_reason": null
         },
-        "last_serial": 8076255,
+        "last_serial": 8093523,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "ff4335c0ccc809785564e24801bb713e",
-                    "sha256": "8f53d59be5a4f0683ed52e5b92097c889b872b8a2100b09d1a0c8173a480dc98"
+                    "md5": "d2d7560267c614f24f6176be81bc1144",
+                    "sha256": "0bf2b7954fcab428b89db465afd36eacec1a0d8a39abcbf8dc3f2002f24684e2"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-OasysWiser-0.0.17.tar.gz",
+                "filename": "OASYS1-OasysWiser-0.0.20.tar.gz",
                 "has_sig": false,
-                "md5_digest": "ff4335c0ccc809785564e24801bb713e",
+                "md5_digest": "d2d7560267c614f24f6176be81bc1144",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 542573,
-                "upload_time": "2020-08-31T12:27:39",
-                "upload_time_iso_8601": "2020-08-31T12:27:39.266963Z",
-                "url": "https://files.pythonhosted.org/packages/f9/66/6905ec4391edb5e497b74d34f611d226479a84a8c726d64a5eddcf37487f/OASYS1-OasysWiser-0.0.17.tar.gz",
+                "size": 542575,
+                "upload_time": "2020-09-02T11:48:59",
+                "upload_time_iso_8601": "2020-09-02T11:48:59.952866Z",
+                "url": "https://files.pythonhosted.org/packages/f6/27/2c06b52a738d7f4ae72a21d8228194decd368647d4f621d2f5a80722e0f0/OASYS1-OasysWiser-0.0.20.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
@@ -779,20 +779,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "ff4335c0ccc809785564e24801bb713e",
-                    "sha256": "8f53d59be5a4f0683ed52e5b92097c889b872b8a2100b09d1a0c8173a480dc98"
+                    "md5": "d2d7560267c614f24f6176be81bc1144",
+                    "sha256": "0bf2b7954fcab428b89db465afd36eacec1a0d8a39abcbf8dc3f2002f24684e2"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-OasysWiser-0.0.17.tar.gz",
+                "filename": "OASYS1-OasysWiser-0.0.20.tar.gz",
                 "has_sig": false,
-                "md5_digest": "ff4335c0ccc809785564e24801bb713e",
+                "md5_digest": "d2d7560267c614f24f6176be81bc1144",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 542573,
-                "upload_time": "2020-08-31T12:27:39",
-                "upload_time_iso_8601": "2020-08-31T12:27:39.266963Z",
-                "url": "https://files.pythonhosted.org/packages/f9/66/6905ec4391edb5e497b74d34f611d226479a84a8c726d64a5eddcf37487f/OASYS1-OasysWiser-0.0.17.tar.gz",
+                "size": 542575,
+                "upload_time": "2020-09-02T11:48:59",
+                "upload_time_iso_8601": "2020-09-02T11:48:59.952866Z",
+                "url": "https://files.pythonhosted.org/packages/f6/27/2c06b52a738d7f4ae72a21d8228194decd368647d4f621d2f5a80722e0f0/OASYS1-OasysWiser-0.0.20.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
