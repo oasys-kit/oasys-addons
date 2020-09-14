@@ -123,33 +123,33 @@
                 "Download": "https://github.com/oasys-kit/ShadowOui-Advanced-Tools",
                 "Homepage": "https://github.com/oasys-kit/ShadowOui-Advanced-Tools"
             },
-            "release_url": "https://pypi.org/project/OASYS1-ShadowOui-Advanced-Tools/1.0.33/",
+            "release_url": "https://pypi.org/project/OASYS1-ShadowOui-Advanced-Tools/1.0.34/",
             "requires_dist": null,
             "requires_python": "",
             "summary": "ShadowOui advanced simulation tools",
-            "version": "1.0.33",
+            "version": "1.0.34",
             "yanked": false,
             "yanked_reason": null
         },
-        "last_serial": 8165693,
+        "last_serial": 8185704,
         "releases": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "8c015622b1524673271f12bb01f6f707",
-                    "sha256": "0455300299e87e44d5ca88ad87e68a031dcb7c44032928aeb2094b8c41a98c19"
+                    "md5": "0302d70b4e73da5f7081fcf44160fabe",
+                    "sha256": "bccc951cd13f8c541bc2f7dedffaf051207e6b66cd45cfae8e56549f1766fa5d"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-Advanced-Tools-1.0.33.tar.gz",
+                "filename": "OASYS1-ShadowOui-Advanced-Tools-1.0.34.tar.gz",
                 "has_sig": false,
-                "md5_digest": "8c015622b1524673271f12bb01f6f707",
+                "md5_digest": "0302d70b4e73da5f7081fcf44160fabe",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 953592,
-                "upload_time": "2020-09-11T15:52:52",
-                "upload_time_iso_8601": "2020-09-11T15:52:52.790780Z",
-                "url": "https://files.pythonhosted.org/packages/18/ee/69c6b80c93cb611cf7e0391c37138c0c30686bbf61b2f74aba751c48ce06/OASYS1-ShadowOui-Advanced-Tools-1.0.33.tar.gz",
+                "size": 953685,
+                "upload_time": "2020-09-14T22:45:57",
+                "upload_time_iso_8601": "2020-09-14T22:45:57.576123Z",
+                "url": "https://files.pythonhosted.org/packages/97/db/c387265abda30e6a54de9bcc205d9edc2b51d9ad9d59c84f8854bbfc29a6/OASYS1-ShadowOui-Advanced-Tools-1.0.34.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
@@ -158,20 +158,20 @@
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "8c015622b1524673271f12bb01f6f707",
-                    "sha256": "0455300299e87e44d5ca88ad87e68a031dcb7c44032928aeb2094b8c41a98c19"
+                    "md5": "0302d70b4e73da5f7081fcf44160fabe",
+                    "sha256": "bccc951cd13f8c541bc2f7dedffaf051207e6b66cd45cfae8e56549f1766fa5d"
                 },
                 "downloads": -1,
-                "filename": "OASYS1-ShadowOui-Advanced-Tools-1.0.33.tar.gz",
+                "filename": "OASYS1-ShadowOui-Advanced-Tools-1.0.34.tar.gz",
                 "has_sig": false,
-                "md5_digest": "8c015622b1524673271f12bb01f6f707",
+                "md5_digest": "0302d70b4e73da5f7081fcf44160fabe",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 953592,
-                "upload_time": "2020-09-11T15:52:52",
-                "upload_time_iso_8601": "2020-09-11T15:52:52.790780Z",
-                "url": "https://files.pythonhosted.org/packages/18/ee/69c6b80c93cb611cf7e0391c37138c0c30686bbf61b2f74aba751c48ce06/OASYS1-ShadowOui-Advanced-Tools-1.0.33.tar.gz",
+                "size": 953685,
+                "upload_time": "2020-09-14T22:45:57",
+                "upload_time_iso_8601": "2020-09-14T22:45:57.576123Z",
+                "url": "https://files.pythonhosted.org/packages/97/db/c387265abda30e6a54de9bcc205d9edc2b51d9ad9d59c84f8854bbfc29a6/OASYS1-ShadowOui-Advanced-Tools-1.0.34.tar.gz",
                 "yanked": false,
                 "yanked_reason": null
             }
